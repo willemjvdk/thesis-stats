@@ -1,0 +1,8 @@
+# references/Nijmegen_outpatient_baseline.csv,,,,
+variable,n,mean,sd,note
+age_years,168,"65,5","9,1",from Peters 2009 outpatient subgroup
+female_pct,168,"22,0","0,0",
+fev1_pct_predicted,168,"51,6","13,6",
+bmi_kg_m2,168,"25,6","4,1",
+partner_yes_pct,168,"84,0",,bonus PROGRESS-Plus
+education_high_pct,168,"18,4",,bonus PROGRESS-Plus

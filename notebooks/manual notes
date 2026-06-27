@@ -1,0 +1,100 @@
+Also how does dlit parse the arm vs paper difference?
+
+First, use the python JSON helper for editing the notebooks to prevent the fragility thing from breaking the notebooks.
+Check if all variables and imports are used. Check that all lines of code are used. Check if the outputs are as expected. Report back if it doesn't.
+Notebook 00 -> refers to four notebooks instead of five. See if this pattern repeats and fix everywhere. Also explain what other code is shared between all notebooks.
+Section 0: Explain what the hash does and how it can be used. Also explain how to change the project root if someone clones the repo and wants to run it on their machine.
+Section 1: explain that 1 paper is excluded later in the pipeline. State the correct amount of arms.
+Section 2: Not required. Can be removed alltogether
+Section 3: The labels are repeated, this is not required. Also, note that diagnosis is recoded to COPD and COPD_other or whatever terminology is used later. Explain this is an arm level check.
+Section 4: remove the lists of keys. Keep the rest the same. Then list the unique keys per category separately below.
+Section 5: good, don't change.
+Section 6: there's a stray cell here about the exclusion here. Should probably be at section 7
+Section 7: Check the logic for the healthcare setting at the arm vs healthcare setting at the paper. How does it work? Don't change, just say how it works and ask if it needs to be changed. Suggestions are welcome. Also report mean trial N and mean/median arm N.
+Section 8: Good, don't change
+Section 9: time_* are integers, not floats. Also, where are the digital_literacy_* fields? Explain how the modal healthcare setting works in the header.
+Section 10: 64 papers (1 excluded = 5108)
+
+---
+
+First, use the python JSON helper for editing the notebooks to prevent the fragility thing from breaking the notebooks.
+Check if all variables and imports are used. Check that all lines of code are used. Check if the outputs are as expected. Report back if it doesn't.
+Ask questions if things are unclear or inconsistent.
+
+Notebook 01
+Section 0: same re-ordering of project modules. It's probably time to rebuild the paths to make it uniform with the other source scripts and data. Let's make a plan to implement that. For the markdown header: explain the mapping file and how it could be modified by the end-user.
+Section 1:  Throw an error if Run A and Run B do note have the same values, arms or papers.
+Section 2: Why are 69 fields mapped but 61 analyzed? This markdown header requires an explaination of what this cell does.
+Section 3: Also add secondary_metric to the table. This markdown header requires an explaination of what this cell does.
+Section 4: This can be appended onto section 3. Add to the section 3 markdown header that it also saves the table. Remove the cell after appending, make sure to re-number the following sections.
+Section 5: This is kind of an ad-hoc addition because I needed it for a certain table. I don't recall what it does and where it feeds into, can you figure that out? Report back on this.
+Section 6: summary can be removed alltogether, it's just useless fluff.
+
+---
+
+First, use the python JSON helper for editing the notebooks to prevent the fragility thing from breaking the notebooks.
+Check if all variables and imports are used. Check that all lines of code are used. Check if the outputs are as expected. Report back if it doesn't.
+Ask questions if things are unclear or inconsistent.
+Notebook 02
+Section 0: same re-ordering of project modules. Path's are probably rebuilt by now. Check if everything will be found. Also, it should be 64 papers instead of 65 right, because one paper was excluded?
+Tier 1:  Markdown: put field_validation_mapping.csv in quotes (like B_triangulation). Update the Group A and B fields in the markdown. Silently makes 64 from 65 papers. See section 0. Either gotta write this down or change the logic so it works consistency, this would raise questions. Also, later it is stated adjudication uses 13 A_reference fields. I think you need to do a thorough analysis of this cell and figure out what is actually happening and what is supposed to happen.
+Tier 2: comments should be a bit more verbose. What do sections of code do, what variables are used, etc. Make sure a novice could follow the logic of the code. Also... Uhhh why does tier 1 say 15 fields analyzed? There are 17 eligible fields. And just to make sure, it does check ALL the arms right. Also. Shouldn't the one NA papers be included in tier 2 rather than being in notebook 01?
+Tier 3: Seems good.
+
+
+---
+
+Check if all variables and imports are used. Check that all lines of code are used. Check if the outputs are as expected. Report back if it doesn't.
+Ask questions if things are unclear or inconsistent.
+Notebook 03
+Section 0: same re-ordering of project modules.
+Section 1: Prints: No per_paper_one_na.csv found — skipping ambiguous classification, why?
+Section 2.1: Also print mean and SD.
+Section 2.2: markdown header should explain that the code checks if countries are within same continent if multiple countries reported, multi-continent otherwise. Code and output should follow the same order (continent first, then country)
+Section 2.3: Good
+Section 2.4: Good, remove the superfluos blank lines in the code cell.
+Section 2.5: Good
+Section 3.1:
+Section 3.2: Split into separate 3.2 and 3.3, Header text should go to the garbage bin (see appendix a/b/c)
+Section 3.3: Split into separate 3.2 and 3.3, Header text should go to the garbage bin (see appendix a/b/c)
+Section 3.4: Why are there two code blocks? Also, remove the individual trials (jittered) text from the subplits. Replace Individual trial with Individual trials (jittered). Add (mean) to ECLIPSE, Adephi DSP, Nijmegen CSI outpatient, Nijmegen CSI rehabilitation (remove parenthesis from both Nijmegen CSI (outpatient/rehabilitation) )
+Section 4.1: Two code cells, merge and refactor.
+Section 4.2: Wilson's CI is no longer used in the graphs of thesis, no? Can be removed. Change 4.2-4.3 into 4.2, remove 4.3. Correct counting in following cells.
+Section 4.3: Wilson's CI is no longer used in the graphs of thesis, no? Can be removed. Change 4.2-4.3 into 4.2, remove 4.3. Correct counting in following cells.
+Section 4.4. Still plots bars. Isn't there a separate script that makes the new plot? Similar to 2.4. Snuff this out.
+Section 5.1: feels a bit wierd to do this here, and then compute digital inclusiveness score in the next notebook. Same goes for Section 4.4 actually. I think notebooks 04 and 05 should probably be merged into notebook 3. Let's make a plan for this. How to manage the respective 'section 0: setup's, figuring out duplications, stale data etc. If you need more guidance, ask for it.
+Section 6: Okay.
+Section Appendix A/B/C: Combine and name garbage bin. Add the header text "kill your children", then append the header all old header texts. Remove the superfluous lines in thesis figure mapping.
+
+
+
+---
+
+Check if all variables and imports are used. Check that all lines of code are used. Check if the outputs are as expected. Report back if it doesn't.
+Ask questions if things are unclear or inconsistent.
+Notebook 04
+Section 0: same re-ordering of project modules.
+Section 1:
+Section 2:
+Section 3:
+Section 4:
+Section 5:
+Section 6:
+
+---
+
+For all notebooks: I think variables and functions should always have very explicit names that describe what they are and what they do. Make a list of all variable names and functions used in all notebooks and source files. Show it to me and explain which ones are good and which ones are poor and need adjustment.
+
+Combined notebook
+section 3.4 remove "Individual trials (jittered)" text from each subplot. The note: individual trails (jittered) should be removed. Individual trial should have "s (jittered)" addended in the legend. Nijmegen CSI xxx should have (mean) appended.
+Section 4.1 the last printed line is superfluous, remove it.
+Section 5 both plots are stale and don't have to be shown/saved. Use the separate script for fig4_combined
+Section 7 explain that the table is not extensive/abbreviated. Section 7 doesn't have to show or save figure 6a/6b. Just fig6_combined (already there, keep it)
+Section 9 i don't think we're using the cluster robust SE. can be depreciated (add to the wastebin notebook and remove from the merged notebook) I see it repeated a couple of times, starting to doubt now. Were they in the previous version? If no, where did it come from?
+Section 10 mentions equity score and (0-7) and digital inclusiveness score (0-3). Both scales have changed and the name equity score has been replaced with modified Progress-Plus composite score. Update these and check if the old versions occur elsewhere. (I see at least one in section 11, not sure where that's pulled from)
+Section 13 barely doesn't fit in the alotted span width. Tighten it up so it fits.
+Section 15 reports excluded as indices rather than cov_nr's I think. If that's not it, figure out why it's not cov_nr's.
+Section 17 ah, there's fig 4 combined. Any reason this can't be where it should be? (section 5)
+Section 18 can be scrapped.
+
+All plots that call the function for the x-axis starting at somewhere else than 0 should be corrected. I think we use a custom implementation now. Try one of the built-in functions from the used libraries. Look which options exist and report back.

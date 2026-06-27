@@ -1,0 +1,564 @@
+cov_nr,arm,n,time_total_days,diagnosis,gender_pct_female,age_mean,age_sd,age_se,fev1_pct_mean,fev1_pct_sd,age_other,healthcare_setting,health_literacy,digital_literacy,ses,educational_level,ethnicity
+0157,control,10,30,COPD,52.0,,,,,,"9% were 33-44 years old, 6% were 45-54 years old, 33% were
+55-64 years old, 19% were 65-74 years old, and 33% were older
+than 75 years",3,,,,,
+0157,treat1,11,30,COPD,52.0,,,,,,"9% were 33-44 years old, 6% were 45-54 years old, 33% were
+55-64 years old, 19% were 65-74 years old, and 33% were older
+than 75 years",3,,,,,
+0464,control,25,180,COPD,72.0,65.88,9.39,,,,,1,,,,,
+0464,treat1,23,180,COPD,57.1,67.22,11.6,,,,,3,,,,,
+0469,control,143,84,COPD,59.4,68.676,9.53,,45.274,18.87,,3,,,"Income <$30,000 n (%)
+55 (33.7)
+Married, n (%)
+102 (60.4)","High school or less, n (%) 67 (40.9)","Hispanic or Latino 1 (0.5)
+Not Hispanic or Latino  181 (96.8)
+Unknown/not reported  5 (2.7) 
+White 180 (96.3)"
+0469,treat1,142,84,COPD,53.7,69.335,9.53,,44.103,19.0,,3,,,"Income <$30,000 n (%)
+50 (30.1)
+Married, n (%) 
+102 (58.6)","High school or less, n (%) 44 (25.7)","Hispanic or Latino 2 (1.1)
+Not Hispanic or Latino 181 (96.3) 
+Unknown/not reported 5 (2.7) 
+White 177 (94.1)"
+0474,control,63,56,COPD,50.0,68.5,9.1,,42.4,15.3,,3,,,"Married, N (%) 
+51 (69)
+","Post-secondary education 
+38 (51)
+",
+0474,treat1,56,56,COPD,53.0,69.4,8.1,,43.3,18.7,,3,,,"Married, N (%) 
+44 (61) ","Post-secondary education
+36 (50) ",
+0498,control,35,120,COPD+,25.0,70.0,9.5,,66.1,16.4,,3,,,,,
+0498,treat1,45,120,COPD+,12.0,71.0,9.0,,66.6,18.6,,3,,,,,
+0558,control,40,365,COPD,34.0,65.9,8.9,,52.1,19.8,,3,,,"Low education level, n (%) 17 (39)
+Currently working, n (%) 10 (23)",,
+0558,treat1,36,365,COPD,42.0,69.3,8.8,,53.0,21.5,,3,,,"Low education level, n (%) 19 (44)
+Currently working, n (%) 6 (14)",,
+0602,control,26,42,COPD,31.0,71.4,8.6,,60.5,20.1,,2,,,,,
+0602,treat1,64,42,COPD,38.0,69.1,7.9,,58.0,23.6,,3,,,,,
+0641,control,27,120,COPD,60.0,69.1,9.85,,30.27,12.59,,3,Medication Adherence Report Scale: 22.30 D 3.76,,"Inclusion criteria were as follows: [...] living alone or with spouse who is also largely housebound, geographic rural location, poor social support [...].",,"Ethnicity, n (%)  
+New Zealand European 16 (52)
+Māori 10 (33)
+Pacific Island 1 (3)
+Other 3 (10)"
+0641,treat1,25,120,COPD,63.0,70.57,10.34,,33.8,13.61,,3,Medication Adherence Report Scale: 21.43 D 4.15,,"Inclusion criteria were as follows: [...] living alone or with spouse who is also largely housebound, geographic rural location, poor social support [...].",,"Ethnicity, n (%)  
+New Zealand European 15 (50)
+Māori 8 (27)
+Pacific Island 4 (13)
+Other 3 (10)"
+0770,control,90,365,COPD,12.0,72.0,9.0,,41.0,15.0,,2,"Knowledge-name and cause of the disease, 58 (65)",,"Annual income <6000 EUR, 16 (24)","Education less than primary, n(%) 20 (22)",
+0770,treat1,65,365,COPD,23.0,70.0,9.0,,43.0,20.0,,3,"Knowledge-name and cause of the disease,  45 (69) ",,"Annual income <6000 EUR, 7 (13)","Education less than primary, n(%) 16 (25)",
+0792,control,17,180,COPD,51.6,72.5,7.4,,32.8,8.5,,2,,,,,
+0792,treat1,18,180,COPD,48.4,67.4,10.2,,36.1,14.1,,3,,,,,
+0825,control,40,49,COPD,36.5,66.1,8.1,,55.0,20.5,,2 or 3 (Patients randomised to standard care started conventional rehabilitation according to the standard care at their referred site which was either hospital or community based.),BCKQ 37.1 SD 12.5,,,,
+0825,treat1,22,49,COPD,25.5,66.4,10.1,,58.7,29.1,,3,BCKQ 33.9 SD 8.6,,,,
+1067,control,49,365,COPD,52.2,67.0,9.0,,63.0,26.0,,2,,,"Metropolitan/rural, n (%) 48/19 (72/28)",,
+1067,treat1,47,365,COPD,60.3,68.0,9.0,,59.0,25.0,,3,,,"Metropolitan/rural, n (%) 48/20 (71/29) ",,
+1080,control,30,84,COPD,35.5,66.4,7.0,,,,,3,"SEAMS: self-efficacy for appropriate medication use scale.
+33.8 SD 4.9",,,,
+1080,treat1,24,84,COPD,62.1,65.9,7.3,,,,,3,"SEAMS: self-efficacy for appropriate medication use scale.
+38.8 SD 5.7",,,,
+1203,control,35,180,COPD,42.9,74.0,,,,,,3,,,"Living alone  37.1% (n = 13)
+Has a carer  57.1% (n = 20)",,
+1203,treat1,36,180,COPD,61.1,71.0,,,,,,3,,,"Living alone (%) 25.0% (n = 9)
+Has a carer (%) 52.8% (n = 19)",,
+1228,control,159,84,COPD,37.0,67.0,8.0,,57.0,21.0,,3,,,,,
+1228,treat1,159,84,COPD,35.0,66.0,8.0,,55.0,20.0,,3,,,,,
+1288,control,48,120,COPD,,68.0,,,,,range(46-89) -> IQR low/high,3,,,,,
+1288,treat1,57,120,COPD,,68.0,,,,,range(45-82) -> IQR low/high,3,,,,,
+1400,control,4744,1825,COPD,51.12,72.87,12.16,,,,,3,,,,,
+1400,treat1,689,1825,COPD,57.18,71.8,9.83,,,,,3,,,,,
+1537,control,55,365,COPD,39.3,69.8,10.6,,50.1,16.9,,3,MARS 22.5 SD 3.8,,,,
+1537,treat1,110,365,COPD,38.2,69.8,9.1,,47.4,15.6,,3,MARS 23.4 SD 2.3,,,,
+1672,control,40,365,COPD,31.2,63.0,6.6,,45.87,17.24,,3,,,,,
+1672,treat1,41,365,COPD,34.8,62.3,8.2,,42.09,14.59,,3,,,,,
+1800,control,67,365,COPD,55.0,68.3,9.0,,33.1,9.4,,3,,,,,
+1800,treat1,67,365,COPD,55.0,68.3,9.0,,33.1,9.4,,3,,,,,
+1952,control,43,300,COPD,58.1,69.5,10.12,,48.4,18.1,,3,"yes, zie studie",,"Living alone 26 (60.5%)
+Married or living with a partner ) 17 (39.5%)","Elementary school 8 (18.6%)
+High school 1 (2.3%)
+Higher education 9 (20.9%)
+Skilled(a) 25 (58.2%)
+Years of education (unadjusted mean, SD)  11.98 (2.24)",
+1952,treat1,47,300,COPD,46.8,70.2,9.06,,46.6,15.6,,3,"yes, zie studie",,"Living alone 19 (40.4%)
+Married or living with a partner 28 (59.6%) 17","Elementary school 17 (36.1%)
+High school 3 (6.4%)
+Higher education 6 (12.8%)
+Skilled(a) 21 (44.7%)
+Years of education (unadjusted mean, SD) 11.09 (2.23)",
+2003,control,67,154,COPD,58.0,68.2,9.4,,33.7,8.4,,3,,,,,
+2003,treat1,67,154,COPD,52.0,68.4,8.7,,32.6,10.3,,3,,,,,
+2125,control,53,180,COPD,28.0,79.0,9.6,,62.0,21.0,,3,,,,,
+2125,treat1,53,180,COPD,19.0,81.4,7.8,,62.0,23.0,,3,,,,,
+2172,control,15,30,COPD,40.0,68.0,6.0,,48.0,18.0,,3,,,,,
+2172,treat1,12,30,COPD,47.0,66.0,7.0,,38.0,17.0,,3,,,,,
+2391,control,28,180,COPD,60.7,,,,,,"< 60 5 R1:(17.9)
+60–70 R1:8 (28.6)
+70–80 R1:9 (32.1)
+> 80 R1:6 (21.4)",2,,,"Spouse [n (%)]
+Living alone 20 (71.4)
+Living with spouse 8 (28.6)",,
+2391,treat1,29,180,COPD,62.1,,,,,,"< 60 5 R2:5 (17.2)
+60–70 R2:8 (27.6)
+70–80 R2:10 (34.5)
+> 80 R2:6 (20.7)",3,,,"Spouse [n (%)]
+Living alone 15 (51.7)
+Living with spouse 14 (48.3)",,
+2430,control,25,270,COPD,26.67,69.1,9.2,,52.6,17.5,,3,,,,,
+2430,treat1,27,270,COPD,18.75,64.1,10.9,,50.2,15.0,,3,,,,,
+2667,control,162,365,COPD,30.2,66.6,9.6,,36.4,12.3,,3,,,"Living with partner n(%) 114 (70.8)
+Urban residence n(%) 107 (66.5)",,
+2667,treat1,157,365,COPD,30.6,67.3,8.9,,37.8,12.4,,3,,,"Living with partner n(%) 111 (71.2)
+Urban residence n(%) 100 (63.7)",,
+2793,control,19,90,COPD,50.0,65.0,8.2,,31.1,10.2,,3,,,Lives alone 30%,,"Ethnicity N (%)
+White 19 (95%)
+Black  1 (5%)
+Native American 0 (0%)"
+2793,treat1,19,90,COPD,55.0,66.6,9.1,,33.6,9.1,,3,,,Lives alone 15%,,"Ethnicity N (%)
+White 17 (85%)
+Black 2 (10%)
+Native American 1 (5%)"
+2815,control,53,730,COPD,56.7,70.0,7.8,,40.2,15.1,,3,,,"Civil status, n (%)
+Widow/widower 15 (15.6)
+Single 7 (7.3)
+Divorced 6 (6.2)
+Married/Partner 68 (70.8)",,
+2815,treat1,56,730,COPD,65.3,69.0,8.3,,38.7,14.1,,3,,,"Civil status, n (%)
+Widow/widower 18 (17.8)
+Single 14 (13.9)
+Divorced 16 (15.8)
+Married/Partner 53 (52.5)",,
+2821,control,56,60,COPD,58.9,69.6,9.16,,49.9,18.04,,3,"Health literacy level, n (%)
+Inadequate health literacy 14 (25%) 
+Marginal health literacy 13 (23.2%)
+Adequate health literacy 29 (51.8%)
+Health literacy score, unadjusted mean (SD)  71.4 (20.79)",,"Civil status
+Living alone 24 (40%) 33 (58.9%)
+Married or living with a partner 36 (60%) 23 (41.1%)
+","Educational level
+Elementary school 14 (25%)
+High school 1 (1.8%)
+Higher education 10 (17.9%)
+Skilled 31 (55.4%)
+
+Years of education (unadjusted mean, SD) 11.6 (2.44)",
+2821,treat1,60,60,COPD,45.0,70.1,8.37,,47.5,15.47,,3,"Health literacy level, n (%)
+Inadequate health literacy 14 (23.3%)
+Marginal health literacy 12 (20%)
+Adequate health literacy 34 (56.7%)
+Health literacy score, unadjusted mean (SD)  71.3 (17.37)",,"Civil status
+Living alone 24 (40%)
+Married or living with a partner 36 (60%)  ","Educational level
+Elementary school 21 (35%)
+High school 4 (6.7%)
+Higher education 8 (13.3%)
+Skilled 27 (45%)
+
+Years of education (unadjusted mean, SD) 11.2 (2.35)",
+3048,control,20,365,COPD,50.0,,,,40.0,15.0,median:73 range (63-79)  -> IQR,3,,Regular Internet users (%) 20,"Proportion living alone (%) 30
+Managerial or professional occupations (%) 25",,
+3048,treat1,20,365,COPD,50.0,,,,38.0,16.0,median:70 range (61-73) -> IQR,3,,"Regular Internet users (%) 15
+","Proportion living alone (%) 20
+Managerial or professional occupations (%) 25",,
+3089,control,49,365,COPD,26.0,64.8,9.3,,47.4,11.5,,3,,,"Single
+Yes 2 (4%)
+No 48 (96%)","Education (year, SD) 9.2±2.7",
+3089,treat1,47,365,COPD,18.0,65.9,8.9,,48.7,11.2,,3,,,"Single 
+Yes 4 (8%)
+No 46 (92%)",Education (year) 8.6±3.2,
+3089,treat2,44,365,COPD,24.0,65.6,8.8,,50.4,11.4,,2,,,"Single 
+Yes 7 (14%) 
+No 43 (86%)",Education (year)8.5±2.9,
+3116,control,316,365,COPD,56.3,70.3,9.1,,48.4,18.9,,3,,,"Marital status (%)  
+Married/in a  relationship 54.3 (n=351)
+Single 22.1 (n=143)
+Widow/widower 16.5 (n=107)
+Missing (%) 7.1 (n=46)","NA (wel onderdeel van MCS, individuele scores niet gerapporteerd, ook niet in supps)",
+3116,treat1,258,365,COPD,51.7,69.6,9.4,,47.7,18.1,,3,,,"Marital status (%)  
+Married/in a  relationship 55.9 (n=323)
+Single 20.4 (n=118)
+Widow/widower 16.8 (n=97)
+Missing (%) 6.9 (n=40)","NA (wel onderdeel van MCS, individuele scores niet gerapporteerd, ook niet in supps)",
+3162,control,24,365,COPD,0.0,72.8,,1.3,46.0,,,3,,,,,
+3162,treat1,24,365,COPD,0.0,71.4,,1.7,45.2,,,3,,,,,
+3182,control,35,270,COPD,46.0,66.0,8.0,,49.0,17.0,,3,,,,,
+3182,treat1,30,270,COPD,39.0,62.0,7.0,,50.0,21.0,,3,,,,,
+3535,control,52,180,COPD,65.0,70.0,8.0,,52.0,17.0,,3,,,,,
+3535,treat1,49,180,COPD,55.0,68.0,8.0,,50.0,17.0,,3,,,,,
+3630,control,84,365,COPD,8.0,66.4,9.2,,,,,3,,,"VA!
+Residence, n(%)
+Urban 47 (56)
+Rural 37 (44)",,"Race, n(%)
+Black 3 (4)
+White 79 (94)
+Other 2 (2)"
+3630,treat1,154,365,COPD,5.2,67.0,8.6,,,,,3,,,"VA!
+Residence, n(%)
+Urban 83 (53.9)
+Rural 71 (46.1)",,"Race, n(%)
+Black 7 (4.6)
+White 142 (92.2)
+Other 5 (3.3)"
+4104,control,37,365,COPD,41.0,69.3,8.0,,49.4,19.8,,3,,"Computer/Internet use
+Comfortable with use 37 (90%)
+Duration, >1 year 39 (95%)
+Frequency of use, daily 28 (68%)","VA!
+Not currently employed, disabled, retired
+28 (68%)
+Live with spouse or other 
+29 (71%)","Education
+High school or some college 23 (56%)
+College or more 17 (42%)","Caucasian
+36 (88%)"
+4104,treat1,35,365,COPD,54.0,68.2,9.9,,50.6,18.2,,3,,"Computer/Internet use
+Comfortable with use 36 (88%)
+Duration, >1 year 37 (90%)
+Frequency of use, daily 21 (51%)","VA!
+Not currently employed, disabled, retired
+32 (78%)
+Live with spouse or other
+26 (63%)","Education
+High school or some college 19 (46%)
+College or more 18 (44%)","Caucasian
+37 (90%)"
+4104,treat2,38,365,COPD,42.0,68.5,11.0,,53.3,20.4,,3,,"Computer/Internet use
+Comfortable with use 39 (91%)
+Duration, >1 year 43 (100%)
+Frequency of use, daily 33 (77%)","VA!
+Not currently employed, disabled, retired
+34 (79%)
+Live with spouse or other
+29 (68%)","Education
+High school or some college 21 (49%)
+College or more 20 (47%)","Caucasian
+40 (93%)"
+4106,control,20,180,COPD,45.0,70.9,8.6,,50.3,17.6,,3,,"Computer/Internet Skills
+
+Self-rated computer skills
+Beginner 2 (10%)
+Intermediate 14 (70%)
+Advanced 4 (20%)
+
+Computer use, years (mean ± SD) 5.6 ± 2.7
+Hours on the Internet per week, median (range) 9.5 (1-25)
+Participate in online support groups 2 (10%)","Not currently employed or currently disabled or retired 15 (75%)
+Living situation: with spouse or other 13 (65 %)","High school or some college 8 (40%)
+College or more 12 (60%)",Caucasian 18 (95%)
+4106,treat1,19,180,COPD,39.0,68.0,8.3,,49.0,16.8,,3,,"Computer/Internet Skills
+
+Self-rated computer skills
+Beginner 4 (21%)
+Intermediate 9 (47%)
+Advanced 6 (32%)
+
+Computer use, years (mean ± SD) 5.7 ± 2.
+Hours on the Internet per week, median (range) 15.0 (1-90)
+Participate in online support groups 5 (28%)","Not currently employed or currently disabled or retired 13 (72%)
+Living situation: with spouse or other 12 (63%)","High school or some college 10 (50%)
+College or more 9 (50%)",Caucasian 20 (100%)
+4108,control,9,180,COPD,67.0,72.0,9.0,,46.7,18.7,,3,,Computer user 8 (100%),Married/partnered 3 (38%),College educated or higher 7 (88%),"Caucasian 6 (75%)
+African-American 2 (25%)"
+4108,treat1,8,180,COPD,63.0,64.0,12.0,,34.4,15.0,,3,,Computer user 7 (78%),Married/partnered 2 (22%),College educated or higher 6 (67%),"Caucasian 8 (89%)
+African-American 1 (11%)"
+4123,control,11,84,COPD,0.0,65.0,5.0,,56.0,12.0,,3,,"Computer % (N)
+Used in past 90.91% (10)
+In home 72.73% (8)","VA! 
+Income % (N)
+< $10,000 18.18% (2)
+$10,000 - $19,999/yr 36.36% (4)
+$20,000 - $39,999/yr 36.36% (4)
+\>$40,000/yr 9.09% (1)
+
+Lives alone % (N)
+45.45% (5)
+
+MOS Social Support Score 54.9 SE 7.0","Education % (N)
+<12 years 0% (0)
+2 years 18.18% (2)
+\>12 years 81.82% (9)","White 54.55% (6)
+Black 36.36% (4)
+Asian 9.09% (1)"
+4123,treat1,11,84,COPD,0.0,64.0,8.0,,55.0,16.0,,3,,"Computer % (N)
+Used in past 81.82% (9)
+In home 72.73% (6)","VA!
+Income % (N)
+< $10,000 27.27% (3)
+$10,000 - $19,999/yr 27.27% (3)
+$20,000 - $39,999/yr 36.36% (4)
+\>$40,000/yr 9.09% (1)
+
+Lives alone % (N)
+63.64% (7)
+
+Mos Social Support Score 67.8 SE 6.4","Education
+<12 years 0% (0)
+2 years 18.18% (2)
+>12 years 81.82% (9)","White 72.73%  (8)
+Black 27.27% (3)
+Asian 0% (0)"
+4194,control,40,365,COPD,40.0,71.0,8.0,,59.0,17.0,,3,C&CHL (Swedish Critical Health Literacy Scale) 85.1%,,"Employment status
+Currently working 5 (13%)
+Retired 34 (85%)
+Sickness benefits 1 (2%)
+
+Living with
+Alone  23 (58%)
+Family  17 (42%)","Education level
+Primary 22 (55%)
+Secondary 10 (25%)
+Tertiary  8 (20%)",
+4194,treat1,43,365,COPD,48.0,65.0,7.0,,60.0,17.0,,3,C&CHL (Swedish Critical Health Literacy Scale) 76.9%,,"Employment status
+Currently working 10 (23%)
+Retired 33 (67%)
+Sickness benefits 0 (0%)
+
+Living with
+Alone 20 (47%)
+Family 23 (53%)","Education level (sweden)
+Primary 26 (60%)
+Secondary 7 (17%)
+Tertiary 10 (23%)",
+4337,control,60,365,COPD,68.0,68.6,6.8,,28.5,,,3,,,,,
+4337,treat1,60,365,COPD,68.0,67.8,6.4,,28.6,,,3,,,,,
+4345,control,20,180,COPD,30.0,65.06,11.12,,69.45,24.02,,3,,,"Income (monthly)
+< $1000 8 (44.4%)
+≥$1000 10 (55.6%)
+
+Living situation
+Alone 
+0 (0%)
+Married or living with someone
+20 (100%)
+
+Working
+9 (45.0%)","Education
+Middle high school & less
+9 (45.0%)
+High school & higher
+11 (55.0%)",
+4345,treat1,22,180,COPD,13.6,70.45,9.4,,61.0,18.73,,3,,,"Income (monthly)
+< $1000 8 (36.4%)
+≥$1000 14 (63.6%)
+
+Living situation
+Alone 
+2 (9.1%)
+Married or living with someone
+20 (90.9%)
+
+Working
+5 (22.7%)","Education
+Middle high school & less 9 (40.9%)
+High school & higher 13 (59.1%)",
+4475,control,128,365,COPD,51.0,68.4,8.4,,40.0,17.0,,3,MARS 23.8 SD1.8,,,,
+4475,treat1,128,365,COPD,59.0,69.4,8.8,,44.0,18.8,,3,MARS 24.0 SD2.1,,,,
+4724,control,67,90,COPD,31.3,63.4,11.0,,,,,3,"Health literacy
+Extremely 39 (58.2)
+Quite a bit 13 (19.4)
+Somewhat 8 (11.9)
+A little bit 2 (3.0)
+Not at all 5 (7.5)
+
+Wallace LS, Rogers ES, Roskos SE, et al. Brief report: screening items to identify patients with limited health literacy skills. J Gen Intern Med. 2006; 21(8): 874-7.",,"Marital status
+Married 27 (40.3)
+Not married 40 (59.7)
+
+Respondent
+Patient 57 (85.1)
+Proxy 10 (14.9)
+
+Financial security
+No 21 (31.3)
+Yes 45 (67.2)","Education
+<High school 18 (26.9)
+High school/GED 29 (43.3)
+Some college 12 (17.9) 
+≥College graduate 8 (11.9)","Race
+White 45 (67.2)
+Black/other 22 (32.8)"
+4724,treat1,65,90,COPD,58.5,63.8,10.9,,,,,3,"Health literacy
+Extremely 35 (53.8)
+Quite a bit 10 (15.4)
+Somewhat 8 (12.3)
+A little bit 6 (9.2)
+Not at all 6 (9.2)",,"Marital status
+Married 31 (47.7)
+Not married 34 (52.3)
+
+Respondent
+Patient 53 (81.5)
+Proxy 12 (18.5)
+
+Financial security
+No 24 (36.9)
+Yes 41 (63.1)
+
+","Education
+<High school 18 (27.7)
+High school/GED 27 (41.5)
+Some college 13 (20.0) 
+≥College graduate 7 (10.8)","Race
+White 44 (67.7)
+Black/other 21 (32.3)"
+4727,control,172,365,COPD,43.0,72.22,,0.592,,,,3,,,,"Level of education (imputed, 0 = no formal education, 1=GCSE, 2= A=level, 3=Uni, 4= Grad)
+0.66 (SE 0.061)","White British/Irish 96% (243) 
+Non-White 4% (10)"
+4727,treat1,275,365,COPD,44.0,71.49,,0.506,,,,3,,,,"Level of education (imputed, 0 = no formal education, 1=GCSE, 2= A=level, 3=Uni, 4= Grad)
+0.72 (SE 0.061)","White British/Irish 96% (321) 
+Non-White 4% (13)"
+4736,control,78,180,COPD,8.0,70.4,7.3,,61.5,19.8,,3,BCKQ 46.1 SI 16.2,,"VA! 
+MOS-SS 76.8 SD 23.8
+Annual income <USD 30 000, % (n) 44% (34)
+Rural 14% (11)",Greater than high school 81% (63),White 89% (69)
+4736,treat1,75,180,COPD,7.0,69.2,7.2,,60.6,23.1,,3,BCKQ 46.9 SI 15.1,,"VA! 
+MOS-SS 69.4 SD 27.7
+Annual income <USD 30 000, % (n) 43% (43)
+Rural 5% (4)",Greater than high school 71% (53),White 92% (69)
+4876,control,33,365,COPD,54.4,68.07,,1134.0,,,,3,,,"Living alone
+24 (42.1%)
+Home nurse
+12 (21.1%)",,
+4876,treat1,39,365,COPD,73.7,69.0,,1169.0,,,,3,,,"Living alone
+28 (49.1%)
+Home nurse
+9 (15.8%)",,
+4876,treat2,37,365,COPD,64.4,68.64,,1161.0,,,,3,,,"Living alone
+19 (32.2%)
+Home nurse
+17 (28.8%)",,
+4986,control,22,42,COPD,63.0,73.0,9.6,,44.0,15.1,,3,,,"Living with a partner [n (%)]5 (23)
+Retired [n (%)]  18 (81)","Basic schooling [n (%)]
+7 years or less 7 (32)
+8–9 years  2 (9)  
+10 years 11 (50)  
+High school  2 (9)
+
+Higher education [n (%)]  
+None 1 (5)  
+Vocational  13 (59)
+University 8 (36)",
+4986,treat1,21,42,COPD,55.0,68.0,11.7,,39.0,19.6,,3,,,"Living with a partner [n (%)] 8 (36)
+Retired [n (%)] 20 (90)","Basic schooling [n (%)]
+7 years or less 10 (45)
+8–9 years 3 (14)
+10 years 6 (27)
+High school 3 (14)
+
+Higher education [n (%)]  
+None 4 (18)
+Vocational 14 (64)
+University 4 (18)",
+5203,control,114,365,COPD,17.5,71.3,8.9,,32.2,8.8,,2,,,"With care taker, n (%) 79 (69.3)
+
+Home status, n (%)
+Alone 3 (2.6)
+With partner 75 (65.8)
+With other relatives 15 (13.2)
+Other situation 21(18.4)","Education level. n (%)
+Unschooled 9 (7.9)
+Primary  58 (50.9)
+Secondary 30 (26.3)
+University 17 (14.9)",
+5203,treat1,115,365,COPD,21.7,71.5,8.0,,34.2,9.1,,3,,,"With care taker, n (%) 88 (76.5)
+
+Home status, n (%)
+Alone 3 (2.6)
+With partner 84 (73.0)
+With other relatives 10 (8.7)
+Other situation 18 (15.7)","Education level. n (%)
+Unschooled 19 (16.5)
+Primary 47 (40.9)
+Secondary 30 (26.1)
+University 19 (16.5)",
+5232,control,33,180,COPD,48.0,72.78,9.16,,,,,3,BCKQ -> evt visueel in plot supps,Never used technology (%) 68,Patients with caregiver (%) 75,,
+5232,treat1,36,180,COPD,44.0,71.76,7.28,,,,,3 Self monitor,BCKQ -> evt visueel in plot supps,Never used technology (%) 78,Patients with caregiver (%) 83,,
+5232,treat2,35,180,COPD,44.0,71.98,9.52,,,,,3 Remote monitor,BCKQ -> evt visueel in plot supps,Never used technology (%) 85,Patients with caregiver (%) 76,,
+5339,control,12,270,COPD,50.0,62.8,7.4,,,,,3,,,,,
+5339,treat1,12,270,COPD,50.0,64.1,9.0,,,,,3,,,,,
+5343,control,16,21,COPD,31.25,67.9,5.7,,56.4,10.6,,3,,,"Work (employed/unemployed) 4/10
+= 28.57% employed",,
+5343,treat1,14,21,COPD,42.86,65.2,9.0,,48.7,16.7,,3,,,"Work (employed/unemployed) 3/13
+= 18.75% employed",,
+5534,control,17,56,COPD,64.7,75.0,9.0,,68.0,19.0,,3,,"Computer usage in the past (%)
+Never used before 12
+Used in the past but not currently using 12
+Used in the past and currently using 76","Employment status (%)
+Employed 6
+Retired 94",,
+5534,treat1,19,56,COPD,36.84,73.0,8.0,,60.0,23.0,,3,,"Computer usage in the past (%)
+Never used before 32
+Used in the past but not currently using 10
+Used in the past and currently using 58","Employment status (%)
+Employed 26
+Retired 74",,
+5563,control,647,365,COPD,56.26,70.33,9.11,,48.37,18.94,,3,,,"Marital status (%)
+Married/in a relationship 54.25 (n=351)
+Single 22.10 (n=143)
+Widow/widower 16.54 (n=107)
+Missing (%) 7.11 (n=46)",,
+5563,treat1,578,365,COPD,51.73,69.55,9.36,,47.7,18.05,,3,,,"Marital status (%)
+Married/in a relationship 55.88 (n=323)
+Single 20.42 (n=118)
+Widow/widower 16.78 (n=97)
+Missing (%) 6.92 (n=40)",,
+5660,control,50,365,COPD,26.0,64.0,8.0,,51.7,21.0,,3,,,,,
+5660,treat1,47,365,COPD,6.38,66.9,9.6,,49.6,21.9,,3,,,,,
+5660,treat2,50,365,COPD,24.0,66.7,7.3,,51.8,17.3,,2,,,,,
+5737,control,59,365,COPD,50.7,63.0,8.0,,53.0,15.0,,3,,,,,
+5737,treat1,62,365,COPD,50.0,62.0,9.0,,59.0,20.0,,3,,,,,
+5777,control,14,180,COPD,0.0,71.9,,2.7,54.2,,,3,,,,,
+5777,treat1,12,180,COPD,0.0,71.4,,1.9,63.5,,,3,,,,,
+5787,control,39,365,COPD,25.6,64.4,7.0,,45.4,11.5,,3,CSMS subscore Information Management 11.4 SD 15.7,,,,
+5787,treat1,39,365,COPD,33.3,63.2,7.5,,43.7,13.2,,3,CSMS subscore Information Management 11.9 SD 14.6,,,,
+5973,control,20,365,COPD,47.72,69.0,9.0,,44.0,15.0,,3,,,,,
+5973,treat1,23,365,COPD,28.57,70.0,7.0,,43.0,16.0,,3,,,,,
+5974,control,46,420,COPD,34.78,69.0,9.0,,43.0,15.0,,3,,,,,
+5974,treat1,49,420,COPD,48.98,70.0,7.0,,43.0,15.0,,3,,,,,
+6039,control,120,365,COPD,33.33,64.65,0.88,,41.08,9.27,,3,,,,"Degree of education
+primary school 35% (n42)
+junior high school 38.34% (n46)
+higher than junior high school 26.66% (n32)",
+6039,treat1,120,365,COPD,40.0,65.42,0.62,,40.98,9.86,,3,,,,"Degree of education
+primary school 38.34% (n46)
+junior high school 33.33% (n40)
+higher than junior high school 28,33% (n34)",
+6159,control,38,730,COPD,42.5,63.5,8.0,,40.3,16.1,,3,,"Digital competence, n (%)
+Daily user or nearly every day 28 (70)
+At least once a week, but not every day 5 (12.5)
+No experience 7 (17.5)","Living arrangements, n (%)
+Alone 17 (42.5)
+With spouse 15 (37.5)
+With family 7 (17.5)
+With friends 1 (2.5)
+Supported accommodation 0 (0)
+
+Social status
+Working, n (%) 11 (27.5)
+Retired, n (%) 29 (72.5)",,
+6159,treat1,37,730,COPD,42.5,64.9,7.1,,40.4,16.5,,3,,"Digital competence, n (%)
+Daily user or nearly every day 25 (62.5)
+At least once a week, but not every day 8 (20)
+No experience 7 (17.5)","Living arrangements, n (%)
+Alone 19 (47.5)
+With spouse 15 (37.5)
+With family 5 (12.5)
+With friends 1 (2.5)
+Supported accommodation 0 (0)
+
+Social status
+Working, n (%) 5 (12.5)
+Retired, n (%) 35 (87.5)",,
+6159,treat2,40,730,COPD,50.0,64.0,7.7,,44.6,17.1,,3,,"Digital competence, n (%)
+Daily user or nearly every day 26 (65)
+At least once a week, but not every day 9 (22.5)
+No experience 5 (12.5)","Living arrangements, n (%)
+Alone 20 (50)
+With spouse 16 (40)
+With family 4 (10)
+With friends 0 (0)
+Supported accommodation 0 (0)
+
+Social status
+Working, n (%) 8 (20)
+Retired, n (%) 32 (80)",,

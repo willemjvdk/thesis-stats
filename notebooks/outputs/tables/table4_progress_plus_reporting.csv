@@ -1,0 +1,12 @@
+domain,field,reported,not_reported,ambiguous,proportion
+Place of residence,ses_living_location,4,60,0,0.0625
+Income,ses_income,5,57,2,0.078125
+Social capital (relationship),ses_relationship_status,8,55,1,0.125
+Digital literacy,digital_literacy,10,54,0,0.15625
+Occupation,ses_job_status,11,53,0,0.171875
+Ethnicity,ethnicity,11,53,0,0.171875
+Health literacy,health_literacy,13,51,0,0.203125
+Social capital (living),ses_living_situation,17,46,1,0.265625
+Education,educational_level,18,46,0,0.28125
+Social capital (combined),,23,40,1,0.359375
+Sex/gender,gender_pct_female,61,3,0,0.953125

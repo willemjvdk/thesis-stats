@@ -1,0 +1,73 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1. Baseline patient characteristics"
+
+table_footnote: "Data are presented as number, percentage or mean (standard deviation, SD). BMI, body mass index; GOLD, global initiative for chronic obstructive lung disease; NYHA, New York Heart Association; EF, ejection fraction; FEV1, forced expiratory volume at 1 s; LTOT, long-term oxygen therapy; FVC, forced vital capacity; MRC, Medical Research Council; PaCO2, carbon dioxide arterial tension; FiO2, inspiratory fraction of oxygen; \mathrm { P a O } _ { 2 } ,arterial oxygen tension; S \mathrm { P O } _ { 2 } ,oxygen saturation; MLHFQ, Minnesota Living with Heart Failure Questionnaire; CAT, chronic obstructive pulmonary disease assessment test; 6MWT, 6-min walk test; PASE, physical activity scale for the elderly; SABA, short-acting beta2-agonist; LAMA, long-acting muscarinic antagonist; LABA, long-acting beta2-agonist; ICS, Inhaled CorticoSteroid; ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blockers."
+
+table_body:
+<table><tr><td></td><td>Intervention group (n = 56)</td><td>Control group (n = 56)</td><td>P</td></tr><tr><td>Male, n (%)</td><td>50 (88%)</td><td>42 (75%)</td><td>0.05</td></tr><tr><td>Age (years)</td><td>71 (9)</td><td>70 (9.5)</td><td>0.667</td></tr><tr><td>BMI (kg/m2)</td><td>28.5 (5.8)</td><td>27.7 (5.4)</td><td>0.437</td></tr><tr><td>GOLD class, n (%), (new GOLD B, C, D)</td><td></td><td></td><td>0.763</td></tr><tr><td>IB</td><td>19 (33.9%)</td><td>15 (26.7%)</td><td></td></tr><tr><td>IC</td><td>1 (1.8%)</td><td>0</td><td></td></tr><tr><td>IIB</td><td>20 (35.7%)</td><td>26 (46.4%)</td><td></td></tr><tr><td>IIC</td><td>2 (3.6%)</td><td>0</td><td></td></tr><tr><td>IIIC</td><td>2 (3.6%)</td><td>0</td><td></td></tr><tr><td>IIID</td><td>2 (3.6%)</td><td>5 (9.0%)</td><td></td></tr><tr><td>IVB</td><td>1 (1.8%)</td><td>1 (1.8%)</td><td></td></tr><tr><td>IVD</td><td>9 (16.0%)</td><td>9 (16.1%)</td><td></td></tr><tr><td>NYHA class, n (%)</td><td></td><td></td><td>0.690</td></tr><tr><td>II</td><td>25 (45%)</td><td>29 (52%)</td><td></td></tr><tr><td>III</td><td>22 (39%)</td><td>19 (34%)</td><td></td></tr><tr><td>IV</td><td>9 (16%)</td><td>8 (14%)</td><td></td></tr><tr><td>EF% pred</td><td>44.5 (12.4)</td><td>43.3 (13.2)</td><td>0.628</td></tr><tr><td>FEV1% pred</td><td>66.6 (18.6)</td><td>66.1 (16.4)</td><td>0.897</td></tr><tr><td>FVC% pred</td><td>80.9 (18.3)</td><td>78.8 (17.6)</td><td>0.534</td></tr><tr><td>FEV1/FVC</td><td>60 (10.2)</td><td>62 (8.9)</td><td>0.280</td></tr><tr><td>LTOT yes, n (%)</td><td>27 (48.3%)</td><td>26 (46.2%)</td><td>1.000</td></tr><tr><td>MRC dyspnoea scale</td><td>2.8 (0.98)</td><td>2.7 (0.98)</td><td>0.576</td></tr><tr><td>PaCO2 (mmHg)</td><td>38.2 (9.6)</td><td>38.6 (6.7)</td><td>0.795</td></tr><tr><td>FiO2</td><td>21.6 (2.7)</td><td>22.1 (3.4)</td><td>0.461</td></tr><tr><td>PaO2/FiO2</td><td>365 (69)</td><td>341 (69)</td><td>0.077</td></tr><tr><td>pH</td><td>7.44 (0.05)</td><td>7.44 (0.03)</td><td>0.423</td></tr><tr><td>SpO2%</td><td>95.7 (2.4)</td><td>94.9 (2.0)</td><td>0.063</td></tr><tr><td>MLHFQ score</td><td>34.4 (17.3)</td><td>35.6 (17.4)</td><td>0.707</td></tr><tr><td>CAT score</td><td>15.7 (6.2)</td><td>15.4 (6.4)</td><td>0.787</td></tr><tr><td>Barthel score</td><td>89.9 (12.9)</td><td>91.9 (8.2)</td><td>0.337</td></tr><tr><td>6MWT (m)</td><td>329 (115)</td><td>308 (105)</td><td>0.313</td></tr><tr><td>PASE score</td><td>95.8 (65.7)</td><td>78.2 (42.3)</td><td>0.097</td></tr><tr><td>Pharmacotherapy, n (%)</td><td></td><td></td><td></td></tr><tr><td>SABA</td><td>6 (10.3%)</td><td>4 (7.7%)</td><td>0.740</td></tr><tr><td>LAMA</td><td>15 (27.6%)</td><td>13 (23.1%)</td><td>0.827</td></tr><tr><td>LABA + LAMA</td><td>4 (6.9%)</td><td>7 (11.5%)</td><td>0.525</td></tr><tr><td>LABA + ICS</td><td>8 (13.8%)</td><td>13 (23.1%)</td><td>0.333</td></tr><tr><td>LAMA + LABA + ICS</td><td>23 (41.4%)</td><td>19 (34.6%)</td><td>0.558</td></tr><tr><td>Digitalis</td><td>4 (6.9%)</td><td>11 (19.2%)</td><td>0.096</td></tr><tr><td>Beta-blocker</td><td>37 (65.5%)</td><td>30 (53.9%)</td><td>0.248</td></tr><tr><td>ACE inhibitors/ARBs</td><td>25 (44.8%)</td><td>28 (50.0%)</td><td>0.705</td></tr><tr><td>Diuretics</td><td>42 (75.9%)</td><td>47 (80.8%)</td><td>0.350</td></tr><tr><td>Aldosterone antagonists</td><td>27 (48.3%)</td><td>32 (57.7%)</td><td>0.449</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# Materials and methods
+## Design overview
+
+The study design has recently published [22]. Consenting eligible patients with combined COPD and CHF undergoing in-hospital rehabilitation were randomised (1:1) to either the intervention group (IG) or control group (CG). The institutional review board of the Salvatore Maugeri Foundation (CEC deliberation No. 916, 3 June 2013) approved the study, which was registered on 17/10/2014 at http://www.clinicaltrials.gov (NCT02269618) and conducted according to the recommendations for Interventional Trials, SPIRIT and CONSORT guidelines, the principles of the Helsinki Declaration and good clinical practice.
+
+The confirmed diagnosis of CHF (NYHA class II-IV) and COPD (B, C and D GOLD class) had to be documented by an echocardiogram (CHF) [7] and by a spirometry examination (COPD) [6] performed within the previous 12
+
+months. Patients were excluded if they did not return to home after hospitalisation, they had physical activity limitations due to non-cardiac/pulmonary conditions, limited life expectancy (<6 months), or severe cognitive impairments (Mini Mental Test Examination <16).
+
+## Control group
+
+Patients in CG received the standard care programme including medications and oxygen prescription, visits from the general practitioner, and in-hospital check-ups on demand. At enrolment in the study, patients were instructed in an educational session about the desirability of maintaining a healthy lifestyle and were invited to practice daily physical activity as preferred.
+
+## Intervention group
+
+Patients in IG received an educational intervention from a Nurse Tutor (NT) and a Physiotherapist Tutor (PT) and were followed by both during the Telereab-HBP, which lasted 4 months [22]. The NT made a weekly structured phone call to each patient, collecting information about the disease status and symptoms, offering advice regarding diet, lifestyle and medications, previously defined with the cardiologist and pulmonologist supervising the programme. Patients were provided with a pulse oximeter (GIMA, Milan, Italy), and a portable one-lead electrocardiograph (Card Guard Scientific Survival Ltd., Rehovot, Israel) for real time telemonitoring of vital signs. Patients could call in the case of urgent need or emergency 24 h/day 365 days/year.
+
+PT designed a personalised exercise programme for each patient who were provided with mini-ergometer, pedometer and diary. PT instructed patients and their caregivers on how to perform the exercises correctly, focusing on the rehabilitation goals. The number/intensity of training sessions according to patients’ progress were adjusted during 4 months or in the case of problems [22]. The ‘basic level’ of programme consisted of 15–25 min of exercise with mini-ergometer without load and 30 min of callisthenic exercises, performed three times/week and free walking twice a week. The ‘high level’ consisted of 30–45 min of mini-ergometer with incremental load (from 0 to 60 W), 30–40 min of muscle reinforcement exercises using 0.5 kg weights and pedometer-based walking, performed from 3 to 7 days/week.
+
+The programme was targeted to reach a moderate or high level of dyspnoea and/or muscle fatigue according to the Borg scale [23]. Based on this assessment, the PT could decide to increase or maintain the workload [22]. The PT made a weekly phone call to each patient, verified the training level of physical activity performed and planned the rehabilitation targets for the following week and gave extra reinforcement on the value of lifestyle changes and the importance of exercise.
+
+# Outcomes and follow-up
+All enroled patients were visited at hospital discharge (T0), after 4 months (T1) and 2 months later (T2), during which no intervention was made.
+
+The feasibility was assessed in terms of side effects related to Telereab-HBP, the number of patients who completed the programme, the percentage of the prescribed training sessions that were actually performed. Satisfaction about the assistance was measured by the patient at T1. The six items, with a score from 0 (not at all satisfied) to 4 (very satisfied), enquired about the service as a whole, the use of the devices, the healthcare professionals’ willingness to respond to the patient’s needs, clarity of the indications and suggestions made by the nurse and physiotherapist, the feeling of support, and if the service was felt to be a real help or not [22].
+
+The primary outcome was exercise tolerance improvement measured by the difference (Δ) between T1 and T0 in the metres walked at the 6-min walk test (6MWT) [24].
+
+The secondary outcomes were the reduction of time-to event (hospitalisation for any reason, or death) during the 4-month study period and the Δ(T1 − T0) in: (i) dyspnoea by Medical Research Council (MRC), (ii) physical activity profile (PASE), (iii) impairment/disability (BARTHEL) and (iv) QoL by Minnesota Living with Heart Failure Questionnaire (MLHFQ) and COPD Assessment Test (CAT).
+
+In addition, we analysed the Δ(T2 − T1) and between groups from baseline to follow-up, to verify the patients’ empowerment and ability to maintain the objectives achieved.
+
+## Sample size and statistical analysis
+
+A priori sample-size for independent groups t-test was calculated based on previously published RCT data on COPD and CHF rehabilitation [25, 26] on primary outcome estimating an improvement at T1 with respect to T0 in the IG of 30 ± 50 m on 6MWT and no change expected in the CG (0 ± 50 m), at 80% of power and a significance level of P < 0.05, our RCT would need a sample size consisting of at least 44 participants in each group. By taking the probability of drop-outs into account (20–25% of enroled patients), we decided to include at least 55–60 patients in each group.
+
+Data are presented as mean (standard deviation, SD), mean (95% confidence Interval, CI) and by percentage for categorical and binary variables.
+
+Statistical analysis was carried out by a certified health professional using STATA 13.0 software (StataCorp, College Station, TX, USA). Distribution and normality of variables were tested by the Kolmogorov–Smirnov test. To compare groups at T0 and clinical variables in the groups at T0, T1 and T2, Student’s t-test for continuous variables and the chi-squared test for categorical variables were used. Survival probability was measured by means of Kaplan– Meier survival analysis, while survival difference between groups was evaluated with the log-rank test. Additional statistical evaluation to test the differences between groups from baseline to follow-up were done by two-way analysis of variance (ANOVA) for repeated measures (time and group). Significant differences across time or between groups were reported at the alpha level of 0.05. All reported P values were two-sided.
+
+# Results
+Enrolment of patients started in July 2013 and ended in October 2014. Follow-up ended in April 2015. In total, 112 patients were randomised (56 per group). Table 1 shows demographic and clinical characteristics of patients at T0. A study flow chart is presented in Supplementary data, Figure 1S, available in Age and Ageing online). Overall, 11 (20%) patients in IG were lost to follow-up, and 21 (37.5%) in CG (P = 0.0365).
+
+In IG no major side effects were recorded. Overall, 48 (86%) patients ended the 4-month Telereab-HBP performing evaluations at T1. And 52 (93%) patients performed the prescribed exercises: 19% performed 2.3 (0.5) activity sessions/ week, 65% performed 4 (0.5) activity sessions/week and 16% performed 6 (0.6) activity sessions/week (Supplementary data, Table 1S, available in Age and Ageing online).
+
+All IG patients started the physical activity at the basic level; only the 25% advanced to a higher activity level.
+
+The patient’s satisfaction with the programme was very high in all 48 evaluated patients, with an overall mean score of 22.3 (2.25).
+
+Figure 1 shows results for 6MWT. After 4 months, the IG were able to walk further than at baseline: Δ6MWT was 60 (22.2,97.8) m; the CG showed no significant improvement: −15 (−40.3,9.8) m; and there was a significant difference in Δ6MWT between the groups P = 0.0040.
+
+Figure 2 shows Kaplan–Meier survival analysis of time-toevent. In IG, the media time to hospitalisation/death was 113.4 days compared with 104.7 in the CG—the groups were significantly different (P = 0.0484, log-rank test); it further increased in the next two months of follow-up (Supplementary data, Figure 2S, available in Age and Ageing online, log-rank test P = 0.0387). Hospitalisations were 21 in IG (11 for cardiovascular diseases, 6 for respiratory diseases and 5 for other causes) and 37 in CG (25 for cardiovascular diseases, 11 for respiratory diseases and 1 for other causes).
+
+As shown in Supplementary data, Table 2S, available in Age and Ageing online, the other secondary outcomes were significantly improved in the IG compared with the CG at 4 months, The ΔMRC was −0.17 (−0.3,−0.02) in IG and 0.07 (−0.1,0.3) in CG, P = 0.0500. ΔPASE was 18.1 (−0.6,36.9) in IG and −21.3 (−35.7,−7.0) in CG, P = 0.0015. ΔBARTHEL was 5.4 (3.6,7.2) in IG and 1.3 (−0.2,2.8) in CG, P = 0.0006. ΔMLHFQ was −10.5 (−14.2,−6.8) in IG and −0.44 (−4.9,4.0) in CG, P = 0.0007. ΔCAT was −5.3 (−6.9, −3.7) in IG and 1.6 (−0.4,3.5) in CG, P = 0.0000.
+
+IG maintained the benefits acquired at 6 months for all outcomes. The effects of the intervention from baseline to follow-up, analysed by ANOVA for repeated measures (times and groups), confirmed the significant improvement for 6MWT (P = 0.0001), MRC (P = 0.0190), PASE (P = 0.0001), BARTHEL index (P = 0.0000), MLHFQ (P = 0.0001), CAT (P = 0.0001) (Supplementary data, Table 2S, available in Age and Ageing online).
+
+Supplementary data, Table 3S, available in Age and Ageing online shows the number of PT/NT and telemonitoring interventions carried out during the study.
+
+During Telereab-HBP, 1,234 NT-calls and 864 PT-calls were made: the mean duration was 15.3 (7.2) min (each call ranged from 5 to 25 min) for NT-calls and 30 (12) min (each call ranged from 20 to 45 min) for PT-calls for intervention. The mean duration of any single complete intervention carried out together from NT and PT was 45 min per patient per week.

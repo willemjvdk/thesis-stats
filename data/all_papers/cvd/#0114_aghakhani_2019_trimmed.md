@@ -1,0 +1,75 @@
+## TABLES
+
+# table 1
+
+table_caption: ""
+
+table_footnote: []
+
+table_body:
+<table><tr><td colspan="10">TABLE 1</td></tr><tr><td colspan="10">TOTAL SCORE OF TREATMENT CONCORDANCE IN CONTROL AND INTERVENTION GROUPS BEFORE AND AFTER INTERVENTION</td></tr><tr><td></td><td colspan="4">Control group</td><td rowspan="3">Before-after test</td><td colspan="4">Intervention group</td></tr><tr><td></td><td colspan="2">Before</td><td colspan="2">After</td><td colspan="2">Before</td><td colspan="2">After</td></tr><tr><td>Treatment concordance</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>Poor</td><td>10</td><td>33.3</td><td>12</td><td>40</td><td>Z = -0.82</td><td>4</td><td>13.3</td><td>0</td><td>0</td></tr><tr><td>Relatively good</td><td>20</td><td>66.7</td><td>18</td><td>60</td><td>P = .41</td><td>25</td><td>83.5</td><td>16</td><td>53.3</td></tr><tr><td>Good</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>1</td><td>3.3</td><td>14</td><td>46.7</td></tr><tr><td>Total</td><td>30</td><td>100</td><td>30</td><td>100</td><td></td><td>30</td><td>100</td><td>30</td><td>100</td></tr><tr><td>Before test—between groups</td><td colspan="4">Fisher: 3.98, P = .12</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>After test—between groups</td><td colspan="4">X² = 26.12, P &lt; .001</td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+# table 2
+
+table_caption: ""
+
+table_footnote: []
+
+table_body:
+<table><tr><td colspan="10">TABLE 2</td></tr><tr><td colspan="10">DIETARY ADHERENCE IN CONTROL AND INTERVENTION GROUPS BEFORE AND AFTER INTERVENTION</td></tr><tr><td></td><td colspan="4">Control group</td><td rowspan="3">Before-after test</td><td colspan="4">Intervention group</td></tr><tr><td></td><td colspan="2">Before</td><td colspan="2">After</td><td colspan="2">Before</td><td colspan="2">After</td></tr><tr><td>Dietary adherence</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>Poor</td><td>2</td><td>6.7</td><td>7</td><td>23.3</td><td>Z = -1</td><td>2</td><td>6.7</td><td>0</td><td>0</td></tr><tr><td>Relatively good</td><td>27</td><td>90</td><td>20</td><td>66.7</td><td>P = .32</td><td>26</td><td>86.7</td><td>12</td><td>40</td></tr><tr><td>Good</td><td>1</td><td>3.3</td><td>3</td><td>10</td><td></td><td>2</td><td>6.7</td><td>18</td><td>60</td></tr><tr><td>Total</td><td>30</td><td>100</td><td>30</td><td>100</td><td></td><td>30</td><td>100</td><td>30</td><td>100</td></tr><tr><td>Before test—between groups</td><td colspan="4">Fisher = 0.55, P = .99</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>After test—between groups</td><td colspan="4">Fisher = 20.51, P &lt; .001</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="10">TABLE 3</td></tr><tr><td colspan="10">MEDICATION ADHERENCE IN CONTROL AND INTERVENTION GROUPS BEFORE AND AFTER INTERVENTION</td></tr><tr><td rowspan="2"></td><td colspan="4">Control group</td><td rowspan="3">Before-after test</td><td colspan="3">Intervention group</td><td rowspan="2">Before-after test</td></tr><tr><td colspan="2">Before</td><td colspan="2">After</td><td colspan="2">Before</td><td>After</td></tr><tr><td>Medication adherence</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>Poor</td><td>2</td><td>6.7</td><td>6</td><td>20</td><td>Z = -0.63</td><td>5</td><td>16.7</td><td>1</td><td>3.3</td></tr><tr><td>Relatively good</td><td>23</td><td>76.7</td><td>17</td><td>56.7</td><td>P = .53</td><td>16</td><td>53.3</td><td>6</td><td>20</td></tr><tr><td>Good</td><td>5</td><td>16.7</td><td>7</td><td>23.3</td><td></td><td>9</td><td>30</td><td>23</td><td>76.7</td></tr><tr><td>Total</td><td>30</td><td>100</td><td>30</td><td>100</td><td></td><td>30</td><td>100</td><td>30</td><td>100</td></tr><tr><td>Before test—between groups</td><td colspan="4">Fisher = 3.57, P = .21</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>After test—between groups</td><td colspan="4">Fisher = 17.34, P &lt; .001</td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+# table 3
+
+table_caption: ""
+
+table_footnote: []
+
+table_body:
+
+
+# table 4
+
+table_caption: ""
+
+table_footnote: []
+
+table_body:
+<table><tr><td colspan="10">TABLE 4</td></tr><tr><td colspan="10">PHYSICAL ACTIVITY IN CONTROL AND INTERVENTION GROUPS BEFORE AND AFTER INTERVENTION</td></tr><tr><td rowspan="3">Physical activity</td><td colspan="4">Control group</td><td rowspan="3">Before-after test</td><td colspan="4">Intervention group</td></tr><tr><td colspan="2">Before</td><td colspan="2">After</td><td colspan="2">Before</td><td colspan="2">After</td></tr><tr><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td><td>N</td><td>%</td></tr><tr><td>Poor</td><td>27</td><td>90</td><td>26</td><td>86.7</td><td>Z = -1</td><td>27</td><td>90</td><td>18</td><td>60</td></tr><tr><td>Relatively good</td><td>3</td><td>10</td><td>4</td><td>13.3</td><td>P = .3</td><td>3</td><td>10</td><td>12</td><td>40</td></tr><tr><td>Good</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Total</td><td>30</td><td>100</td><td>100</td><td>100</td><td></td><td>30</td><td>100</td><td>30</td><td>100</td></tr><tr><td>Before test—between groups</td><td colspan="9">Fisher = 0.50, P = .99</td></tr><tr><td>After test—between groups</td><td colspan="9">X² = 5.45, P = .04</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# METHODS
+## Design and sample
+
+This was a single-blind, randomized, controlled trial conducted from September 2017 to November 2017. The population under investigation included all patients with HTN who were referred to the Shahid Rasi hospital in the Shahin Dej city in Iran. Patients who met the inclusion criteria were considered to be the research samples. The inclusion criteria include patients aged 20-65 years old, HTN diagnosed by subspecialist, having a blood pressure higher than 140/90 and less than 180/110, willing to participate in the study, ability to read and write, ability to receive e-mails and text messages, and not having severe underlying diseases such as chronic kidney disease or heart problems that could impact the study. Not willing to participate in the study, having blood pressure higher than 180/110 in past 6 months, and having severe underlying diseases and not being able to receive e-mails and text messages were considered exclusion criteria. The result of a previous study conducted by Kazemnejad et al ^{17} was used to calculate sample size. Based on a type 1 error of 0.05 and a power of 0.08, the sample size was calculated to be 28 patients in each group. By considering the attrition rate, the sample size of 30 patients in each group was finally included (Figure 1).
+
+## Measures
+
+To gather data, the study used a demographic information form and the questionnaires for evaluating adherence of the patients to treatment plans. The demography form recorded variables such as age, gender, marital status, education level, employment status, income, duration of disease, type of treatment, and the preferred resources for gaining information. The questionnaires included questions addressing treatment concordance, which explored 3 dimensions: dietary adherence (34 items), medication adherence (12 items), and physical activity plan (14 items). The items were scored on a scale of 0-100. The final test result, as well as the status of each dimension, was represented according to a three-point scale: poor (below  50\% of the total score); relatively good  (50\%-75\% of the total score); and good (above  75\% of the total score). The validity and reliability of the questionnaires were already confirmed by Sanaei et al who inspected face and content validity in a study conducted at the local university of medical sciences. They conducted a pilot study to examine the reliability of the questionnaires. Cronbach's alpha and intraclass correlation coefficient confirmed the reliability.
+
+## Intervention
+
+Before the study was operationalized, the necessary permits were obtained from the Institutional Review Boards of the medical center and university board of education. Next, clinical settings were identified for the investigation, and the potential participants were selected by using the convenience sampling method. The researchers then introduced themselves to every participant and explained the research purposes. The participants who decided to participate in the study signed the consent form and completed the questionnaires. We used randomization, allocation concealment, and blinding to reduce convenience sampling bias in this study. RandList software was used to randomly allocate the participants into intervention and control groups. The control group received traditional face-to-face education. The intervention group was exposed to educational intervention in the form of blended education, which included traditional face-to-face education along with online education (e-learning) via e-mail. The purpose of this style of training was to improve HTN self-care behaviors and to increase treatment concordance. In this study, HTN self-care behaviors are the ability of the participants in carrying out medical recommendations regarding adherence to treatment in three dimensions of diet, medications, and physical activities.
+
+We used e-mail to educate the patients because it is the most popular e-learning method in our country. The patients in the intervention group received educational and instructive messages through e-mails during the intervention period. We installed and used the mailtrack service in our gmail account to ensure our e-mails were opened and read by patients. By this way, we reminded the patients in the intervention group about the instructed contents everyday. We also emphasized the goals of e-learning and encouraged them to follow diet, medication, and so on. Thus, we tried to influence the patient's self-care behaviors by highlighting the positive impact of treatment concordance and repeating the educational contents. Furthermore, the patients' questions would be answered after training sessions via phone calls or text message. Each session took 60 minutes and was regularly held on a weekly basis for four weeks. Two weeks after the training process was over, the participants completed the treatment adherence questionnaires one more time. After collecting the data, the participants in the control group
+
+also received the e-learning education package and their questions were answered.
+
+## Analytic strategy
+
+Collected data were analyzed by the researcher who was blind to the data in IBM SPSS software (version 16.0; SPSS Inc., Chicago, IL) using descriptive (mean, standard deviation) and inferential (independent  t-test and paired  t-test, the chi-square test, and Fisher exact test) statistics. The chi-square test was used to investigate relationships between demographic variables and compare qualitative characteristics and  t-test was applied to investigate quantitative data. All  P-values were two tailed and significance level was considered less than 0.05.
+
+# RESULTS
+The statistical analysis did not reveal any significant difference in terms of the demographic variables in the 2 groups.
+
+The results showed that the total scores of treatment concordance were "relatively good" in most of the samples at the beginning of the study in the control and intervention groups. The results of the Fisher's exact test did not point to any significant difference between the 2 groups. However, after the intervention, the total score of treatment concordance remained "relatively good" for the majority of the samples in the control group, whereas the same measure in the intervention group revealed that treatment concordance showed a "good" status for about half of the participants. The results of the chi-square test showed that this difference was significant. As far as treatment concordance before and after the intervention is concerned, the z test results of the control group did not reveal any significant difference, although treatment concordance in the intervention group did show a statistically significant increase (Table 1).
+
+The observations highlighted that the status of dietary adherence at the beginning of the study was "relatively good" for most of the participants in the control and intervention groups. According to the Fisher's exact test results, the 2 groups were not significantly different from each other in this respect. After the intervention, however, the status of dietary adherence for most control groups was either "poor" or "relatively good," whereas in the intervention group, this variable showed a "relatively good" or "good" status for all participants. The results of Fisher's exact test showed that this difference was significant between two groups. Furthermore, the z test did not reveal any significant difference in the status of dietary adherence before and after the intervention in the control group, although the degrees of dietary adherence underwent a significant increase in the intervention group (Table 2).
+
+The finding also showed that the status of medication adherence at the beginning of the study was "relatively good" for most of the patients in the control and intervention groups. According to the Fisher's exact test results, two groups were not significantly different in this respect. Nonetheless, after the intervention, the status of medication adherence for most participants in the control group was either "poor" or "relatively good," whereas the status of the same variable was "relatively good" or "good" for most of the participants in the intervention group. The results of the Fisher's exact test revealed that the difference between two groups was statistically significant in this regard.
+
+Moreover, the z test did not reveal any significant difference in the status of medication adherence before and after the intervention in the control group, although the medication adherence score underwent a significant increase in the intervention group (Table 3).
+
+The results highlighted that the status of physical activity at the beginning of the study was "poor" for most of the patients in both groups. According to the Fisher's exact test, the 2 groups were not statistically different from each other. After the intervention, however, the status of physical activity for most of the participants remained "poor" in the control group, whereas the status of the same variable was "relatively good" in the intervention group which pointed to some increased activity in the patients of this group. Chi-square test results also showed that the difference between the groups was statistically significant in this regard. Furthermore, the z test did not reveal any significant difference in the status of physical activity before and after the
+
+intervention in the control group, whereas the degrees of physical activity underwent a significant increase in the intervention group (Table 4).

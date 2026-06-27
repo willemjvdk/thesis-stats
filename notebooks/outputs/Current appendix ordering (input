@@ -1,0 +1,14 @@
+Current appendix ordering (\input{} → letter)
+Letter	File	Content
+A	glossary	Abbreviations
+B	pre-piloted Excel extraction table (render placeholder until file provided)
+C	sixteen indicator combinations digital strategy + filled? (render placeholder until file provided)
+D	fig_inferential_diagnostics	fig7a/b, 8a/b/c, 9a/b
+E	fig_digital_inclusiveness	fig6 weighted
+F	LLM-validation full (placeholder)
+G	github	Code repo URL + llm_extractor	LLM pipeline (merge)
+H	search	Search criteria (itemized)
+I	full_query	Original search docx→PDF
+J	contribution	Student contribution
+K	project_plan	Approved project plan (PDF)
+L	elearning	E-learning cert

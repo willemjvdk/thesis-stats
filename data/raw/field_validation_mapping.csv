@@ -1,0 +1,70 @@
+field_name,data_type_bucket,inter_run_metric,tier1_prior_extraction,tier2_gold_standard,tier3_spot_check,notes
+cov_nr,identifier,exact_match,no,yes,yes,Structural identifier; any disagreement is a bug
+arm,categorical,percent_agreement_AC1,EXCLUDED,yes,yes,Prior extraction near-complete accuracy
+arm_explanation,free_text,token_F1_descriptive,no,yes,yes,Descriptive only; not used in analysis
+needs_discussion_arm,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+needs_discussion_arm_explanation,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+n,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Promoted from B to A: sample size is unambiguous enough for reference comparison
+time_intervention_days,numerical,ICC_with_NA_concordance,no,yes,yes,Schema rule changed; not in prior
+time_followup_days,numerical,ICC_with_NA_concordance,no,yes,yes,Schema rule changed; not in prior
+time_total_days,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Schema rule changed; not in prior
+needs_discussion_time,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+needs_discussion_time_explanation,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+diagnosis,structured_string_array,jaccard_then_value,A_reference,yes,yes,Prior near-complete on diagnostic severity
+gender_pct_female,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Prior near-complete on female %
+gender_pct_male,numerical,ICC_with_NA_concordance,no,yes,yes,Derived from female %; check consistency
+gender_female_n,numerical,ICC_with_NA_concordance,no,yes,yes,Depends on n confidence
+gender_male_n,numerical,ICC_with_NA_concordance,no,yes,yes,Depends on n confidence
+needs_discussion_gender,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+needs_discussion_gender_explanation,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+age_mean,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Prior near-complete accuracy
+age_sd,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Prior near-complete accuracy
+age_se,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Rarely populated; sparse field
+age_other,free_text,token_F1_descriptive,A_reference,yes,yes,Free-text catch-all; descriptive only
+bmi_mean,numerical,ICC_with_NA_concordance,no,yes,yes,Likely in prior but not verified
+bmi_sd,numerical,ICC_with_NA_concordance,no,yes,yes,Likely in prior but not verified
+bmi_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all; descriptive only
+bp_systolic_mean,numerical,ICC_with_NA_concordance,no,yes,yes,Often NA in COPD trials
+bp_systolic_sd,numerical,ICC_with_NA_concordance,no,yes,yes,Often NA in COPD trials
+bp_diastolic_mean,numerical,ICC_with_NA_concordance,no,yes,yes,Often NA in COPD trials
+bp_diastolic_sd,numerical,ICC_with_NA_concordance,no,yes,yes,Often NA in COPD trials
+bp_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all; descriptive only
+smoking_status,structured_string_array,jaccard_then_value,no,yes,yes,Schema changed (was single value); compare current% only
+pack_years_mean,numerical,ICC_with_NA_concordance,no,yes,yes,Not in prior
+pack_years_sd,numerical,ICC_with_NA_concordance,no,yes,yes,Not in prior
+pack_years_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all
+smoking_status_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all
+fev1_pct_mean,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Prior near-complete on diagnostic severity
+fev1_pct_sd,numerical,ICC_with_NA_concordance,A_reference,yes,yes,Prior near-complete on diagnostic severity
+fev1_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all
+disease_severity_other,structured_string_array,jaccard_then_value,no,yes,yes,Controlled-vocabulary array; not in prior
+healthcare_setting,categorical,percent_agreement_AC1,no,yes,yes,Excluded from Tier1: known rule drift in prior
+healthcare_setting_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+healthcare_setting_confidence,categorical,percent_agreement_AC1,no,yes,yes,New in v11
+healthcare_setting_confidence_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+health_literacy,categorical,percent_agreement_AC1,A_reference,yes,yes,"Boolean in LLM extraction, check if digital_literacy field with manual extraction is reported or has ""NA"""
+health_literacy_instrument_name,categorical,percent_agreement_AC1,no,yes,yes,Not in prior
+health_literacy_instrument_value,numerical,ICC_with_NA_concordance,no,yes,yes,Not in prior
+health_literacy_instrument_other,free_text,token_F1_descriptive,no,yes,yes,Free-text catch-all
+digital_strategy_excludes,boolean,percent_agreement_AC1,no,yes,yes,New framework; not in prior
+digital_strategy_excludes_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+digital_strategy_provides_equipment,boolean,percent_agreement_AC1,no,yes,yes,New framework; not in prior
+digital_strategy_provides_equipment_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+needs_discussion_equipment,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+needs_discussion_equipment_explanation,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,EXCLUDED,Excluded from all analyses (debugging field)
+digital_strategy_provides_training,boolean,percent_agreement_AC1,no,yes,yes,New framework; not in prior
+digital_strategy_provides_training_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+digital_strategy_provides_ongoing_support,boolean,percent_agreement_AC1,no,yes,yes,New framework; not in prior
+digital_strategy_provides_ongoing_support_explanation,free_text,token_F1_descriptive,no,yes,yes,Free-text descriptive
+digital_literacy,boolean,percent_agreement_AC1,A_reference,yes,yes,"Boolean in LLM extraction, check if digital_literacy field with manual extraction is reported or has ""NA"""
+digital_literacy_possession,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+digital_literacy_frequency,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+digital_literacy_skills,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+ses,boolean,percent_agreement_AC1,A_reference,yes,yes,"Boolean in LLM extraction, check if digital_literacy field with manual extraction is reported or has ""NA"""
+ses_income,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+ses_living_situation,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+ses_relationship_status,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+ses_job_status,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+ses_living_location,structured_string_array,jaccard_then_value,no,yes,yes,Not in prior
+educational_level,structured_string_array,jaccard_then_value,A_reference,yes,yes,"Boolean in LLM extraction, check if digital_literacy field with manual extraction is reported or has ""NA"""
+ethnicity,structured_string_array,jaccard_then_value,A_reference,yes,yes,"Boolean in LLM extraction, check if digital_literacy field with manual extraction is reported or has ""NA"""

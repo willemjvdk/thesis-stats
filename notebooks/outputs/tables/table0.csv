@@ -1,0 +1,11 @@
+,PROGRESS-Plus dimensions,Reported equity-relevant dimensions in the corpus trials,Weight
+P,Place of residence,metropolitan or rural residence,1
+R,Race/ethnicity/culture/language,ethnicity,1
+O,Occupation,employment status,1
+G,Gender or sex,sex,1
+R,Religion,not mapped,-
+E,Education,education,1
+S,Socioeconomic status,income,1
+S,Social capital,relationship status/living arrangements,1
++,Plus,health literacy and digital literacy,1 / 1
+Sum of reported mapped PROGRESS-Plus dimensions = adapted PROGRESS-Plus composite score:,,,0 - 9

@@ -1,0 +1,90 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1 Participant characteristics"
+
+table_footnote: "Data presented as mean (SD) unless stated otherwise. CG, control group; \scriptstyle \mathsf { D L } _ { \mathsf { C O } } ,single-breath diffusing capacity of the lung for carbon monoxide; FEV1, forced expiratory volume in 1 s; FRC, functional residual capacity; FVC, forced vital capacity; GOLD, Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease; HADS, Hospital Anxiety and Depression Scale; IG, intervention group; n, number; RV, residual volume; TLC, total lung capacity."
+
+table_body:
+<table><tr><td>Variable</td><td>IG
+n = 49</td><td>CG
+n = 46</td></tr><tr><td>Age (years)</td><td>70 (7)</td><td>69 (9)</td></tr><tr><td>Gender, male/female</td><td>25/24</td><td>30/16</td></tr><tr><td>Height (m)</td><td>1.7 (0.1)</td><td>1.7 (0.1)</td></tr><tr><td>Weight (kg)</td><td>69 (16)</td><td>74 (14)</td></tr><tr><td>BMI (kg/m2)</td><td>24 (5)</td><td>26 (5)</td></tr><tr><td>Current smokers, n (%)</td><td>9 (18)</td><td>6 (13)</td></tr><tr><td>Anxiety, HADS score</td><td>6 (4)</td><td>7 (4)</td></tr><tr><td>Depression, HADS score</td><td>5 (4)</td><td>5 (3)</td></tr><tr><td>Pulmonary function</td><td></td><td></td></tr><tr><td>FEV1 (L)</td><td>1.08 (0.37)</td><td>1.18 (0.46)</td></tr><tr><td>FEV1 (% predicted)</td><td>43 (15)</td><td>43 (15)</td></tr><tr><td>FVC (L)</td><td>2.60 (0.72)</td><td>2.82 (0.95)</td></tr><tr><td>FVC (% predicted)</td><td>75 (16)</td><td>76 (19)</td></tr><tr><td>FEV1/FVC (%)</td><td>43 (13)</td><td>43 (14)</td></tr><tr><td>TLC (% predicted)</td><td>114 (33)</td><td>110 (17)</td></tr><tr><td>FRC (% predicted)</td><td>148 (60)</td><td>139 (34)</td></tr><tr><td>RV (% predicted)</td><td>157 (76)</td><td>142 (40)</td></tr><tr><td>RV/TLC (%)</td><td>53 (9)</td><td>50 (10)</td></tr><tr><td>DLCO (% predicted)</td><td>43 (16)</td><td>45 (17)</td></tr><tr><td>GOLD grade</td><td></td><td></td></tr><tr><td>II, n (%)</td><td>23 (47)</td><td>17 (37)</td></tr><tr><td>III, n (%)</td><td>18 (37)</td><td>24 (52)</td></tr><tr><td>IV, n (%)</td><td>8 (16)</td><td>5 (11)</td></tr><tr><td>Respiratory medication</td><td></td><td></td></tr><tr><td>Short-acting bronchodilator, n (%)</td><td>28 (57)</td><td>27 (59)</td></tr><tr><td>Long-acting bronchodilator, n (%)</td><td>31 (63)</td><td>30 (65)</td></tr><tr><td>Inhaled corticosteroid, n (%)</td><td>2 (4)</td><td>3 (7)</td></tr><tr><td>Combination therapy, n (%)</td><td>31 (63)</td><td>31 (67)</td></tr><tr><td>Oral corticosteroid, n (%)</td><td>6 (12)</td><td>8 (17)</td></tr><tr><td>Co-morbidity</td><td></td><td></td></tr><tr><td>Hypertension, n (%)</td><td>22 (45)</td><td>18 (39)</td></tr><tr><td>Cardiac (including previous surgery), n (%)</td><td>19 (39)</td><td>17 (37)</td></tr><tr><td>Diabetes, n (%)</td><td>1 (2)</td><td>3 (7)</td></tr><tr><td>Asthma, n (%)</td><td>7 (14)</td><td>6 (13)</td></tr><tr><td>Bronchiectasis, n (%)</td><td>1 (2)</td><td>0 (0)</td></tr><tr><td>Other respiratory history, n (%)</td><td>4 (8)</td><td>5 (11)</td></tr><tr><td>Cancer, n (%)</td><td>3 (6)</td><td>4 (9)</td></tr><tr><td>Non-cardiac surgery, n (%)</td><td>5 (10)</td><td>5 (11)</td></tr><tr><td>Neurological, n (%)</td><td>0 (0)</td><td>1 (2)</td></tr><tr><td>Psychological, n (%)</td><td>7 (14)</td><td>8 (17)</td></tr><tr><td>Increased cholesterol, n (%)</td><td>9 (18)</td><td>10 (22)</td></tr><tr><td>Musculoskeletal, n (%)</td><td>21 (43)</td><td>18 (39)</td></tr><tr><td>Other, n (%)</td><td>29 (59)</td><td>34 (74)</td></tr></table>
+
+# table 2
+
+table_caption: "Table 2 Health-related quality of life and exercise capacity at baseline, 2-, 8- and 14-month assessment"
+
+table_footnote: "Data presented as raw mean (SD). 6MWT, 6-min walk test; CG, control group; ESWT, endurance shuttle walk test; IG, intervention group; ISWT, incremental shuttle walk test; LMM, linear mixed model; n, number of participants analysed; SGRQ, St George’s Respiratory Questionnaire."
+
+table_body:
+<table><tr><td rowspan="2"></td><td colspan="2">Baseline assessment</td><td colspan="2">2-Month assessment</td><td colspan="2">8-Month assessment</td><td colspan="2">14-Month assessment</td><td rowspan="2">LMM P-value Time × group</td></tr><tr><td>IG</td><td>CG</td><td>IG</td><td>CG</td><td>IG</td><td>CG</td><td>IG</td><td>CG</td></tr><tr><td>SGRQ, n</td><td>49</td><td>46</td><td>43</td><td>37</td><td>41</td><td>38</td><td>38</td><td>33</td><td></td></tr><tr><td>Total score</td><td>46 (18)</td><td>47 (16)</td><td>40 (12)</td><td>42 (16)</td><td>40 (15)</td><td>45 (18)</td><td>40 (17)</td><td>47 (17)</td><td>0.71</td></tr><tr><td>Symptoms</td><td>57 (22)</td><td>55 (22)</td><td>49 (22)</td><td>52 (25)</td><td>48 (22)</td><td>54 (27)</td><td>48 (24)</td><td>52 (24)</td><td>0.66</td></tr><tr><td>Activity</td><td>62 (20)</td><td>66 (19)</td><td>57 (18)</td><td>61 (19)</td><td>61 (19)</td><td>63 (20)</td><td>60 (22)</td><td>66 (19)</td><td>0.53</td></tr><tr><td>Impacts</td><td>32 (17)</td><td>35 (19)</td><td>27 (13)</td><td>28 (16)</td><td>25 (15)</td><td>32 (18)</td><td>26 (16)</td><td>35 (19)</td><td>0.29</td></tr><tr><td>6MWT, n</td><td>49</td><td>46</td><td>42</td><td>35</td><td>38</td><td>36</td><td>35</td><td>27</td><td></td></tr><tr><td>Distance (m)</td><td>458 (87)</td><td>467 (80)</td><td>479 (86)</td><td>468 (100)</td><td>464 (105)</td><td>453 (93)</td><td>469 (98)</td><td>432 (121)</td><td>0.11</td></tr><tr><td>ISWT, n</td><td>49</td><td>46</td><td>41</td><td>33</td><td>37</td><td>36</td><td>28</td><td>35</td><td></td></tr><tr><td>Distance (m)</td><td>315 (107)</td><td>317 (112)</td><td>361 (125)</td><td>323 (140)</td><td>346 (123)</td><td>328 (134)</td><td>338 (135)</td><td>324 (143)</td><td>0.25</td></tr><tr><td>ESWT, n</td><td>49</td><td>46</td><td>43</td><td>35</td><td>37</td><td>36</td><td>29</td><td>35</td><td></td></tr><tr><td>Time (s)</td><td>304 (210)</td><td>317 (186)</td><td>584 (388)</td><td>561 (395)</td><td>529 (387)</td><td>443 (360)</td><td>495 (383)</td><td>405 (377)</td><td>0.41</td></tr></table>
+
+# table 3
+
+table_caption: "Table 3 Health-related quality of life and exercise capacity within-group differences"
+
+table_footnote: "*P < 0.05. Data presented as predicted between-time mean (95% CI) differences by group. 6MWT, 6-min walk test; CG, control group; ESWT, endurance shuttle walk test; IG, intervention group; ISWT, incremental shuttle walk test; n, number of participants analysed; SGRQ, St George’s Respiratory Questionnaire."
+
+table_body:
+<table><tr><td rowspan="2" colspan="2"></td><td colspan="2">Mean difference
+2 months – baseline</td><td colspan="2">Mean difference
+14 months – baseline</td><td colspan="2">Mean difference
+14 months – 2 months</td></tr><tr><td>IG</td><td>CG</td><td>IG</td><td>CG</td><td>IG</td><td>CG</td></tr><tr><td colspan="2">n</td><td>49</td><td>46</td><td>49</td><td>46</td><td>49</td><td>46</td></tr><tr><td colspan="2">SGRQ</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Total score</td><td>-6 (-10, -2)*</td><td>-6 (-10, -2)*</td><td>-5 (-9, -1)*</td><td>-2 (-6, 2)</td><td>1 (-2, 5)</td><td>4 (0.1, 8)*</td></tr><tr><td></td><td>Symptoms</td><td>-8 (-14, -1)*</td><td>-3 (-10, 4)</td><td>-7 (-15, 1)</td><td>-4 (-12, 4)</td><td>0 (-7, 8)</td><td>-1 (-9, 8)</td></tr><tr><td></td><td>Activity</td><td>-4 (-8, 0)</td><td>-5 (-10, -1)*</td><td>0 (-4, 5)</td><td>0 (-4, 5)</td><td>4 (-1, 9)</td><td>6 (1, 11)*</td></tr><tr><td></td><td>Impacts</td><td>-5 (-9, -1)*</td><td>-7 (-12, -3)*</td><td>-5 (-10, -1)*</td><td>-3 (-7, 2)</td><td>-0.5 (-4, 3)</td><td>4 (1, 8)*</td></tr><tr><td>6MWT</td><td>Distance (m)</td><td>17 (4, 30)*</td><td>-1 (15, -13)</td><td>-6 (-26, 13)</td><td>-40 (-61, -18)</td><td>-23 (-41, -5)*</td><td>-39 (-59, -18)*</td></tr><tr><td>ISWT</td><td>Distance (m)</td><td>36 (17, 55)*</td><td>8 (-14, 29)</td><td>-1 (-20, 17)</td><td>-1 (-21, 20)</td><td>-37 (-60, -14)*</td><td>-8 (-34, 17)</td></tr><tr><td>ESWT</td><td>Time (s)</td><td>256 (161, 351)*</td><td>214 (110, 318)*</td><td>146 (43, 249)*</td><td>46 (-67, 159)</td><td>-110 (-232, 12)</td><td>-168 (-303, -33)*</td></tr></table>
+
+# table 4
+
+table_caption: "Table 4 Health-related quality of life and exercise capacity between-group differences"
+
+table_footnote: "Data was determined from the predicted means from Linear Mixed Model (LMM). ESWT: endurance shuttle walk test; ISWT: incremental shuttle walk test; m: metres; n: number of participants analysed; s: seconds; SGRQ: St George’s Respiratory Questionnaire; 6MWT: six-minute walk test"
+
+table_body:
+<table><tr><td></td><td></td><td colspan="2">Between-group difference in change scores</td></tr><tr><td></td><td></td><td>Between baseline and 14-month assessment (95%CI)</td><td>Between 2-month and 14-month assessment (95%CI)</td></tr><tr><td rowspan="5">SGRQ</td><td>n</td><td>71</td><td>68</td></tr><tr><td>Total score</td><td>2 (-4, 8)</td><td>4 (-2, 9)</td></tr><tr><td>Symptoms</td><td>2 (-10, 14)</td><td>-0.9 (-13, 11)</td></tr><tr><td>Activity</td><td>-1 (-8, 5)</td><td>3 (-4, 10)</td></tr><tr><td>Impacts</td><td>1 (-6, 7)</td><td>6 (0.4, 12)</td></tr><tr><td rowspan="2">6MWT</td><td>n</td><td>62</td><td>60</td></tr><tr><td>Distance (m)</td><td>-37 (-69,-4)</td><td>-16 (-46, 15)</td></tr><tr><td rowspan="2">ISWT</td><td>n</td><td>63</td><td>59</td></tr><tr><td>Distance (m)</td><td>2 (-27, 32)</td><td>23 (-13, 60)</td></tr><tr><td rowspan="2">ESWT</td><td>n</td><td>64</td><td>62</td></tr><tr><td>Time (s)</td><td>-96 (-253, 61)</td><td>-54 (-245, 137)</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# METHODS
+The study was a long-term, prospective, assessorblinded, multicentre (five sites), RCT with concealed allocation. Participants were randomized prior to commencing a 2-month supervised walking training programme (i.e. baseline) via an independent telephone randomization service using computerized random number generator sequencing into two groups: an intervention group (IG) and a control group (CG). Before commencing the 12-month maintenance programme, both groups received the same 2-month intervention of a supervised, walking training programme, two to three times per week. The findings of the 2- month study have been previously reported, comparing the effects of supervised walking training (combined IG and CG) to a group who received usual medical care and did not participate in any exercise training.18 The intervention for participants in the IG and CG only
+
+differed once they entered the 12-month maintenance phase. Randomization was stratified according to lung function (forced expiratory volume in 1 s ( \mathrm { F E V _ { 1 } ) < \ o r }≥40% predicted), HRQoL measures using the St George’s Respiratory Questionnaire (SGRQ) (total score < or ≥45), exercise capacity (6-min walk distance (6MWD) < or ≥70% predicted) and trial centre.
+
+Participants were recruited from outpatient PR programmes in two cities within Australia between May 2009 and June 2012. Inclusion and exclusion criteria have been previously described.18 Written informed consent was obtained from all participants. The study was approved by the ethics committees of Sydney South West Area Health Service (Sydney, Australia), The University of Sydney (Sydney, Australia), Curtin University (Perth, Australia), Sir Charles Gairdner Hospital (Nedlands, Australia) and Bentley Hospital (Perth, Australia).
+
+Following completion of the short-term supervised programme, both the IG and CG were instructed to perform unsupervised maintenance walking exercise, 3 days a week for 12 months starting at the same duration achieved in the final week of supervised training and at a pace which elicited a dyspnoea score of three to four on a modified 0–10 point category-ratio dyspnoea scale.19 In addition, the IG received telephone calls, biofeedback provided via a pedometer (G-Sensor accelerometer, Pedometers Australia, Cannington, Australia) and progressive goal setting (based on pedometer data). Diaries were provided for participants in both groups to record details of completed walking sessions. Further details of the intervention and the telephone script can be found in Appendices S1 and S2 (Supplementary Information).
+
+## Assessment protocol and measurements
+
+Participants were assessed on four occasions over a 14- month period as follows: (i) prior to commencing the 2-month supervised walking training programme (baseline assessment), (ii) at the end of the 2-month supervised walking training programme which marked the commencement of the maintenance phase (2- month assessment), (iii) after 6 months of maintenance (8-month assessment) and (iv) after 12 months of maintenance (14-month assessment). During the baseline assessment, age, height, weight, gender, co-morbid conditions and medication use were recorded. Levels of anxiety and depression were measured by the Hospital Anxiety and Depression Scale (HADS).20 At all four assessment time points, participants completed measures of HRQoL, exercise capacity and spirometric lung function over two visits within a 7-day period. FEV1 and forced vital capacity (FVC) were collected using a calibrated portable spirometer (EasyOne spirometer, ndd Medical Technologies Inc., Andover, MA, USA) according to standard procedures. Lung volumes (body plethysmography) and single-breath diffusing capacity of the lung for carbon monoxide \mathrm { ( D L _ { C O } ) }were measured at baseline only, according to standard protocols. Measures obtained were compared with normative data.21–23 Disease severity was classified according to the Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease (GOLD) spirometric criteria.24
+
+## Health-related quality of life
+
+The primary outcome was HRQoL measured by the SGRQ.25 The interviewer-administered Chronic Respiratory Disease Questionnaire (CRQ), with the individualized dyspnoea domain, was also completed.26
+
+## Exercise capacity
+
+Functional exercise capacity was measured by the 6- min walk test (6MWT), peak exercise capacity by the incremental shuttle walk test (ISWT) and endurance exercise capacity by the endurance shuttle walk test (ESWT).27 Procedures for the walk tests have been previously described.18
+
+## Adherence to unsupervised maintenance walking programme
+
+Adherence in both groups was determined using data from diaries and also, for the IG, by reviewing telephone transcripts. At the 8-month and 14-month assessments, the number of returned diaries in both groups was recorded, as well as the number of completed telephone transcripts in the IG.
+
+## Sample size and data analysis
+
+The sample size was based on detection of a clinical meaningful difference in total SGRQ score between the IG and CG at the 14-month assessment. Eighty-six participants were sufficient to provide 80% power to detect a between-group difference in SGRQ total score of at least 7.7 points, which is greater than the minimum clinically important difference (α = 0.05, two-sided).28 This assumed an SD of 12.7 points in total SGRQ score as previously reported.29 To allow for a 10% dropout, 95 participants were required. Data were analysed using SPSS software (Version 20 for Windows, IBM Inc, Armonk, NY, USA). Intention to treat analysis was conducted with no imputation of missing data. Descriptive statistics are presented as raw mean values and SD unless otherwise stated. Linear mixed models (LMM) were used to determine significance between groups across all time points using the sample that was available at each time point. An estimate of the within-group effect on three comparisons, baseline to 2 months; baseline to 14 months; and 2 to 14 months, was determined for each group using the least significant difference (pairwise comparison) and is reported as mean differences and 95% CI from the predicted values of the LMM. To evaluate the between-group treatment
+
+effect on these three comparisons, change scores were determined by simple subtraction of the within-group effect and differences in the change scores were compared using independent t-tests.
+
+# RESULTS
+Participant flow is presented in Figure 1. Baseline characteristics of participants were similar between groups (Table 1). Participants had moderate to severe COPD ( \mathrm { F E V _ { \mathrm { 1 : } } }45 (15) % predicted),24 reduced HRQoL (SGRQ total score: 46 (17)), reduced exercise capacity (6MWD: 74 (13) % predicted) and symptoms of anxiety and depression that were within normal range (0–7 points on HADS20). Participants completed an average of 17 (7) out of a possible 24 supervised walking training sessions prior to commencement of the maintenance programme. Of the 95 participants who commenced the 2-month supervised walking training programme, 20 participants (21%) did not complete any of the 14-month outcome measures. No adverse events were reported during the study.
+
+## Health-related quality of life
+
+The SGRQ outcomes are presented in Tables 2–4 and Figure 2A. Both the IG and CG significantly improved SGRQ total score at the end of the 2-month supervised walking training programme. Between-group analyses demonstrated no significant differences in the change in SGRQ from baseline to 14 months or from 2 to 14 months (Fig. 2A). The results from the CRQ are presented in Tables S1–S3 (Supplementary Information).
+
+## Exercise capacity
+
+The exercise capacity outcomes are presented in Tables 2–4 and Figure 2B. Both the IG and CG significantly improved exercise capacity measured by the ESWT with the IG also significantly improving on the ISWT and 6MWT at the end of the 2-month supervised walking programme. Between-group analyses demonstrated no significant differences in change in exercise capacity from baseline to 14 months or from 2 to 14 months.
+
+## Adherence to unsupervised maintenance walking programme
+
+Reported levels of adherence to unsupervised maintenance walking exercise sessions are presented in Table S4 (Supplementary Information). Between-group analyses of adherence levels were not possible due to lack of data in the CG.

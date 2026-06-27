@@ -1,0 +1,5 @@
+error_type,count,pct,n_arms_with_type,n_arms_total
+no_error,931,94.32624113475178,3,21
+minor_error,49,4.964539007092199,17,21
+major_error,7,0.7092198581560284,7,21
+arms_with_any_error,18,85.71428571428571,18,21

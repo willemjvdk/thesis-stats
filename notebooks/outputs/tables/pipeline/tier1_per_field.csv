@@ -1,0 +1,16 @@
+field_name,bucket,tier1_group,n_total,n_compared,n_both_na,n_one_na,primary_metric,primary_value,secondary_metric,secondary_value,tertiary_metric,tertiary_value,flagged,flag_reason,one_na_llm_cov_nrs,one_na_prior_cov_nrs
+n,numerical,A,134,134,0,0,icc_2_1,0.9716,na_concordance_rate,1.0,,,False,,,
+time_total_days,numerical,A,134,130,0,4,icc_2_1,0.9687,na_concordance_rate,0.0,,,True,na_concordance_rate=0.000 < 0.95,1400; 4986,
+diagnosis,structured_string_array,A,134,134,0,0,key_jaccard,0.9739,value_agreement_on_matched_keys,0.9848,,,False,,,
+gender_pct_female,numerical,A,134,128,2,4,icc_2_1,0.9736,na_concordance_rate,0.3333,,,True,na_concordance_rate=0.333 < 0.95,0157; 1800,
+age_mean,numerical,A,134,124,6,4,icc_2_1,0.9519,na_concordance_rate,0.6,,,True,na_concordance_rate=0.600 < 0.95,1288; 1800,
+age_sd,numerical,A,134,113,19,2,icc_2_1,0.9669,na_concordance_rate,0.9048,,,True,na_concordance_rate=0.905 < 0.95,1800,
+age_se,numerical,A,134,9,125,0,icc_2_1,-0.0004,na_concordance_rate,1.0,,,True,icc_2_1=-0.000 < 0.9,,
+age_other,free_text,A,134,8,120,6,token_f1,0.1411,,,,,False,,,0464; 1203; 1800
+fev1_pct_mean,numerical,A,134,102,28,4,icc_2_1,0.9812,na_concordance_rate,0.875,,,True,na_concordance_rate=0.875 < 0.95,1800; 4337,
+fev1_pct_sd,numerical,A,134,98,34,2,icc_2_1,0.9887,na_concordance_rate,0.9444,,,True,na_concordance_rate=0.944 < 0.95,1800,
+health_literacy,boolean,A,134,134,0,0,gwet_ac1,0.7139,percent_agreement,0.806,cohen_kappa,0.397,True,gwet_ac1=0.714 < 0.8,,
+digital_literacy,boolean,A,134,134,0,0,gwet_ac1,0.9594,percent_agreement,0.9701,cohen_kappa,0.8873,False,,,
+ses,boolean,A,134,134,0,0,gwet_ac1,0.8234,percent_agreement,0.9104,cohen_kappa,0.819,True,percent_agreement=0.910 < 0.95,,
+educational_level,boolean,A,134,134,0,0,gwet_ac1,0.9238,percent_agreement,0.9552,cohen_kappa,0.8915,False,,,
+ethnicity,boolean,A,134,134,0,0,gwet_ac1,1.0,percent_agreement,1.0,cohen_kappa,1.0,False,,,

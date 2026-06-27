@@ -1,0 +1,60 @@
+field_name,bucket,n_total,n_compared,n_both_na,n_one_na,primary_metric,primary_value,secondary_metric,secondary_value,tertiary_metric,tertiary_value,flagged,flag_reason
+arm_explanation,free_text,134,134,0,0,token_f1,0.7133,,,,,False,
+n,numerical,134,134,0,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+time_intervention_days,numerical,134,128,6,0,icc_2_1,0.9494,na_concordance_rate,1.0,,,False,
+time_followup_days,numerical,134,128,4,2,icc_2_1,0.8928,na_concordance_rate,0.6667,,,True,icc_2_1=0.893 < 0.9
+time_total_days,numerical,134,128,4,2,icc_2_1,0.9872,na_concordance_rate,0.6667,,,True,na_concordance_rate=0.667 < 0.95
+diagnosis,structured_string_array,134,134,0,0,key_jaccard,0.9851,value_agreement_on_matched_keys,1.0,,,False,
+gender_pct_female,numerical,134,128,4,2,icc_2_1,1.0,na_concordance_rate,0.6667,,,True,na_concordance_rate=0.667 < 0.95
+gender_pct_male,numerical,134,128,4,2,icc_2_1,1.0,na_concordance_rate,0.6667,,,True,na_concordance_rate=0.667 < 0.95
+gender_female_n,numerical,134,128,4,2,icc_2_1,1.0,na_concordance_rate,0.6667,,,True,na_concordance_rate=0.667 < 0.95
+gender_male_n,numerical,134,128,4,2,icc_2_1,1.0,na_concordance_rate,0.6667,,,True,na_concordance_rate=0.667 < 0.95
+age_mean,numerical,134,124,6,4,icc_2_1,1.0,na_concordance_rate,0.6,,,True,na_concordance_rate=0.600 < 0.95
+age_sd,numerical,134,113,19,2,icc_2_1,1.0,na_concordance_rate,0.9048,,,True,na_concordance_rate=0.905 < 0.95
+age_se,numerical,134,9,125,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+age_other,free_text,134,12,118,4,token_f1,0.7211,,,,,False,
+bmi_mean,numerical,134,69,65,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bmi_sd,numerical,134,60,74,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bmi_other,free_text,134,9,123,2,token_f1,0.7222,,,,,False,
+bp_systolic_mean,numerical,134,9,125,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bp_systolic_sd,numerical,134,9,125,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bp_diastolic_mean,numerical,134,9,125,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bp_diastolic_sd,numerical,134,9,125,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+bp_other,free_text,134,2,132,0,token_f1,0.1333,,,,,False,
+smoking_status,structured_string_array,134,77,55,2,key_jaccard,0.7351,value_agreement_on_matched_keys,0.7639,,,True,key_jaccard=0.735 < 0.85
+pack_years_mean,numerical,134,24,110,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+pack_years_sd,numerical,134,24,110,0,icc_2_1,1.0,na_concordance_rate,1.0,,,False,
+pack_years_other,free_text,134,2,132,0,token_f1,0.3636,,,,,False,
+smoking_status_other,free_text,134,15,113,6,token_f1,0.2422,,,,,False,
+fev1_pct_mean,numerical,134,102,28,4,icc_2_1,1.0,na_concordance_rate,0.875,,,True,na_concordance_rate=0.875 < 0.95
+fev1_pct_sd,numerical,134,98,34,2,icc_2_1,1.0,na_concordance_rate,0.9444,,,True,na_concordance_rate=0.944 < 0.95
+fev1_other,free_text,134,8,120,6,token_f1,0.5312,,,,,False,
+disease_severity_other,structured_string_array,134,126,6,2,key_jaccard,0.671,value_agreement_on_matched_keys,0.8702,,,True,key_jaccard=0.671 < 0.85
+healthcare_setting,categorical,134,134,0,0,gwet_ac1,0.8252,percent_agreement,0.8582,cohen_kappa,0.6246,True,percent_agreement=0.858 < 0.95
+healthcare_setting_explanation,free_text,134,134,0,0,token_f1,0.546,,,,,False,
+healthcare_setting_confidence,categorical,134,134,0,0,gwet_ac1,0.6154,percent_agreement,0.709,cohen_kappa,0.404,True,gwet_ac1=0.615 < 0.8
+healthcare_setting_confidence_explanation,free_text,134,84,22,28,token_f1,0.5232,,,,,False,
+health_literacy,categorical,134,134,0,0,gwet_ac1,0.85,percent_agreement,0.8955,cohen_kappa,0.6563,True,percent_agreement=0.896 < 0.95
+health_literacy_instrument_name,categorical,134,18,102,14,gwet_ac1,0.3956,percent_agreement,0.4444,cohen_kappa,0.4,True,gwet_ac1=0.396 < 0.8
+health_literacy_instrument_value,numerical,134,16,104,14,icc_2_1,1.0,na_concordance_rate,0.8814,,,True,na_concordance_rate=0.881 < 0.95
+health_literacy_instrument_other,free_text,134,18,102,14,token_f1,0.4502,,,,,False,
+digital_strategy_excludes,boolean,134,134,0,0,gwet_ac1,0.9268,percent_agreement,0.9627,cohen_kappa,0.9238,False,
+digital_strategy_excludes_explanation,free_text,134,74,55,5,token_f1,0.7545,,,,,False,
+digital_strategy_provides_equipment,boolean,134,134,0,0,gwet_ac1,0.8508,percent_agreement,0.9104,cohen_kappa,0.7762,True,percent_agreement=0.910 < 0.95
+digital_strategy_provides_equipment_explanation,free_text,134,31,90,13,token_f1,0.7171,,,,,False,
+digital_strategy_provides_training,boolean,134,134,0,0,gwet_ac1,0.987,percent_agreement,0.9925,cohen_kappa,0.9825,False,
+digital_strategy_provides_training_explanation,free_text,134,41,92,1,token_f1,0.7049,,,,,False,
+digital_strategy_provides_ongoing_support,boolean,134,134,0,0,gwet_ac1,0.8871,percent_agreement,0.9254,cohen_kappa,0.7803,True,percent_agreement=0.925 < 0.95
+digital_strategy_provides_ongoing_support_explanation,free_text,134,24,99,11,token_f1,0.607,,,,,False,
+digital_literacy,boolean,134,134,0,0,gwet_ac1,0.9689,percent_agreement,0.9776,cohen_kappa,0.9199,False,
+digital_literacy_possession,structured_string_array,134,4,121,9,key_jaccard,0.5,value_agreement_on_matched_keys,1.0,,,True,key_jaccard=0.500 < 0.85
+digital_literacy_frequency,structured_string_array,134,3,119,12,key_jaccard,1.0,value_agreement_on_matched_keys,1.0,,,False,
+digital_literacy_skills,structured_string_array,134,2,121,11,key_jaccard,0.2,value_agreement_on_matched_keys,0.0,,,True,key_jaccard=0.200 < 0.85
+ses,boolean,134,134,0,0,gwet_ac1,0.898,percent_agreement,0.9478,cohen_kappa,0.8929,True,percent_agreement=0.948 < 0.95
+ses_income,structured_string_array,134,10,120,4,key_jaccard,0.4952,value_agreement_on_matched_keys,0.0,,,True,key_jaccard=0.495 < 0.85
+ses_living_situation,structured_string_array,134,37,95,2,key_jaccard,0.6036,value_agreement_on_matched_keys,0.6923,,,True,key_jaccard=0.604 < 0.85
+ses_relationship_status,structured_string_array,134,17,115,2,key_jaccard,1.0,value_agreement_on_matched_keys,0.5263,,,True,value_agreement_on_matched_keys=0.526 < 0.9
+ses_job_status,structured_string_array,134,24,110,0,key_jaccard,0.9028,value_agreement_on_matched_keys,0.7059,,,True,value_agreement_on_matched_keys=0.706 < 0.9
+ses_living_location,structured_string_array,134,8,126,0,key_jaccard,1.0,value_agreement_on_matched_keys,1.0,,,False,
+educational_level,boolean,134,0,134,0,gwet_ac1,,percent_agreement,,,,False,
+ethnicity,boolean,134,0,134,0,gwet_ac1,,percent_agreement,,,,False,

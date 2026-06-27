@@ -1,0 +1,7 @@
+# references/Adelphi_baseline.csv,,,,
+variable,n,mean,sd,note
+age_years,2876,"66,2","9,7",from Benson 2019
+female_pct,2876,"33,2","0,0",
+fev1_pct_predicted,2876,"63,0","16,0",
+bmi_kg_m2,2876,"26,5","4,3",
+current_smoker_pct,2876,"30,6",,bonus PROGRESS-Plus

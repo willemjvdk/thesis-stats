@@ -1,0 +1,59 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1. Demographic and Baseline Characteristics of a Sample of Patients With Type 2 Diabetes and Uncontrolled Hypertension (N = 28), New York City, 2012–2013"
+
+table_footnote: "Abbreviations: BP, blood pressure; GED, general educational development certificate; SD, standard deviation."
+
+table_body:
+<table><tr><td>Participant Characteristic</td><td>Value</td></tr><tr><td>Age, y, mean (SD)</td><td>60.7 (8.2)</td></tr><tr><td>Sex, % female</td><td>57.1</td></tr><tr><td colspan="2">Race/ethnicity, %</td></tr><tr><td>Hispanic</td><td>71.4</td></tr><tr><td>Black</td><td>28.6</td></tr><tr><td>Annual income (adjusted for household size), $, mean (SD)</td><td>7,044 (6,271)</td></tr><tr><td colspan="2">Education, %</td></tr><tr><td>Less than high school graduate</td><td>35.6</td></tr><tr><td>High school graduate or GED</td><td>35.7</td></tr><tr><td>Some college</td><td>17.9</td></tr><tr><td>Bachelor&#x27;s or associate&#x27;s degree</td><td>10.7</td></tr><tr><td>Food insecure, %</td><td>57.1</td></tr><tr><td>Body mass index, kg/m2, mean (SD)</td><td>33.8 (6.7)</td></tr><tr><td>Use antihypertensive medications, %</td><td>96.4</td></tr><tr><td>Systolic BP, mm Hg, mean (SD)</td><td>154.8 (10.4)</td></tr><tr><td>Diastolic BP, mm Hg, mean (SD)</td><td>85.7 (9.3)</td></tr></table>
+
+# table 2
+
+table_caption: "Table 2. Unstandardized Regression Coefficients Representing Effects on Systolic Blood Pressure (mm Hg/week)a"
+
+table_footnote: "a Adjusted models control for intervention arm, age, sex, race/ethnicity, total family income adjusted for household size, education, body mass index, and antihypertensive medication use."
+
+table_body:
+<table><tr><td rowspan="2">Variable</td><td colspan="3">Unadjusted</td><td colspan="3">Adjusted</td></tr><tr><td>b</td><td>t</td><td>PValue</td><td>b</td><td>t</td><td>PValue</td></tr><tr><td>Model 1: Main effect of Time</td><td>-.23</td><td>-1.42</td><td>.17</td><td>-.15</td><td>-.96</td><td>.35</td></tr><tr><td>Model 2: Main effect of Food Insecurity status</td><td>-3.11</td><td>-.78</td><td>.45</td><td>7.34</td><td>1.01</td><td>.33</td></tr><tr><td>Model 3: Intervention × Time</td><td>-.004</td><td>-.013</td><td>.99</td><td>-.09</td><td>-.25</td><td>.80</td></tr><tr><td>Model 4: Food Insecurity Status × Time</td><td>1.02</td><td>4.22</td><td>.001</td><td>1.01</td><td>3.88</td><td>.001</td></tr><tr><td>Effect of Time</td><td>-.77</td><td>-4.35</td><td>&lt;.001</td><td>-.66</td><td>-.35</td><td>.002</td></tr><tr><td>Effect of Food Insecurity status</td><td>-2.45</td><td>-.61</td><td>.55</td><td>-.22</td><td>-.30</td><td>.77</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# Methods
+## Participants and procedures
+
+Participants were 28 English- or Spanish-speaking men and women with uncontrolled hypertension and comorbid type 2 diabetes. Patients were recruited from the Ambulatory Care Clinic at Bellevue Hospital in New York City via flyers, face-to-face recruitment, and physician referral. Inclusion criteria were as follows: 18 years of age or older, diagnosis of type 2 diabetes (confirmed in the electronic health record [EHR]), received care at the practice for at least 6 months, uncontrolled hypertension (defined as systolic blood pressure (SBP) 140 mm Hg or higher and/or diastolic blood pressure (DBP) 90 mm Hg or higher on at least 2 previous visits in the previous year and at study screening), and proficiency in either English or Spanish. Exclusion criteria were screening BP 180/110 mm Hg or higher, cognitive dysfunction or psychiatric comorbidity, pregnancy, concurrent participation in another clinical trial, or being deemed unable to comply with study protocol (ie, unwilling or unable to follow the home BP monitoring protocol or participate in telephone sessions).
+
+Patients who were interested and eligible provided written informed consent and completed baseline assessments, including self-report questionnaires and measurement of height, weight, and BP. The average of 3 BP readings taken with a validated automated device (Watch BP Office, Microlife Medical Home Solutions, Inc) was recorded. Participants were randomly assigned to either 1) home BP telemonitoring (HBPTM) alone; or 2) home BP telemonitoring plus nurse case management (HBPTM+NCM). Participants assigned to either group completed follow-up assessments at 3 and 6 months, at which time BP measurement was repeated. Participants received $10 for completion of the 3-month visit and $15 for completion of the 6-month visit.
+
+## Study interventions
+
+## Home BP telemonitoring (HBPTM)
+
+Participants received a validated home BP monitoring device (Stabil-O-Graph mobil) and were trained by a research assistant in its use. They were instructed to take BP readings in the morning and evening at least 3 days per week during the 6-month intervention. Readings were wirelessly transmitted to a secure central server, and reports were sent to patients’ physicians via secure email before scheduled appointments. For safety measures, the monitors were preprogrammed with BP alarm values, which, when triggered, activated an email to the research staff or nurse case manager, depending on the participant’s study group, prompting follow-up with the patient. Participants assigned to home telemonitoring received publicly available educational materials regarding
+
+management of hypertension and diabetes and were encouraged to follow the clinical guidelines described in the materials. They also completed a single 30-minute telephone session with a nurse case manager within 2 weeks of randomization and delivery of the blood pressure telemonitoring device to their home.
+
+## Home BP telemonitoring plus nurse case management (NCM+HBPTM)
+
+The combined intervention supplements the home blood pressure telemonitoring protocol with patient self-management support from a nurse case manager. The intervention tested in this study was the HouseCalls telehealth program, which is integrated into the New York City Health and Hospitals Corporation (HHC) system as part of its home care program. The intervention is delivered by HHC nurses who have real-time access to patients’ EHRs and are in communication with their providers.
+
+Within 2 weeks of randomization and delivery of the home telemonitoring device, a nurse case manager contacted patients to make sure they were comfortable using the device and to initiate the planned schedule of counseling telephone calls: weekly for months 1 and 2, biweekly for month 3, and monthly for months 4 through 6. The nurse case manager had access to the patients’ home BP data via a secure website, where the readings are displayed in easy-to-read charts and figures that highlight the control rate for each week. This information was used by the nurse case manager as a basis for counseling sessions with the patient. The patient’s physician(s) received home BP reports via secure email before every scheduled appointment for the duration of the study.
+
+During scheduled telephone sessions, HouseCalls nurse case managers provide self-management education and medication and appointment reminders, and they facilitate patient–provider communication. They also create individually tailored goals in collaboration with each participant. Target behaviors may include dietary changes, physical activity, weight loss, smoking cessation, stress reduction, self-monitoring of blood glucose and BP, and medication adherence. The nurse case managers assess patients’ barriers to behavior change and use problem-solving and motivational interviewing techniques to support behavior change efforts. At the end of each counseling session, the nurse case managers record the notes of each encounter in the patient’s EHR and communicate with the patient’s physician if needed (eg, regarding medication side effects or the need for appointments or medication refills). Calls are 15 to 45 minutes long depending on the needs of the patient.
+
+## Assessment of food insecurity
+
+Participants completed the 6-item USDA food security short form at baseline (17,18). Sample items are “The food that (I/we) bought just didn’t last, and (I/we) didn’t have money to get more”; (“I/we) couldn’t afford to eat balanced meals”; and “Were you ever hungry but didn’t eat because there wasn’t enough money for food?” Items were rated for the previous 12 months using several response scales. Responses of “often” or “sometimes”; “yes”; and “almost every month” or “some months but not every month” were coded as affirmative, and the sum of affirmative responses yielded the scale score (0–6). A score of 0 or 1 indicates high or marginal food security, 2 to 4 indicates low food security, and 5 to 6 indicates very low food security. We used a score of 2 or more to define food insecurity (18).
+
+## Statistical analysis
+
+Because the primary hypothesis was tested in the context of a randomized trial, linear multilevel repeated-measures regression analyses were first performed to generate estimates of SBP change from baseline to 6 months between intervention arms (Group × Time interaction). All participants were included in this intent-totreat analysis, and missing data were handled by using full-information maximum likelihood estimates. Following this analysis, we tested the hypothesis that food insecurity would be associated with smaller reductions in BP (Food Insecurity × Time interaction). After performing an unadjusted analysis, we also examined the association between food insecurity and SBP change after adjusting for a set of relevant covariates (age, sex, race/ethnicity, total family income adjusted for household size, education, body mass index, and antihypertensive medication use). Analyses were performed with SPSS version 20 (IBM Corp).
+
+# Results
+Sample characteristics show that this sample was racially/ethnically diverse, with low socioeconomic position (Table 1). This result was expected, given the patient population served by Bellevue Hospital. Hispanic participants were more likely than black participants to be food insecure (P = .04); no other demographic or baseline characteristics were related to food security status. Of the 28 enrolled participants, 23 (82%) completed the 6-month visit. The primary reasons for dropout were family or housing issues and leaving the area. Dropout was not associated with interven-
+
+tion arm, food security status, or baseline BP (P values > .80). Regarding adherence to the interventions, no significant differences were seen between food-secure and food-insecure participants in the number of home BP readings transmitted (17.8 vs 18.8, P = .80) or in the number of telephone sessions completed among those in the HBPTM+NCM group (8.2 vs 9.3, P = .68).
+
+The intent-to-treat analysis showed a nonsignificant reduction in SBP of 2.7 mm Hg from baseline to 6 months across both intervention arms (main effect of Time). The Group × Time interaction was not significant, indicating no difference in the efficacy of the 2 interventions. The analysis of the primary hypothesis indicated a significant Food Insecurity × Time interaction. Simple slope analyses (19) showed that the interventions significantly decreased SBP among food-secure participants (b = −0.77, t = −4.35, P< .001) but had no significant impact on SBP among food-insecure participants (b = 0.25, t = 1.52, P = .14). Overall, the estimated drop in SBP over the course of the intervention (adjusting for the set of covariates) among food-secure participants was 9.2 mm Hg, whereas SBP increased by 3.1 mm Hg among food-insecure participants (Figure). In each of the analyses, results were not substantially different in magnitude or significance after adjustment for intervention arm, age, sex, race/ethnicity, family income, education, body mass index, and antihypertensive medication use (Table 2).

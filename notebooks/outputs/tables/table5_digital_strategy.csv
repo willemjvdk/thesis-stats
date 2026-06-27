@@ -1,0 +1,5 @@
+strategy,field,n_yes,n_no,proportion
+Excludes,digital_strategy_excludes,37,27,0.578125
+Provides equipment,digital_strategy_provides_equipment,33,31,0.515625
+Provides training,digital_strategy_provides_training,40,24,0.625
+Provides ongoing support,digital_strategy_provides_ongoing_support,26,38,0.40625

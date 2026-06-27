@@ -1,0 +1,77 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1 Baseline characteristics of participants"
+
+table_footnote: "Data are presented as mean - sd, median [1st quartile, 3rd quartile], or number of subjects (%). All P-values were obtained from independent two-sample t-tests except as indicated: *Chi-squared test and †Mann–Whitney U-test. BMI, body mass index; baPWV, brachial-ankle pulse wave velocity; HOMA-IR, homeostasis model assessment insulin resistance; AST, aspartate aminotransferase; ALT, alanine aminotransferase; HDL, high-density lipoprotein; LDL, low-density lipoprotein; hsCRP, high-sensitivity C-reactive protein."
+
+table_body:
+<table><tr><td></td><td>Control group (n = 54)</td><td>Intervention group (n = 57)</td><td>P-value</td></tr><tr><td>Age (years)</td><td>59.4 ± 8.4</td><td>57.0 ± 9.1</td><td>0.15</td></tr><tr><td>Sex (male %)</td><td>35 (64.8%)</td><td>30 (52.6%)</td><td>0.20*</td></tr><tr><td>Duration of diabetes (years)</td><td>7.2 ± 6.0</td><td>6.0 ± 5.4</td><td>0.25</td></tr><tr><td>Duration of hypertension (years)</td><td>4.2 ± 4.7</td><td>3.2 ± 3.5</td><td>0.23</td></tr><tr><td>Current smoker (yes: %)</td><td>17 (31.4%)</td><td>11 (19.2%)</td><td>0.11*</td></tr><tr><td>Weight (kg)</td><td>67.7 ± 10.8</td><td>66.4 ± 12.5</td><td>0.55</td></tr><tr><td>BMI (kg/m2)</td><td>25.5 ± 3.3</td><td>25.6 ± 3.5</td><td>0.86</td></tr><tr><td>Waist circumference (cm)</td><td>91.3 ± 7.5</td><td>89.5 ± 9.7</td><td>0.28</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>138 ± 18</td><td>140 ± 18</td><td>0.47</td></tr><tr><td>Diastolic blood pressure (mmHg)</td><td>83 ± 10</td><td>84 ± 10</td><td>0.64</td></tr><tr><td>Right baPWV (cm/s)</td><td>1691 ± 377</td><td>1671 ± 382</td><td>0.78</td></tr><tr><td>Left baPWV (cm/s)</td><td>1695 ± 386</td><td>1648 ± 335</td><td>0.49</td></tr><tr><td>Fasting glucose (mmol/l)</td><td>7.4 ± 1.8</td><td>7.9 ± 1.8</td><td>0.27</td></tr><tr><td>HbA1c (%)</td><td>7.4 ± 0.9</td><td>7.6 ± 0.9</td><td>0.25</td></tr><tr><td>HOMA-IR</td><td>3.4 ± 1.2</td><td>3.5 ± 1.4</td><td>0.56</td></tr><tr><td>AST (IU/l)</td><td>21 ± 6.5</td><td>23 ± 10.2</td><td>0.43</td></tr><tr><td>ALT (IU/l)</td><td>23 ± 14.8</td><td>25 ± 16.8</td><td>0.38</td></tr><tr><td>Total cholesterol (mmol/l)</td><td>4.5 ± 0.9</td><td>4.6 ± 0.8</td><td>0.49</td></tr><tr><td>Triglyceride (mmol/l)</td><td>1.5 [1.1, 2.5]</td><td>1.5 [1.1, 2.1]</td><td>0.35†</td></tr><tr><td>HDL-cholesterol (mmol/l)</td><td>1.2 ± 0.3</td><td>1.3 ± 0.3</td><td>0.47</td></tr><tr><td>LDL-cholesterol (mmol/l)</td><td>2.4 ± 0.7</td><td>2.6 ± 0.7</td><td>0.12</td></tr><tr><td>Adiponectin (μg/ml)</td><td>3.1 [1.7, 4.6]</td><td>2.9 [1.6, 4.6]</td><td>0.71†</td></tr><tr><td>hsCRP (μg/ml)</td><td>1.0 [0.5, 1.6]</td><td>0.8 [0.4, 1.8]</td><td>0.37†</td></tr><tr><td>Interleukin-6 (pg/ml)</td><td>1.4 [0.9, 2.1]</td><td>1.1 [0.8, 1.7]</td><td>0.12†</td></tr></table>
+
+# table 2
+
+table_caption: "Table 2 Changes of anthropometric and laboratory parameters by group after 3 months"
+
+table_footnote: "Data are presented as mean - SD or median [1st quartile, 3rd quartile]. P-values for changes after 3 months within each group were calculated using a paired sample t-test or Wilcoxon’s signed rank test (#). BMI, body mass index; baPWV, brachial-ankle pulse wave velocity; HOMA-IR, homeostasis model assessment insulin resistance; HDL, high-density lipoprotein; LDL, low-density lipoprotein; hsCRP, high-sensitivity C-reactive protein."
+
+table_body:
+<table><tr><td rowspan="2"></td><td colspan="3">Control group (n = 54)</td><td colspan="3">Intervention group (n = 57)</td></tr><tr><td>Baseline</td><td>After 3 months</td><td>P-value</td><td>Baseline</td><td>After 3 months</td><td>P-value</td></tr><tr><td>Weight (kg)</td><td>67.7 ± 10.8</td><td>66.4 ± 10.4</td><td>0.004</td><td>66.4 ± 12.5</td><td>65.3 ± 12.7</td><td>0.002</td></tr><tr><td>BMI (kg/m2)</td><td>25.5 ± 3.3</td><td>25 ± 3.3</td><td>0.001</td><td>25.6 ± 3.5</td><td>25.1 ± 3.5</td><td>0.001</td></tr><tr><td>Waist circumference (cm)</td><td>91.3 ± 7.5</td><td>89.1 ± 7.6</td><td>0.001</td><td>89.5 ± 9.7</td><td>86.8 ± 9.8</td><td>&lt; 0.001</td></tr><tr><td>Systolic blood pressure (mmHg)</td><td>1387.8 ± 17.8</td><td>134 ± 13.64</td><td>0.115</td><td>140.2 ± 187.6</td><td>1332.7 ± 16.2</td><td>0.001</td></tr><tr><td>Diastolic blood pressure (mmHg)</td><td>832.9 ± 10.0</td><td>82.2 ± 7.7</td><td>0.648</td><td>843.8 ± 10.0</td><td>80.3 ± 9.2</td><td>0.005</td></tr><tr><td>Right baPWV (cm/sec)</td><td>1691 ± 377</td><td>1596 ± 318</td><td>0.002</td><td>1671 ± 382</td><td>1564 ± 271</td><td>&lt; 0.001</td></tr><tr><td>Left baPWV (cm/sec)</td><td>1695 ± 386</td><td>1608 ± 333</td><td>0.002</td><td>1648 ± 335</td><td>1569 ± 260</td><td>0.001</td></tr><tr><td>HbA1c (%)</td><td>7.4 ± 0.9</td><td>7.6 ± 1.0</td><td>0.033</td><td>7.6 ± 0.9</td><td>7.1 ± 0.8</td><td>&lt; 0.001</td></tr><tr><td>Fasting glucose (mmol/l)</td><td>7.5 ± 1.8</td><td>7.5 ± 1.9</td><td>0.851</td><td>7.9 ± 1.8</td><td>7.5 ± 1.6</td><td>0.156</td></tr><tr><td>HOMA-IR</td><td>3.4 ± 1.4</td><td>3.4 ± 1.2</td><td>0.877</td><td>3.5 ± 1.4</td><td>3.6 ± 1.5</td><td>0.906</td></tr><tr><td>Total cholesterol (mmol/l)</td><td>4.5 ± 0.9</td><td>4.5 ± 0.8</td><td>0.882</td><td>4.6 ± 0.8</td><td>4.1 ± 0.7</td><td>&lt; 0.001</td></tr><tr><td>HDL-cholesterol (mmol/l)</td><td>1.2 ± 0.3</td><td>1.3 ± 0.3</td><td>0.010</td><td>1.2 ± 0.3</td><td>1.3 ± 0.3</td><td>0.001</td></tr><tr><td>LDL-cholesterol (mmol/l)</td><td>2.4 ± 0.7</td><td>2.3 ± 0.7</td><td>0.628</td><td>2.6 ± 0.7</td><td>2.2 ± 0.6</td><td>&lt; 0.001</td></tr><tr><td>Triglyceride (mmol/l)</td><td>1.51 [1.1, 2.5]</td><td>1.59 [1.2, 2.4]</td><td>0.896</td><td>1.46 [1.1,2.1]</td><td>1.24 [0.8,1.8]</td><td>0.003#</td></tr><tr><td>Adiponectin (μg/ml)</td><td>3.1 [1.7, 4.6]</td><td>3.5 [2.0, 7.0]</td><td>0.267</td><td>2.9 [1.6, 4.6]</td><td>7.5 [4.6, 14.5]</td><td>&lt; 0.001#</td></tr><tr><td>hsCRP (μg/ml)</td><td>1.0 [0.5, 1.6]</td><td>0.7 [0.3, 1.4]</td><td>0.099</td><td>0.8 [0.4, 1.8]</td><td>0.5 [0.2, 1.3]</td><td>0.090#</td></tr><tr><td>Interleukin-6 (pg/ml)</td><td>1.4[0.9, 2.1]</td><td>1.4 [0.9, 1.9]</td><td>0.918</td><td>1.1 [0.8, 1.7]</td><td>1.0 [0.6, 1.7]</td><td>0.196#</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# Patients and methods
+## Study participants
+
+We recruited patients for this open-label, randomized, controlled, prospective study from both a university hospital setting (Korea University) and a community healthcare centre (Guro-Gu Public Health Centre; Fig. 1). We enrolled 123 subjects, between 30 and 70 years of age, who met the following criteria: (i) a diagnosis of both Type 2 diabetes
+
+and hypertension at least 1 year previously by a physician; (ii) \mathrm { H b A _ { 1 c } } ~ 6 . 5 – 1 0 . 0 \% ;(iii) blood pressure > 130 ⁄ 80 mmHg; and (iv) body mass index \mathrm { ( B M I ) } \geq 2 3 . 0 ~ \mathrm { k g / m } ^ { 2 }(overweight according to Asia-Pacific criteria) [15]. Our exclusion criteria included (i) severe diabetic complications (e.g. diabetic foot or severe diabetic retinopathy); (ii) liver dysfunction with aspartate aminotransferase or alanine aminotransferase > 2.5 times the reference level, or renal dysfunction (serum creatinine > 132 lmol ⁄ l); (iii) medical history of congestive heart failure, angina pectoris, myocardial infarction, or stroke based on a physician’s diagnosis; (iv) pregnancy or lactation; or (v) other medical problems that could affect study results or trial participation. All participants provided written informed consent. The Korea University Institutional Review Board, in accordance with the Declaration of Helsinki of the World Medical Association, approved this study protocol.
+
+## The UCDC system
+
+An outline of the UCDC system used in this study is summarized in Fig. 2. Patients in the intervention groups received a cellular phone (LG-SV280; LG Electronics, Seoul, Korea) with a modular blood glucose measuring device (Anycheck; Insung Information \mathrm { C o . , }Seoul, Korea), strips, and lancets. They also received an automatic blood pressure monitoring device (T5M; Omron, Kyoto, Japan), as well as body weight scales (HD308; Tanita, Tokyo, Japan).
+
+First, the UCDC system sent out an alarm on the cellular phone to remind the participant to measure their blood glucose, blood pressure twice a day (before breakfast and bedtime) and body weight once a day (before breakfast). The Anycheck device attached to their cellular phone conducted the glucose measurements and automatically sent the results to a central study database. As soon as participants transmitted their glucose
+
+measurement through their cellular phones, they immediately received messages of encouragement, reminders, and recommendations according to a pre-defined algorithm that was developed by endocrinologists, dieticians and nurses at Korea University based on the American Diabetes Association (ADA) Guidelines [16] and the Korean Staged Diabetes Management Guidelines [17]. Examples of reminder messages are:
+
+Second, the UCDC system automatically recorded participant’s exercise time using the short message service (SMS), which was predefined according to each patient’s daily schedule. Participants replied via an automatic answer system whether or not they actually exercised. Exercise of at least 150 min ⁄ week, distributed over at least 3 days each week, was recommended based on the ADA Guidelines [16].
+
+Third, participants received information via SMS three times a day regarding healthy diet and exercise methods, along with general information about diabetes, hypertension and obesity. Furthermore, using the internet website, physicians could follow participant’s trends in blood glucose levels, blood pressure and body weight changes, allowing them to send
+
+individualized recommendations to patients when needed (http://kumc.drub.co.kr).
+
+Patients in the control group visited their clinic according to their routine schedule and received the usual out-patient treatment from their physicians during the study period. During the trial, drug dosage was not changed in either the UCDC or the control groups at either location.
+
+## Anthropometric and laboratory variables
+
+BMI was calculated as weight ⁄ height2 (kg ⁄ m2 ). Blood chemistry was analysed at the Korea University Guro Hospital laboratory (Seoul, Korea). The glucose oxidase method was employed to measure plasma glucose. A human insulin-specific radioimmunoassay kit (Linco Research Inc., St Charles, MO, USA) was used to measure insulin levels, with a coefficient of variation (CV) of 2.2%. This kit had a crossreactivity of < 0.2% with human proinsulin. Insulin resistance was calculated by the homeostasis model assessment. Serum total cholesterol, triglycerides, and high-density lipoproteincholesterol were determined by enzymatic methods using a chemical analyser (Hitachi 747, Tokyo, Japan). HbA1c was analysed by high-performance liquid chromatography using a Variant II analyser (Bio-Rad Laboratories, Hercules, CA, USA). Plasma adiponectin levels were measured using an adiponectin enzyme immunoassay kit (Phoenix Pharmaceuticals, Belmont, CA, USA), with a CV of 3.2%. Plasma IL-6 levels were measured using a Quantikine kit (R&D Systems, Belmont, CA, USA) with a CV of 8.1%. Plasma high-sensitivity (hs) CRP levels were measured using a hsCRP kit (Immunodiagno, Benshaim, Germany) with a CV of 9.2%. We excluded all subjects with hsCRP ‡ 15.0 mg ⁄ l to
+
+rule out any occult inflammatory or infectious disorders [18]. After a subject had rested in the supine position for 5 min, brachial-ankle pulse wave velocity (baPWV) was measured using a volume-plethysmographic apparatus (model BP-203RPE II; Colin, Komaki, Japan). The interobserver and intraobserver CVs were 8.4% and 10.0%, respectively.
+
+## Statistical analysis
+
+Data were expressed as the mean - SD, or median (interquartile range). We conducted an intention-to-treat analysis, and analysed non-normally distributed variables after log transformation. We used the Mann–Whitney U-test, Student’s t-test and chi-squared test to examine the baseline differences between the control and intervention groups. Wilcoxon’s signed rank test or paired-sample t-test was used to compare variables before and after intervention within each group. We performed repeated measures analysis of variance (anova) to determine the interaction effect between measurement times and groups after adjusting for age, gender, current smoker status, duration of diabetes, and change of weight. In case of non-normally distributed variables, we transformed the original values to ranked ones prior to adopting the repeated-measures anova. All statistical analyses based on two-sided test were performed using
+
+spss for Windows (Version 12.0; SPSS Inc., Chicago, IL, USA). Any P < 0 . 0 5was regarded as statistically significant.
+
+# Results
+## Baseline characteristics of participants
+
+The baseline characteristics of the 111 participants who finished the study are shown in Table 1. There were no significant differences in age, gender, duration of diabetes or hypertension, BMI, blood pressure, \mathrm { H b A _ { 1 c } , }insulin resistance, or lipid profiles between the two groups.
+
+## Changes in chronic disease control
+
+After 12 weeks, a significant reduction was seen in body weight, BMI and waist circumference in both groups. However, we observed a significant reduction in the systolic and diastolic office blood pressure measurement (OBPM) after implementation of the UCDC system only in the intervention group. There was no improvement in OBPM in the control group (Table 2). Furthermore, the average home blood pressure measurement (HBPM) for the intervention
+
+group during the last week was also significantly lower than in the first week. Systolic blood pressure dropped significantly from 127 - 14 mmHg to 120 - 19 mmHg (P = 0.001). Diastolic blood pressure decreased from 78 - 10 mmHg to 74 - 8 mmHg (P < 0.001). In addition, total cholesterol, LDL-cholesterol and triglyceride levels in the intervention group were significantly decreased after 3 months (Table 2). There were no significant changes in these factors in the control group.
+
+\mathrm { H b A } _ { \mathrm { 1 c } }in the control group rose significantly after 12 weeks ( 7 . 4 \pm 0 . 9 \%to 7.6 - 1.0%, P = 0.03). In contrast, HbA improved in the intervention group (7.6 - 0.9% to 7.1 - 0.8%, P < 0 . 0 0 1 ). Moreover, in the intervention group, the average self-monitoring blood glucose (SMBG) level during the last week was significantly lower than the average during the first week. Fasting SMBG levels were significantly decreased from 7.4 - 1.5 to 6.8 - 1.5 mmol ⁄ l (P = 0.01). SMBG levels before bedtime were also significantly reduced from 9.0 - 1.8 to 8 . 1 \pm 1 . 8mmol ⁄ l (P = 0.001).
+
+\mathrm { H b A _ { 1 c } , }total cholesterol and LDL-cholesterol levels were significantly decreased after 3 months in the intervention group compared with the control group on repeated measures anova method (Fig. 3).
+
+## Changes in adiponectin, proinflammatory markers and arterial stiffness
+
+In the intervention group, but not the control group, there were significant increases in adiponectin levels after implementation of the UCDC system (Table 2; Fig. 3). In both the control and
+
+intervention groups, baPWV improved significantly, although hsCRP and IL-6 levels did not change in either group (Table 2).

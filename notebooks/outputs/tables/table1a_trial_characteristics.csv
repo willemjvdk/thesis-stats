@@ -1,0 +1,37 @@
+Characteristic,Value
+"Trials, n",64
+"Arms, n",134
+"Arms per trial, median (range)",2 (2–3)
+"Publication year, range",2006–2023
+  2006–2014,18 (28.1%)
+  2015–2019,28 (43.8%)
+  2020–2023,18 (28.1%)
+"Sample size per trial, median (IQR)",106 (56–153)
+"Sample size per trial, range",17–4141
+"Healthcare setting, n (%)",
+  Secondary / hospital outpatient,47 (73.4%)
+  Community / home-based,4 (6.2%)
+  Mixed: Community / home-based / Primary care,4 (6.2%)
+  Primary care,4 (6.2%)
+  Mixed: Community / home-based / Secondary / hospital outpatient,3 (4.7%)
+  Mixed: Primary care / Secondary / hospital outpatient,2 (3.1%)
+"Continent, n (%)",
+  Europe,33 (51.6%)
+  North America,13 (20.3%)
+  Oceania,6 (9.4%)
+  Other/Unknown,6 (9.4%)
+  Asia,6 (9.4%)
+"Top 3 countries, n (%)",
+  Denmark,12 (18.8%)
+  USA,11 (17.2%)
+  UK,8 (12.5%)
+"Intervention duration, days, median (IQR)",276 (180–365)
+Baseline characteristics,
+"  Age, years, mean (range)",68.4 (62.5–80.2)
+"  Reported, n (%)",59 (92.2%)
+"  FEV₁% predicted, mean (range)",48.2 (32.0–66.3)
+"  Reported, n (%)",49 (76.6%)
+"  BMI, kg/m², mean (range)",26.5 (20.2–31.5)
+"  Reported, n (%)",32 (50.0%)
+"  Female, %, mean (range)",40.4 (0.0–68.3)
+"  Reported, n (%)",61 (95.3%)

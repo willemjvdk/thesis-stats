@@ -1,0 +1,5 @@
+variable,trial_estimate,trial_95CI,trial_SE,n_trials,ECLIPSE_mean_sd,ECLIPSE_n,Adelphi DSP_mean_sd,Adelphi DSP_n,Nijmegen outpatient_mean_sd,Nijmegen outpatient_n,Nijmegen rehab_mean_sd,Nijmegen rehab_n
+Mean age (years),69.8,"[68.4, 71.2]",0.72,59,63.4 (7.1),2164,66.2 (9.7),2876,65.5 (9.1),168,62.1 (7.3),131
+% Female,46.0,"[41.0, 51.0]",2.50,61,34.7 (0.0),2164,33.2 (0.0),2876,22.0 (0.0),168,32.1 (0.0),131
+FEV1% predicted,47.5,"[45.4, 49.6]",1.06,49,48.3 (15.8),2164,63.0 (16.0),2876,51.6 (13.6),168,35.0 (13.0),131
+BMI (kg/m2),26.5,"[25.6, 27.3]",0.43,32,26.5 (5.7),2164,26.5 (4.3),2876,25.6 (4.1),168,24.4 (4.2),131

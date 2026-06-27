@@ -1,0 +1,6 @@
+# references/ECLIPSE_baseline.csv,,,,
+variable,n,mean,sd,note
+age_years,2164,"63,4","7,1",from Agusti 2010 Table 1
+female_pct,2164,"34,7061545581","0,0",from Agusti 2010 Table 2 (calculated)
+fev1_pct_predicted,2164,"48,3","15,8",
+bmi_kg_m2,2164,"26,5","5,7",

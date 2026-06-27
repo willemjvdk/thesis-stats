@@ -1,0 +1,119 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1 Baseline characteristics by condition in the Step Up Trim Down weight loss trial (n = 101)"
+
+table_footnote: "Data are given as count (%) for categorical variables and mean (s.d.) for continuous variables. Total numbers presented in the tables may vary slightly due to rounding and missing data."
+
+table_body:
+<table><tr><td>Variable</td><td>Total (n = 101)</td><td>Intervention (n = 51)</td><td>Usual care (n = 50)</td></tr><tr><td>Age (years)</td><td>54.4 (8.1)</td><td>54.4 (7.4)</td><td>54.5 (8.9)</td></tr><tr><td>Gender, n(%)</td><td></td><td></td><td></td></tr><tr><td>Males</td><td>53 (52.5%)</td><td>30 (58.8%)</td><td>23 (46%)</td></tr><tr><td>Females</td><td>48 (47.5%)</td><td>21 (41.2%)</td><td>27 (54%)</td></tr><tr><td>Race/ethnicity, n(%)</td><td></td><td></td><td></td></tr><tr><td>White</td><td>50 (49.5%)</td><td>23 (45.1%)</td><td>27 (54%)</td></tr><tr><td>Black</td><td>31 (30.7%)</td><td>19 (37.3%)</td><td>12 (24%)</td></tr><tr><td>Hispanic</td><td>5 (4.9%)</td><td>3 (5.9%)</td><td>2 (4%)</td></tr><tr><td>Other</td><td>15 (14.9%)</td><td>6 (11.8%)</td><td>9 (18%)</td></tr><tr><td>Education, n(%)</td><td></td><td></td><td></td></tr><tr><td>Some college or below</td><td>36 (38%)</td><td>22 (44%)</td><td>14 (31%)</td></tr><tr><td>College graduate</td><td>59 (62%)</td><td>28 (56%)</td><td>31 (69%)</td></tr><tr><td>Marital status, n(%)</td><td></td><td></td><td></td></tr><tr><td>Married</td><td>67 (71%)</td><td>38 (76%)</td><td>29 (64%)</td></tr><tr><td>Not married</td><td>28 (29%)</td><td>12 (24%)</td><td>16 (36%)</td></tr><tr><td>Employment status, n(%)</td><td></td><td></td><td></td></tr><tr><td>Employed</td><td>76 (79%)</td><td>41 (82%)</td><td>35 (76%)</td></tr><tr><td>Not employed</td><td>20 (21%)</td><td>9 (18%)</td><td>11 (24%)</td></tr><tr><td>Weight (kg)</td><td>97.3 (10.9)</td><td>101.0 (15.4)</td><td>97.3 (10.9)</td></tr><tr><td>BMI (kg/m2)</td><td>34.6 (3.2)</td><td>35.0 (3.5)</td><td>34.6 (3.2)</td></tr><tr><td>SBP (mm Hg)</td><td>137.1 (13.7)</td><td>134.7 (16.9)</td><td>137.1 (13.7)</td></tr><tr><td>DBP (mm Hg)</td><td>75.9 (11.4)</td><td>75.4 (10.2)</td><td>76.1 (11.2)</td></tr></table>
+
+# table 2
+
+table_caption: "Table 2 Weight loss by condition in the Step Up Trim Down weight loss trial (n = 101)"
+
+table_footnote: []
+
+table_body:
+<table><tr><td rowspan="2">Condition</td><td colspan="2">Completers (n = 85)</td><td colspan="2">Intent to treat (n = 101)</td></tr><tr><td>Mean (s.d.)</td><td>Difference between conditions Mean (95% CI)</td><td>Mean (s.d.)</td><td>Difference between conditions Mean (95% CI)</td></tr><tr><td>Intervention</td><td>-2.71 (3.34)</td><td>-3.05 (-4.24, -1.85)</td><td>-2.28 (3.21)</td><td>-2.56 (-3.60, -1.53)</td></tr><tr><td>Control</td><td>0.34 (2.04)</td><td></td><td>0.28 (1.87)</td><td></td></tr></table>
+
+# table 3
+
+table_caption: "Table 3 Weekly website logins among participants with ≥1 login during the Step Up Trim Down weight loss trial"
+
+table_footnote: []
+
+table_body:
+<table><tr><td>Week</td><td>Website logins Mean (s.d.)</td><td>Range</td><td>Met login goal (3×/week) n(%)</td></tr><tr><td>1</td><td>5.54 (3.31)</td><td>0-13</td><td>40 (78.0%)</td></tr><tr><td>2</td><td>5.50 (2.94)</td><td>0-11</td><td>42 (83.3%)</td></tr><tr><td>3</td><td>4.72 (3.20)</td><td>0-13</td><td>36 (70.6%)</td></tr><tr><td>4</td><td>4.72 (2.91)</td><td>0-12</td><td>37 (72.5%)</td></tr><tr><td>5</td><td>4.06 (3.09)</td><td>0-12</td><td>30 (58.8%)</td></tr><tr><td>6</td><td>4.18 (2.72)</td><td>0-10</td><td>34 (66.7%)</td></tr><tr><td>7</td><td>4.10 (2.91)</td><td>0-9</td><td>31 (60.8%)</td></tr><tr><td>8</td><td>3.78 (2.90)</td><td>0-13</td><td>29 (56.9%)</td></tr><tr><td>9</td><td>3.38 (2.83)</td><td>0-10</td><td>27 (52.9%)</td></tr><tr><td>10</td><td>3.12 (2.90)</td><td>0-11</td><td>23 (45.1%)</td></tr><tr><td>11</td><td>2.76 (2.62)</td><td>0-9</td><td>22 (43.1%)</td></tr><tr><td>12</td><td>2.72 (2.92)</td><td>0-14</td><td>22 (43.1%)</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# Methods and Procedures
+## Participants
+
+Participants included 101 obese, hypertensive patients who visited the internal medicine department at a large outpatient practice in Cambridge, Massachusetts, between June 2005 and June 2006 (Figure 1). Eligibility criteria included (i) age of 25–65 years; (ii) BMI of 30–40 kg/m2 ; (iii) diagnosed hypertension and utilization of hypertension medication; (iv) nonsmoker status at least 6 months prior to recruitment; (v) English language fluency; and (vi) the availability of a computer with Internet access at home or work. We excluded participants if they were currently pregnant or had a history of a condition that would prohibit exercise, such as known dementia, cancer, or stroke.
+
+A total of 390 patients were initially identified through a review of the electronic medical record. After each provider offered medical clearance, we mailed a welcome letter (that included opt-out instructions) to each potential participant. We telephoned those individuals who did not refuse additional contact. Finally, 101 interested and eligible individuals completed a baseline study visit at the outpatient practice.
+
+At baseline, participants completed a web-based survey. Research staff subsequently collected anthropometric measures and blood pressure using established procedures (20). Following completion of baseline assessments, participants were randomized. At the 3-month follow-up, participants again completed the web-based survey which was followed by an in-person assessment, during which we collected anthropometric measures and blood pressure. We offered participants $25 for attending each assessment. All study procedures were in accordance with ethical standards for human experimentation established by the Declaration of Helsinki (21) and approved by the relevant human subjects review committees.
+
+## Treatment groups
+
+Usual care. Participants randomized to usual care received the current standard of care offered by the outpatient practice. Individual providers approached patient weight loss as they saw fit; the research team made no attempts to influence any weight loss counseling offered to usual care participants. In addition, at baseline we gave all usual care participants a copy of the the “Aim for a Healthy Weight” materials, published by the National Heart Lung and Blood Institute (22).
+
+Web-based intervention. Step Up, Trim Down utilized a weight loss strategy (iOTA; interactive weight loss approach), which was designed specifically for web-based implementation (Table 1). Briefly, iOTA provides participants with a series of tailored obesogenic behavior change goals that are subjected to regular self monitoring. In addition, the intervention included behavioral skills training and regular health coach support.
+
+iOTA aims to create an energy deficit, sufficient to produce weight loss, exclusively through the modification of routine obesogenic lifestyle behaviors. To identify these behaviors, during our formative work, we identified a set of empirically supported obesogenic behavior change goals that were relevant to the patient population. We prioritized those goals that could be communicated simply, without nuance, and that were easily self-monitored. The resulting set of obesogenic behavior change goals included (as provided to patients): “Walk 10,000 steps every day,” “Watch 2 h or less of TV every day,” “Avoid sugar-sweetened beverages,” “Avoid fast food,” “Eat breakfast every day,” and “No late night meals and snacks.”
+
+At the start of the intervention, each participant worked with a health coach to select four obesogenic behavior change goals using an algorithm that prioritized behaviors in need of change, for which the participant had high self-efficacy for change, as well as those behaviors with few barriers to change. The participant was permitted to select new obesogenic behavior change goals at week 6.
+
+The primary purpose of the intervention website was to facilitate easy, daily self-monitoring of adherence to the obesogenic behavior change goals. Regular self-monitoring has been consistently demonstrated as an effective behavior change strategy (23), however, adherence wanes over time. To overcome adherence challenges, we created a dynamic, graphically rich, high usability self-monitoring tool that permitted tracking of individual progress and displayed the average performance for other program participants (see Figure 1). We chose self-monitoring metrics that would limit complexity, relying primarily on dichotomous response options.
+
+There were no limitations to the frequency of website use, but participants were given a goal of using the website at least 3 times weekly. To incentivize participants to track behaviors, we held two raffles for $50 gift certificates over the 3-month study period. Each time a participant logged in and/or tracked behaviors, he/she received a raffle entry; accumulated entries could be checked on the website. Behavioral skills necessary to effectively adhere to the set of obesogenic behavior change goals (e.g., stimulus control, portion control, label reading, eating out) were presented on the website and updated biweekly. Additional website features included a social networking forum, recipes, and an messaging feature that allowed for direct communication with the coach.
+
+A health coach conducted two, 20-min motivational coaching sessions in person (baseline and week 6), and two, 20-min biweekly sessions via telephone (week 3 and 9). The health coach was a registered dietitian and was trained to use principles of motivational interviewing. The coach provided counseling only on the assigned obesogenic behavior goals; during each session, the coach reviewed self-monitoring data, discussed behavior change skills relevant to the assigned goals, and engaged in problem solving exercises. The health coach participated in weekly supervision with senior study staff for the duration of the trial.
+
+## Sample size
+
+We determined the study sample size based on our primary hypothesis, that participants randomized to the web-based intervention would
+
+demonstrate greater weight losses compared to those in usual care. Assuming a two-sided type 1 error rate of 5%, we estimated that a total of 100 participants (50 per group) would be necessary to detect at least a 5kg mean weight difference between groups with 80% power.
+
+We used simple randomization procedures, with predetermined assignments enclosed in nontransparent randomization envelopes, to assign participants to intervention or usual care. All research staff members collecting evaluation data were blinded to randomization status.
+
+# Outcome measures
+The primary outcome was changed in body weight (kg) at 12 weeks. We measured weight without shoes, in lightweight street clothing using a calibrated scale (Seca model 770; Seca, Hanover, MD) at baseline and 12 weeks after baseline in both groups. Height was measured at baseline with a wall-mounted stadiometer (Seca model 202; Seca). Secondary outcomes included change in BMI, blood pressure control (≤140/90mmHg), and waist circumference, which was assessed with a measuring tape to the nearest millimeter at the end of a normal expiration (20). Finally, each participant was assigned a website login and password, which were used to assess the frequency of participant logins.
+
+# Statistical methods
+Univariate analyses of variables of interest were examined to test for baseline group differences, outliers, and distributional assumptions. We used analysis of variance, regression models, and nonparametric tests as necessary, to test for group differences in each of the study outcomes. For intent-to-treat analyses, we used a baseline carried forward imputation approach. All analyses were performed using SAS version 9.1 (SAS Institute, Cary, NC).
+
+# Results
+As shown in Figure 2, we attempted to reach 390 potential participants by telephone to screen for eligibility. Of these 64 were unreachable, 124 were ineligible, and 101 refused participation before their eligibility could be determined. The remaining 101 participants were randomized to either intervention (n = 51) or usual care (n = 50).
+
+A majority of study participants were men (52.5%). Half of the sample was nonwhite; 31% of participants self-identified as black. High proportions of the study sample were college graduates (62%) and currently employed (79%). Mean age was 54.4 ± 8.1 years and baseline BMI was 34.6 ± 3.2 kg/m2 .
+
+A total of 85 participants (84% of those enrolled at baseline) completed the 3-month follow-up assessments. More men (n = 13) than women (n = 3) were lost to 3-month follow-up (P = 0.01). There were no other demographic differences between study completers and noncompleters.
+
+## Change in body weight
+
+As shown in Table 2, mean weight losses varied slightly between the intent-to-treat and completers groups; we report primary outcomes for participants enrolled at baseline, independent of
+
+whether they completed the 3-month follow-up assessments (intent-to-treat group).
+
+Mean (s.d.) weight loss among intervention participants was −2.281 ± 3.21 kg, compared to a mean weight gain of 0.28 ± 1.87 kg in usual care (mean difference: −2.56 kg; 95% CI −3.60, −1.53). Participants randomized to the intervention group lost a greater percentage of baseline body weight (−2.6% ± 3.3%), compared to 0.39% ± 2.16% among those in usual care (mean difference: −3.04%; 95% −4.26, −1.83). More than a quarter of intervention participants (25.6%) and no control participants lost >5% of their initial body weight by the 12-week follow-up.
+
+# Secondary outcomes
+We observed a larger reduction in BMI among intervention participants (−0.94 ± 1.16 kg/m2 ), relative to those randomized to usual care (0.13 ±.75 kg/m2 ; mean difference: −1.07 kg/m2 ; 95% CI −1.49, −0.64). We did not find any group differences for change in waist circumference (mean difference: −1.87 cm; 95% CI −3.97, 0.23), systolic blood pressure (mean difference: −1.30 mm Hg; 95% CI −3.38, 5.99), or diastolic blood pressure (mean difference: −0.38 mm Hg; 95% CI −4.03, 3.27). We observed no gender differences in change for any of the body weight or secondary outcomes.
+
+## Website utilization and weight loss
+
+Over the 12-week intervention period, the mean (s.d.) frequency of website logins per participant was 48.58 ± 29.82. The distribution of website logins is shown in Table 3. Fifty out of 51 participants logged on at least once during the intervention. Figure 3 shows the association between website login quartile and weight loss in the intervention group (P for trend = 0.0007). Compared to the lowest quartile of website logins, those in the highest quartile showed greater weight loss (mean difference:−4.16 kg; 95% CI −1.47, −6.84). Differences in weight loss were also observed between quartiles two and four (mean difference: −4.87; 95% CI −2.56, −7.17).
+
+We set a goal for participants to use the intervention website at least three times per week. Table 3 also shows that the majority of intervention participants met the website login goal through week 9; over 40% continued to meet the login goal through week 12. Participants who met the login goal for at least 50% of the study period (≥6 weeks) had greater weight loss ( - 3 . 3 0 \pm 3 . 7 8 \mathrm { k g } )than those who met the login goal for fewer than 6 weeks (−0.42 ± 1.78 kg; mean difference: −2.88 kg; 95% CI −1.56, −4.60). Similarly, those meeting the login goal for the majority of study weeks (10 weeks; 83% of study weeks) demonstrated much greater weight losses (−4.50 ± 3.29 kg) than those who did not ( - 0 . 6 0 \pm 1 . 8 7 ;mean difference: −3.90 kg; 95% CI −2.43, −5.36).
+
+## Coaching sessions and weight loss
+
+Most intervention participants (80.4%) successfully received all of the coaching sessions within 1 week of their scheduled appointment. Likely given the high adherence rates, we found no association between participation in all (4) coaching sessions and weight loss.
+
+## Di scussion
+
+We found that participation in a 3-month moderate-intensity web-based behavioral weight loss intervention with coach support was associated with 3.05 kg greater weight loss among obese, hypertensive primary care patients (completers) than usual care alone. These findings contribute to a growing body of evidence supporting the utility of the Internet as a platform for the delivery of weight loss interventions (12,14–16,18,24). Moreover, our study is among few randomized controlled web-based weight loss trials tested in the primary care setting. Rothert et al. (18) tested a commercially available web-based weight loss intervention among patients in a large health-care system. The intervention, which did not include coach support, produced weight losses of 2.6 kg at 3-month follow-up—similar to the magnitude of weight losses observed in the present study. In contrast to Rothert et al., however, we observed much lower rates of participant attrition (16% vs. 70%). This finding
+
+provides support for our intervention approach, particularly considering that high attrition has been a characteristic limitation of Internet interventions (25).
+
+The magnitude of weight loss produced by the intervention (−3.05 kg) was somewhat lower than comparable Internet trials of similar length with coach support in nonpatient samples (15,17). For example, Polzien et al. (17) demonstrated weight losses of −6.2 ± 4.0 kg for an intervention using a traditional dietary prescription and involving seven interpersonal coaching sessions, Internet monitoring of energy intake, and daily wear of a body monitor. Tate et al. (16) found that compared to a basic Internet intervention, those randomized to a more robust intervention (including a comprehensive website, regular human counselor e-mail contact, and the submission of food/physical activity diaries) had weight losses of −4.1 ± 3.7 kg. A later study by Tate et al. (15), using a website that also provided automatic tailored feedback and meal replacements, produced weight losses of −6.1 ± 3.9 kg at 3 months.
+
+The magnitude of weight loss in our study is most consistent with interpersonal/group behavioral weight loss trials conducted in health-care settings (7,26,27). An early review (7) reported that physician-supervised trials generally produced weight losses of <5 kg. Although greater weight loss has been observed in more intensive primary care–based interventions (e.g., those offering meal replacements, nutritionist counseling, and using run-in designs) (28–30), more modest treatment effects have generally been observed in population-based trials using behavioral approaches. For example, Kumanyika et al. (31) found weight losses of −1.5 ± 3.5 kg after 4–5 months among African-American patients randomized to a 10-week culturally tailored group behavioral counseling intervention based in a university health-care system. Similarly, among overweight diabetic patients receiving an behavioral weight loss intervention containing behavioral skills training, self-monitoring, regular group sessions, and weekly nutritionist counseling, Mayer-Davis et al. observed weight losses of 2.6 kg at 6-month follow-up. In general, weight loss outcomes in primary care– based trials have lagged those observed in other settings.
+
+Although the present trial produced comparable levels of weight loss, it did so with a moderate-intensity intervention approach. We did not recommend an explicit caloric intake, nor did we advocate a specific diet—both of which are likely necessary to maximize individual weight loss. Rather, the intervention approach (iOTA) essentially provided a walking recommendation and asked participants to modify several simple and easily understood behaviors. iOTA was designed for web-based use, with components that have broad population accessibility and potential for sustainable delivery at scale. Indeed, we observed high levels of intervention engagement. In addition to the low participant attrition, rates of coaching call adherence were high (80%). Human support is associated with better behavior change outcomes in web-based trials (13) and as such, we implemented a coaching call protocol that provided motivational support to participants, but with limited skills training and other behavior change content. Our intention was to utilize the coaching elements to prompt website utilization
+
+and to assist with problem solving as necessary. However, the intervention can be conducted entirely via the web and does not technically require coaching support, which may facilitate the eventual dissemination of the approach. Determining the magnitude of intervention efficacy and coaching support will be an important future research direction, one that may be aided by the high levels of observed website utilization—to date, a major challenge in web-based intervention trials (13).
+
+During the study period, most participants met the website login goal of three times per week; even in the final 3 weeks of the intervention, over 40% of participants continued to meet the website login goal. This is an important strength of our approach, because website login frequency was an important predictor of weight loss outcomes in this study, as it has been in other Internet intervention trials (15,17). Finally, it should be noted that the present trial was population-based and we did not utilize a run-in period or screening processes beyond those used to determine eligibility. As such, patient motivation was uncontrolled, making these findings perhaps more generalizable to general practice settings, compared to more highly controlled trials with larger treatment effects.
+
+Several considerations may limit the interpretations drawn from our findings. Though fully powered, our sample size was small, limiting the extent of additional analyses. Our outcomes can be generalized only to patients with Internet access in similarly structured primary care settings. Our follow-up period was of short duration; trials of longer duration are needed in this setting. Our study design did not allow us to estimate costs of intervention components. We were also unable to isolate the independent contribution of discrete intervention components (e.g., coaching calls, raffle).
+
+Our recruitment yield, though similar to comparable trials (28,32), was likely influenced by the requirement that participants have regular web access. Though this can be construed as a limitation, we believe it to be unlikely that in the near term, web-based interventions will serve a majority of a practice’s primary care population. The penetration of web access—but perhaps more importantly individual’s comfort using webbased systems—is continuously increasing. Thus, the generalizability of this and similar trials should be expected to improve over time. Ultimately, we imagine that practices will employ multiple, multi-modal weight loss approaches to best combat obesity in their patient populations.
+
+To summarize, our findings show that the Internet holds promise in extending the reach of behavioral weight loss interventions to the primary care setting. Internet interventions have several differentiators that make them particularly well suited for the primary care setting, including their low implementation costs, higher potential for sustainability, and broader population reach. Indeed, the somewhat lower efficacy of Internet interventions relative to interpersonal approaches (16,17) may be offset by these factors. Reach is an particularly important consideration for Internet interventions, as delivering effective, moderate intensity interventions to even a portion of the obese, hypertensive primary care patient population could make a major dent in the prevalence of both conditions.

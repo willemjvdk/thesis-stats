@@ -1,0 +1,34 @@
+Appendix 1: Glossary of Abbreviations
+
+  AC1           Gwet's AC1 Agreement Coefficient (chance-corrected agreement for categorical data)
+  Adelphi DSP   Adelphi Disease-Specific Programme (European COPD reference cohort)
+  API           Application Programming Interface
+  BMI           Body Mass Index
+  CI            Confidence Interval
+  CNMA          Component Network Meta-Analysis
+  CONSORT       Consolidated Standards of Reporting Trials
+  COPD          Chronic Obstructive Pulmonary Disease
+  COVID-19      Coronavirus Disease 2019
+  ECLIPSE       Evaluation of COPD Longitudinally to Identify Predictive Surrogate Endpoints
+  ppFEV1        Forced Expiratory Volume in 1 second, percentage predicted
+  GOLD          Global Initiative for Chronic Obstructive Lung Disease
+  ICC           Intraclass Correlation Coefficient (ICC[2,1] = two-way random effects, absolute agreement, single rater)
+  IQR           Interquartile Range
+  LLM           Large Language Model
+  LOWESS        Locally Weighted Scatterplot Smoothing
+  NIH           National Institutes of Health (United States)
+  OLS           Ordinary Least Squares (linear regression)
+  PRISMA        Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+  PROGRESS-Plus Place of Residence, Race/Ethnicity/Culture, Occupation, Gender/Sex, Religion,
+                Education, Socioeconomic Status, Social Capital — Plus (other context-specific factors)
+  PROSPERO      International Prospective Register of Systematic Reviews
+  QQ            Quantile-Quantile (plot)
+  RAISE         Responsible AI in Evidence Synthesis (joint Cochrane/Campbell/JBI/CEE framework)
+  RCT           Randomised Controlled Trial
+  SD            Standard Deviation
+  SE            Standard Error
+  SES           Socioeconomic Status
+  SMD           Standardised Mean Difference
+  TRIPOD-LLM    Transparent Reporting of a multivariable prediction model for Individual Prognosis
+                Or Diagnosis — Large Language Models (reporting extension)
+  VA            Veterans Affairs (United States health system)

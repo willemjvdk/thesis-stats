@@ -1,0 +1,58 @@
+RAW
+
+Student contribution and learning goals.
+Manual extraction of COPD cohort (64 papers)
+Learning about statistical tests and computing them
+Presenting and discussing results
+Gaining a sense of what a researcher does every day and if it would fit me
+Applying myself in a big project, something I find difficult. Finding my own little niche in a larger project and working together with others.
+Being a helpful, but also scientifically rigorous and engaging towards peers
+
+
+The goal of this internship is to explore how patient characteristics and intervention components interact across a large group of randomized controlled trials. In order to uncover which blended care elements are most effective for different patient groups, and how their use has evolved over time.
+
+Expected outcomes:
+A dataset linking patient characteristics to intervention components. -> went deep on this, exceeded expectations and was really fun to do and learn more programming to do so with making the LLM extraction pipeline.
+Insight into which blended care components are most studied and most effective for specific patient groups. -> project shifted, out of scope
+A trend analysis showing how blended care has evolved (e.g., growth in app-based or video-supported care). -> adequately covered, could've been a bit more involved
+
+
+    • Extract and organize patient characteristics (e.g., age, comorbidities, disease severity) from the included RCTs. -> extracting way more fields and figuring out how to operationalize them.
+    • Map these characteristics to already-extracted intervention components (e.g., SMS reminders, online modules, video consultations). -> Mapping to a novel construct (digital inclusiveness score) and an adapted existing framework (PROGRESS-Plus)
+    • Analyze trends: Which components have become more common over time? Are certain tools (like telemonitoring or apps) used more often in particular patient populations? -> project shifted, trend analysis on trail characteristics.
+    • Contribute to a component-based evidence model that ranks blended care elements by their impact on clinical outcomes. -> supervisor and peers happy with my contributions
+    • Potential co-authorship on the main CNMA publication. -> briefly discussed with supervisor, open to it but more steps have to be done (which I am open to)
+    • Make assessments of bias using a systematic Cochrane risk of bias tool. -> basic level understanding gained
+    • Daily working together with peers; extracting data, assessing papers, writing, etc. -> ended up working alone a lot, especially during the latter half. Did take the oppertunities to present results and discuss direction of my project.
+    • Weekly supervision and feedback with other students and daily supervisor -> yup
+    • Monthly continuity of care research-track specific meeting. -> yup
+    • Monthly departmental research meeting and education, including complex statistical analysis -> yup
+    • Another student will perform similar extraction and analysis, but on a different patient population (This student: COPD and possibly DM, other student CVD) -> other students' projects kind of shifted in scope also. We briefly worked together on prompt-engineering for extraction of the diabetes trials, ended up doing most of that alone. This is benched until I hand in my thesis and I've promised to tie all loose ends up between handing in the thesis and my next internship (5 weeks in between, plenty of time, both studant and supervisor also open to keep working together)
+
+Refined
+**Appendix B: Student Contribution and Learning Goals**
+
+**1. Introduction**
+This appendix outlines the learning objectives, personal contributions, and insights gained during this scientific internship. The primary aim was to explore how patient characteristics and intervention components interact across a large cohort of randomized controlled trials (RCTs). Ultimately, the goal was to uncover which blended care elements are most effective for specific patient groups. Beyond the scientific objectives, I sought a realistic understanding of daily academic research. I wanted to evaluate my aptitude for this career path and challenge myself to find a meaningful niche within a large-scale project.
+
+**2. Project Contributions**
+Academic research is inherently dynamic. While the initial project plan outlined specific deliverables, my contributions evolved to meet the emerging needs of the team while also allowing me to engage in my interest in programming and technology.
+
+*Data Extraction and Pipeline Development.* I was initially tasked with the manual extraction of a 64-paper COPD cohort, during this (honestly quite boring) task, I quickly realized the need for scalability, since the total scope of the Alloy Initiative includes almost 800 papers. To address this, I independently developed a Large Language Model (LLM) extraction pipeline. This initiative significantly expanded the scope of data extraction and exceeded initial expectations, ultimately teaching me how to rigorously operationalize complex variables while advancing my programming skills and understanding of LLMs.
+
+*Conceptual Mapping.* I mapped the extracted patient characteristics to equity related components. This required integrating the data into a novel "digital inclusiveness score" and adapting the existing PROGRESS-Plus framework to better suit our specific context.
+
+*Trend Analysis and Evidence Modeling.* Due to a shift in the project’s overarching focus, the original plan to analyze the evolution of specific blended care tools was narrowed. Instead, I conducted a trend analysis focused on broader trial characteristics. While this adequately covered the revised scope, deeper involvement in this specific analytical area remains a avenue for the future. My data structuring and analytical contributions to the component-based evidence model were well-received by my supervisor and peers, supporting the project's core aims. Additionally, through helping out peers, I also gained some understanding of systematic bias assessment through the Cochrane Risk of Bias tool.
+
+**3. Professional Development**
+A significant learning goal was to cultivate a working style that is helpful, scientifically rigorous, and engaging. I actively participated in weekly supervision sessions, monthly continuity-of-care research track meetings, and departmental research meetings. The latter provided valuable exposure to complex statistical analyses.
+
+The workflow required a high degree of independence, especially during the latter half of the internship. Working alone presented a unique challenge. However, I proactively sought opportunities to present interim results and discuss the project’s trajectory with my supervisor and peers. Ensuring that my independent work remained aligned with the team’s objectives and allowing me to refine my communication skills.
+
+**4. Collaboration and Future Outlook**
+Collaboration was a key component of the internship design. I briefly collaborated with a peer student on prompt-engineering for the extraction of diabetes trials. As parallel projects experienced scope shifts, this specific collaborative task was temporarily benched.
+
+I have formally committed to tying up these loose ends during the five-week interval between this thesis submission and my subsequent internship. There is plenty of time to finalize the work. Both my supervisor and I are motivated to continue this collaboration to ensure the project is brought to a successful conclusion. Furthermore, the possibility of co-authorship on the primary CNMA publication has been discussed. I remain open to completing the necessary subsequent steps to realize this outcome.
+
+**5. Conclusion**
+Overall, this internship successfully bridged the gap between theoretical knowledge and practical research application. It provided a environment to develop technical skills, understanding of the process of medical scientific research, and learned me to navigate shifting research scopes.

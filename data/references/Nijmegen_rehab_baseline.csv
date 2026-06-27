@@ -1,0 +1,8 @@
+# references/Nijmegen_rehab_baseline.csv,,,,
+variable,n,mean,sd,note
+age_years,131,"62,1","7,3",from Peters 2009 rehab subgroup
+female_pct,131,"32,1","0,0",
+fev1_pct_predicted,131,"35,0","13,0",
+bmi_kg_m2,131,"24,4","4,2",
+partner_yes_pct,131,"80,1",,bonus PROGRESS-Plus
+education_high_pct,131,"19,1",,bonus PROGRESS-Plus

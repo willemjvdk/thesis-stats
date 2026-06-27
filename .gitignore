@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Lock/backup
+*.~lock*
+*.bak
+
+# Old extraction prompts
+prompts/old/
+
+# Extraction logs (large)
+output/results/logs/
+
+# Review database
+output/review.sqlite
+
+# Per-paper JSONs (large, JSONL is sufficient)
+data/raw/copd_v11_rerun1/

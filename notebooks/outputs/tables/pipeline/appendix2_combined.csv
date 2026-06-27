@@ -1,0 +1,5 @@
+tier,n_fields,n_flagged,n_trials,note
+Tier 1 (Group A),15,9,64,"Corpus-wide prior extraction, high-confidence fields"
+Tier 1 (Group B),0,0,64,"Corpus-wide prior extraction, triangulation only"
+Tier 2,59,13,5,5-trial gold standard; 34 fields undersampled (n<5)
+Tier 3,47,56,10,56/987 cells with errors (5.7%)

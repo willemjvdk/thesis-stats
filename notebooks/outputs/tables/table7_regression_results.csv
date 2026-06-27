@@ -1,0 +1,5 @@
+Hypothesis,β,95% CI,p,n,Sensitivity β change,Influential obs. excluded
+H1: Equity reporting ~ year,-0.055,"-0.168, 0.059",0.3393,64,"0.016 [-0.082, 0.113], p=0.7513 (Δ+0.070)",6
+H2a: Mean age ~ year,-0.125,"-0.326, 0.076",0.2168,59,"-0.114 [-0.289, 0.061], p=0.1961 (Δ+0.011)",1
+H2b: FEV₁% predicted ~ year,0.172,"-0.444, 0.788",0.5762,49,"0.031 [-0.596, 0.658], p=0.9205 (Δ-0.141)",1
+H3: Digital inclusiveness ~ equity score (adj. year),0.047,"-0.200, 0.294",0.7052,64,"0.171 [-0.111, 0.454], p=0.2294 (Δ+0.124)",5

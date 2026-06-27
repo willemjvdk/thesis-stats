@@ -1,0 +1,87 @@
+## TABLES
+
+# table 1
+
+table_caption: "Table 1. Baseline Characteristics"
+
+table_footnote: []
+
+table_body:
+<table><tr><td>Variable</td><td>Control Group (n=55)</td><td>Self-Care Support Group (n=55)</td></tr><tr><td>Age, y</td><td>63.1±9.0</td><td>62.7±7.8</td></tr><tr><td>Men, %</td><td>62</td><td>49</td></tr><tr><td>BMI, kg/m2</td><td>29.8±5.5</td><td>31.9±7.9</td></tr><tr><td>Ethnicity, %</td><td></td><td></td></tr><tr><td>White/European</td><td>60.0</td><td>70.9</td></tr><tr><td>African/West Indian</td><td>18.1</td><td>14.6</td></tr><tr><td>Asian</td><td>12.7</td><td>7.2</td></tr><tr><td>Hispanics</td><td>1.8</td><td>5.5</td></tr><tr><td>Others</td><td>7.4</td><td>1.8</td></tr><tr><td>Systolic blood pressure, mm Hg</td><td></td><td></td></tr><tr><td>24-h</td><td>139.9±10.6</td><td>139.4±11.6</td></tr><tr><td>Daytime</td><td>142.6±10.2</td><td>142.7±10.9</td></tr><tr><td>Nighttime</td><td>132.8±14.8</td><td>130.8±16.4</td></tr><tr><td>Diastolic blood pressure, mm Hg</td><td></td><td></td></tr><tr><td>24-h</td><td>75.4±8.7</td><td>73.9±10.6</td></tr><tr><td>Daytime</td><td>77.9±9.2</td><td>76.3±10.5</td></tr><tr><td>Nighttime</td><td>69.6±9.5</td><td>67.7±12.1</td></tr><tr><td>On antihypertensive drugs, %</td><td>89.1</td><td>89.1</td></tr><tr><td>Mean No. of antihypertensive drugs per patient, n</td><td>2.36±1.54</td><td>2.55±1.64</td></tr><tr><td>Hemoglobin A1C</td><td>0.075±0.012</td><td>0.074±0.015</td></tr><tr><td>Antihyperglycemic agents, n (%)</td><td>54 (98.2)</td><td>53 (96.4)</td></tr><tr><td>Cardiovascular disease, %</td><td></td><td></td></tr><tr><td>Stroke or transient ischemic attack</td><td>7.4</td><td>5.5</td></tr><tr><td>Coronary artery disease</td><td>14.5</td><td>9.1</td></tr><tr><td>Peripheral vascular disease</td><td>0.0</td><td>5.5</td></tr><tr><td>Serum creatinine, μmol/L</td><td>88.9±31.0</td><td>101.0±58.6</td></tr><tr><td>Urine albumin/creatinine, g/mol</td><td>30.7±107.2</td><td>33.2±77.1</td></tr></table>
+
+# table 2
+
+table_caption: "Table 2. Change in Ambulatory Blood Pressure From Baseline to Outcome"
+
+table_footnote: "*One patient in the self-care support group agreed to have a daytime ambulatory recording only."
+
+table_body:
+<table><tr><td>Variable</td><td>Control Group (n=51), Mean±SD, H0:Δc=0</td><td>Self-Care Support Group (n=54), Mean±SD, H0:Δs=0*</td><td>Between Group Comparisons Mean±SE, H0:Δs= Δc</td></tr><tr><td>Systolic blood pressure</td><td></td><td></td><td></td></tr><tr><td>24-h</td><td>-1.7±12.1, P=0.33</td><td>-8.7±14.7, P&lt;0.001</td><td>6.8±2.4, P=0.005</td></tr><tr><td>Daytime</td><td>-1.5±12.2, P=0.38</td><td>-9.1±15.6, P&lt;0.001</td><td>7.1±2.3, P=0.003</td></tr><tr><td>Nighttime</td><td>-2.3±14.9, P=0.29</td><td>-6.7±15.9, P=0.003</td><td>4.7±2.8, P=0.098</td></tr><tr><td>Diastolic blood pressure</td><td></td><td></td><td></td></tr><tr><td>24-h</td><td>-1.1±6.8, P=0.24</td><td>-4.2±9.3, P=0.002</td><td>3.6±1.3, P=0.006</td></tr><tr><td>Daytime</td><td>-1.3±6.6, P=0.16</td><td>-4.6±9.2, P&lt;0.001</td><td>3.9±1.3, P=0.003</td></tr><tr><td>Nighttime</td><td>-1.5±9.1, P=0.26</td><td>-2.9±10.7, P=0.051</td><td>2.3±1.6, P=0.16</td></tr></table>
+
+# table 3
+
+table_caption: "Table 3. Change in Psychological Variables From Baseline to Outcome"
+
+table_footnote: "HADS indicates Hospital Anxiety and Depression Scale; ASI, Anxiety Sensitivity Index; BP, blood pressure."
+
+table_body:
+<table><tr><td>Variable, Mean±SD</td><td>Control Group</td><td>Within-Group Effect Over Time</td><td>Self-Care Support Group</td><td>Within-Group Effect Over Time</td><td>Between-Group Comparisons</td></tr><tr><td>HADS, anxiety</td><td>(n=48)</td><td></td><td>(n=51)</td><td></td><td></td></tr><tr><td>Baseline</td><td>6.6±4.69</td><td>t(47) = 0.33, P=0.74</td><td>6.0±3.27</td><td>t(50) = -0.33, P=0.75</td><td>F(1, 96) = 0.09, P=0.76</td></tr><tr><td>12-mo</td><td>6.4±4.90</td><td></td><td>6.1±3.77</td><td></td><td></td></tr><tr><td>HADS, depression</td><td>(n=48)</td><td></td><td>(n=51)</td><td></td><td></td></tr><tr><td>Baseline</td><td>4.7±4.23</td><td>t(47) = 0.61, P=0.55</td><td>4.1±3.76</td><td>t(50) = -2.54, P=0.014</td><td>F(1, 96) = 4.76, P=0.032</td></tr><tr><td>12-mo</td><td>4.5±4.43</td><td></td><td>5.2±4.30</td><td></td><td></td></tr><tr><td>ASI, anxiety</td><td>(n=47)</td><td></td><td>(n=49)</td><td></td><td></td></tr><tr><td>Baseline</td><td>26.0±14.89</td><td>t(46) = 2.22, P=0.032</td><td>22.4±11.47</td><td>t(48) = 0.59, P=0.56</td><td>F(1, 93) = 0.41, P=0.52</td></tr><tr><td>12-mo</td><td>23.0±14.55</td><td></td><td>21.6±11.25</td><td></td><td></td></tr><tr><td>Comfort with BP self-monitoring</td><td>(n=47)</td><td></td><td>(n=47)</td><td></td><td></td></tr><tr><td>Baseline</td><td>49.6±13.00</td><td>t(46) = 4.01, P&lt;0.001</td><td>50.7±10.28</td><td>t(46) = 3.66, P=0.001</td><td>F(1, 91) = 0.81, P=0.37</td></tr><tr><td>12-mo</td><td>40.8±18.63</td><td></td><td>44.3±15.85</td><td></td><td></td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# Methods
+## Study Design
+
+The study was a prospective, randomized, open, blinded primary end-point trial, conducted in the offices or clinics of physicians practicing in metropolitan Toronto. Men and women, 30 years of age, with diabetes mellitus were recruited from family physicians’ office or hospital-based speciality clinics and advertisements in public areas of hospitals. All of the potential participants underwent 24-hour ambulatory BP monitoring using the validated oscillometric SpaceLabs 90207 recorders (SpaceLabs Healthcare, Inc, Issaquah, WA). The recorders were programmed to measure BP at 20-minute intervals during the day and every 30 minutes at night. Participants were instructed to record the time they went to sleep at night and awoke in the morning. Individuals fulfilling the study’s eligibility criteria were randomly allocated to home BP monitoring with or without self-care support. Group allocation schedule was based on blocks of 4 and 6 patients randomly arranged and administered by a person not directly involved in the study. Research ethics board of the 5 participating hospitals approved the study protocol by June 2008, and all of the participants gave written informed consent. The trial was completed in June 2010.
+
+## Study Subjects
+
+Diabetic patients with uncontrolled systolic hypertension, defined as a mean daytime systolic BP of 130 mm Hg on ambulatory BP monitoring, were eligible unless they had severe or end-stage organ disease (liver, kidney, heart, and lung), a history of diabetic ketoacidosis, any illness with expected survival 1 year, severe cognitive impairment, mental illness or disability, clinically significant cardiac arrhythmia, symptomatic orthostatic hypotension, or were pregnant, unsuitable for participation in the opinion of their primary care physician, or not fluent in English. Subjects were not required to be familiar with computers or have access to the Internet. All of the eligible subjects were asked to monitor their BP at home daily for 7 days, taking 2 readings in the morning and 2 readings in the evening using a validated Bluetooth-enabled home BP device (Life Source UA-767, A&D Medical, San Jose, CA). The device was paired with a smartphone that automatically transmitted every reading to a central server for processing and storage. At the end of 7 days they returned the equipment to the study staff. Control group subjects were then issued with an identical-appearing home BP device without built-in Bluetooth capability for use during the study. Each participant provided medical and demographic information, identified their primary care physician, and completed the Anxiety Sensitivity Index,15 Hospital Anxiety and Depression Scale,16 and comfort with self-measurement of BP questionnaires. The former 2 measures have previously undergone psychometric validation,15,16 and the internal reliability of the scale items of the latter measure, which was created purposely for the study, was excellent (- of 0.86 within our sample).
+
+## Telemonitoring Self-Care Support System
+
+We designed, developed, and piloted the system with no commercial support.14 The patient component consisted of a custom software application running on a BlackBerry smartphone (Research In Motion, Inc, Waterloo, Ontario, Canada) that was paired with a Bluetooth-enabled home BP monitoring device. BP readings were automatically transmitted by the smartphone to application servers, which processed the information for trends and applied decisions
+
+rules. The reporting and alerting component of the system sent a self-care message to the screen of the patients’ smartphone immediately after each reading. Messages related to the control of hypertension were based on care paths defined by running averages of transmitted readings. They instructed patients whose BP fell outside the target range (predefined low and high values) to take additional BP readings, which were then used to provide advice on the urgency to make a follow-up visit with their physician. The message to patients whose BP was within the target range indicated that their hypertension was under control and that they should continue to monitor their BP as recommended. Nonadherence to the preset home BP measurement schedule triggered an automated voice message that was sent to the patients’ home telephone, requesting them to check the smartphone for a message. Critical alerts were automatically sent to their physician’s office by fax whenever BP readings exceeded predetermined threshold values. Simultaneously an automated voice message was left on the patients’ home telephone advising them to check their smartphone for a message, which instructed them to contact their doctor immediately for advice. On the day before the office visit to their physician, patients called a dedicated telephone number to initiate the automated process to fax a 1-page patient summary report to their physician. This process could also be initiated by the physicians’ office. The summary report contained a graphic presentation of readings with dates, the current 30-day average of transmitted BP readings, the previous 30-day average, and the number of readings used to derive the averages. There were no treatment recommendations. All of the electronic transmissions were encrypted and deidentified to ensure confidentiality of the personal health information.
+
+## Study Protocol
+
+Participants in both groups were taught how to measure their BP correctly, instructed to measure their BP 2 days per week twice in the morning and twice in the evening, provided with a validated home BP monitoring device with appropriate-sized upper arm cuff, and given a booklet with detailed information on the self-measurement of BP, treatment of hypertension, and goals of therapy. Their primary care physician was given an outline of the study’s objectives and BP treatment goal, asked to provide relevant medical information, and given a copy of the 24-hour ambulatory BP monitoring report. In both groups, treatment decisions, including medication adjustments and changes in lifestyle, were made by the patients’ primary care physician.
+
+Self-care support patients were taught how to use the telemonitoring system, review past readings on their smartphone and the study-specific Web site (these activities were optional), and generate a 1-page patient summary report. They were instructed to take their smartphone to all doctor visits. The patient’s physician was shown the patient summary report, asked to indicate the low and high threshold BP values for critical alert messages (default options were provided), and taught how to change the threshold values. Optionally, they were shown how to visit the study’s password-protected Web site. The research team did not contact the subjects in either group or their physician during the course of the study.
+
+## End Points
+
+End point assessments were undertaken 1 year after randomization. The primary end point was the change in mean daytime ambulatory systolic BP. Secondary end points included changes in 7 days of home BP readings, psychological questionnaire responses, and prescribed antihypertensive medications. BP control was defined as 130/80 mm Hg on 24-hour ambulatory BP monitoring. Information on the number of hypertension-related office visits made by patients during the study year was gathered from the billing records of their physicians supplemented in cases of missing data by patient self-report. Information on the dates and number of transmitted readings, reminder messages, and alerts was ascertained from data in the application servers. Full adherence with the home BP measurement schedule (100%) in the self-care support group was defined as a minimum of 8 readings
+
+per week. No information on home BP monitoring use in the control group was collected.
+
+# Statistical Methods
+The study was designed to have a statistical power of 80% to detect a 4-mm Hg reduction in mean daytime systolic BP in the self-care support group, as compared with control group, using a 2-tailed test with an - level of 5%. In the calculation we used an SD of the difference of 7.16 mm Hg that was obtained by pooling estimates of studies that reported it on repeated ambulatory BP monitoring on 2 separate occasions. Assuming a 10% dropout rate, we estimated a total sample size of 113 patients (56 per group). To fully exploit the repeated BP measurements in the ambulatory recordings and home BP assessments, a mixed-model ANCOVA was used to assess continuous variables, using baseline BP and body mass index as continuous variables and group membership as a discrete variable. We specified random subject effects and fixed treatment effects. Linear contrasts were used to test for group differences. BP status (controlled or not controlled) was analyzed using logistic regression with baseline BP and body mass index as continuous covariates and group membership as a discrete variable. We compared the distribution of the number of medications in the 2 groups using the Wilcoxon signed-rank test. Because of violations in normality distributions, the Hospital Anxiety and Depression Scale depression scores were normalized using a square-root transformation. All of the individuals with partial or complete outcome data were included in the final analysis. Results are expressed as means and SD, median and interquartile range, or proportions, unless otherwise specified. A 2-sided P value 0.05 was considered statistically significant.
+
+# Results
+## Study Participants
+
+Of 244 diabetic patients screened for uncontrolled systolic hypertension, 110 subjects fulfilled the trial’s eligibility criteria and were randomized to the self-care support group (n55) or control group (n55). Reasons for ineligibility and failure to complete the study are outlined in the flowchart of
+
+the study population (Figure). There were 96 family physicians and 16 specialists involved in providing care to study subjects.
+
+## Baseline Characteristics
+
+The demographic and clinical characteristics of study participants at entry are listed in Tables 1 and S1 (please see the online-only Data Supplement). There were no significant differences between groups for these features apart from a borderline higher percentage of subjects with dyslipidemia in the self-care support group. There was also no difference in the mean number of antihypertensive medications per patient (Table 1) or drug classes (Table S2).
+
+## Blood Pressure
+
+At 12 months, mean daytime ambulatory systolic BP, the primary end point, decreased significantly only in the self-care support group by 9.1-15.6 mm Hg (SD; P0.0001), and the mean between-group difference was 7.1-2.3 mm Hg (SE; P0.005). There was also a significant decrease in mean daytime diastolic BP, 24-hour BP, and night-time BP from baseline in the self-care group and no significant changes in the control group (Table 2). The same results were observed using 7 days of self-measured BP at home instead of ambulatory BP monitoring as the outcome measure (Table S3). Furthermore, 51% of self-care support subjects achieved the guideline recommended target of 130/80 mmHg compared with 31% of control subjects (P0.05).
+
+## Intervention Effects
+
+There were no significant changes or between-group differences in the total number of antihypertensive medications at exit (0.15-1.19 in self-care support group and
+
+0.00-1.26 in control group) or specific drug classes (Table S4). In addition, there was no significant difference in the number of visits to family physicians or combined visits to family physicians and specialists (median number of 6 in self-care support group and 7 in control group), even when the small percentage of self-reported data was
+
+excluded (Table 5S). Information on the experience of using the self-care support system is summarized in Table S6. Of the total (critical and noncritical) alerts, 75.3% were sent because average BP readings were above preestablished threshold values (Table S7). There were 3 high and 2 low critical alerts.
+
+## Psychological Variables
+
+Psychological variables at baseline and outcome are summarized by group in Table 3. Using the self-care support system did not affect anxiety but worsened depression (P0.014), and the between-group effect on depression was significant (P0.032). Comfort with home BP monitoring decreased significantly in both groups (P0.001), with no betweengroup difference.

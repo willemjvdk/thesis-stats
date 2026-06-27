@@ -1,0 +1,50 @@
+## TABLES
+
+# table 1
+
+table_caption: ""
+
+table_footnote: []
+
+table_body:
+<table><tr><td colspan="5">TABLE. Demographics and Baseline Characteristics by Treatment Groups</td></tr><tr><td>Variable</td><td>Standard Care (n=13)</td><td>Reinforcement (n=16)</td><td>Statistic (df)</td><td>P Value</td></tr><tr><td>Age, y</td><td>52.1±9.4</td><td>49.0±12.3</td><td>t(27)=-0.74</td><td>.46</td></tr><tr><td>Years of education</td><td>13.6±2.6</td><td>13.8±2.6</td><td>t(27)=0.14</td><td>.89</td></tr><tr><td>Income</td><td>$18,770±$20,552</td><td>$18,338±$23,285</td><td>t(27)=-0.05</td><td>.96</td></tr><tr><td>Systolic blood pressure</td><td>131.1±10.1</td><td>133.2±12.5</td><td>t(27)=0.50</td><td>.62</td></tr><tr><td>Diastolic blood pressure</td><td>84.4±7.7</td><td>83.2±8.0</td><td>t(27)=-0.40</td><td>.70</td></tr><tr><td>Past month adherence</td><td>80.2%±21.5%</td><td>72.3%±19.7%</td><td>t(27)=-1.02</td><td>.32</td></tr><tr><td>Past month on-time adherence</td><td>64.5%±27.2%</td><td>60.5%±26.3%</td><td>t(27)=-0.40</td><td>.69</td></tr><tr><td>Female, % (No.)</td><td>53.8 (7)</td><td>56.3 (9)</td><td>x²(1)=0.02</td><td>.90</td></tr><tr><td>Race/ethnicity, % (No.)</td><td></td><td></td><td></td><td></td></tr><tr><td>Hispanic American</td><td>7.7 (1)</td><td>12.5 (2)</td><td>x²(4)=2.22</td><td>.70</td></tr><tr><td>African American</td><td>46.2 (6)</td><td>43.8 (7)</td><td></td><td></td></tr><tr><td>European American</td><td>46.2 (6)</td><td>31.3 (5)</td><td></td><td></td></tr><tr><td>Native American</td><td>0.0 (0)</td><td>6.3 (1)</td><td></td><td></td></tr><tr><td>More than one race</td><td>0.0 (0)</td><td>6.3 (1)</td><td></td><td></td></tr><tr><td>Other medical conditions, % (No.)</td><td></td><td></td><td></td><td></td></tr><tr><td>Arthritis</td><td>38.5 (5)</td><td>18.8 (3)</td><td>x²(1)=1.40</td><td>.24</td></tr><tr><td>Asthma</td><td>7.7 (1)</td><td>18.8 (3)</td><td>x²(1)=0.74</td><td>.39</td></tr><tr><td>Diabetes</td><td>23.1 (3)</td><td>18.8 (3)</td><td>x²(1)=0.08</td><td>.78</td></tr><tr><td colspan="5">Values are expressed as means±standard deviations unless otherwise indicated.</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# METHODS
+Participants were recruited from advertisements and primary care referrals. Inclusion criteria were age 18 years and older; prescribed antihypertensive medication for ≥3 months and not anticipating changes in doses or medications; self-reported missing doses in past month; and systolic BP ≥120 mm Hg or diastolic ≥80 mm Hg. Exclusion criteria were uncontrolled psychiatric disorders, significant cognitive impairment, or non–English-speaking.
+
+Individuals who appeared to meet criteria were invited to an evaluation, and informed consent was obtained, as approved by the university’s institutional review board. Participants brought in pill bottles to the
+
+baseline and all subsequent study visits. Pill counts were reconciled with refill histories to determine percentage taken between evaluations.11 The Morisky Medication Adherence Scale12 was administered as a secondary adherence measure at all visits, and BP was measured using a semiautomatic digital device (Omron, Lake Forest, IL). Seated BP was taken in the nondominant arm at least twice, 3 minutes apart, until consecutive readings were within 5 mm Hg; the last two readings were averaged. All participants (regardless of treatment assignment) received $25 for completing the baseline, month 1, and month 2 evaluations, and $50 for the month 3 (post-treatment) and month 6 (follow-up) evaluations ($175 total). Completion rates exceeded 98% for each of the four post-baseline evaluations (Figure 1).
+
+A computerized program randomly assigned participants to one of two conditions.
+
+Standard care participants (n=13) were instructed to see their physician as usual. Additionally, research assistants conducted a 30-minute session on improving medication adherence using a structured handout.
+
+Patients in the standard care+reinforcement group received the care above, including the 30-minute adherence session. They were also provided LGPrime GoPhones (AT&T Inc, Dallas, TX). Research assistants taught participants to press the record button, display bottle(s) and pill(s) to the phone’s camera, place pill(s) into mouth, swallow, open mouth, press stop, and send the recording. The process took about 3 minutes. Once comfortable practicing (30–60 minutes), participants were instructed to record taking medication(s). Two individuals could not operate phones (eg, illiterate) and were withdrawn from the study (leaving 16 participants).
+
+For 12 weeks, participants earned $0.50 each time they recorded medication ingestion within their dosing window ( 2 hours). For each full day of adherence, they earned bonuses, starting at $1 and increasing by $0.50/d for consecutive days, up to a maximum of $5/d. A missed or late recording reset bonuses to $1. Participants on once-daily schedules could earn up to $5.50/d and $444 total ($6/d and $468 total for twicedaily). Most participants (83.8%) were taking one pill per day.
+
+Personnel reviewed and validated recordings at least daily on workdays. For blurry recordings, personnel phoned participants to encourage improved recordings. Occasional problems did not reset earnings, but repeated problems did. Once validated, research assistants sent messages with earnings, eg, “Great job! You earned $___ for taking your med on time today, and $_ __ to date. You can earn up to $__ for taking meds tomorrow.” Messages were sent within 30 minutes of receiving videos on days 1 to 7 and once daily thereafter.
+
+During week 1, a research assistant phoned participants to remind them of dosing windows and reinforce-
+
+ment possibilities, if a video had not been received within an hour of their dosing time. No reminders were sent thereafter.
+
+Beyond the reinforcers, other costs associated with the intervention included 30 minutes of personnel time to review medication adherence (both groups), plus an average of 45 minutes of personnel time to train these participants on how to record and send videos of medication adherence. Personnel spent an average of about 2 hours in week 1 communicating with participants regarding videos, and thereafter <10 minutes per day reviewing videos and sending reinforcement texts (total personnel time is estimated at 15 hours per participant over 12 weeks, or $300 in personnel salary to provide this intervention to each participant). Phones incurred a $40/mo charge for usage ($120 over 12 weeks).
+
+## Data Analyses
+
+Pill counts were the primary adherence measure. Repeated-measures analysis of variance evaluated group effects during treatment (months 1, 2, and 3) and through month 6 for follow-up. For missing data during treatment, data from most proximal evaluations were averaged; missing 6-month data were dropped from follow-up analyses. Self-reported proportions of doses from the past month were compared with baseline throughout treatment and follow-up, examining time and time-by-group interaction effects. Similar analyses evaluated changes in BP. Cohen’s d effect sizes were calculated for change from baseline during treatment and at follow-up.
+
+# RESULTS
+Participants, on average, were aged 50.4 11.0 years, 55.2% were women, and members of racial/ethnic minority groups comprised 62.1% of the sample. Although the sample size precludes detection of all but large between-group differences, groups had similar baseline characteristics (Table). Pill counts in the month before study participation could not be calculated at baseline, but self-reported adherence did not differ between groups (P=.32).
+
+Participants in the reinforcement condition sent in 99.3% 1.6% of expected videos, and 97.8% 2.7% were recorded on time ( 2 hours). Seven participants received ≥1 reminder in week 1 only. Of >1300 videos received, just nine (<0.7%) were of poor quality (blurry, could not see inside mouth to confirm swallowing of pill), and only two reset bonuses because of recurrent issues. On average, participants earned $408 $43 during the 12-week reinforcement period.
+
+Pill count adherence is shown in Figure 2 (top). Pill count adherence was higher in the reinforcement condition during treatment ( F _ { 1 , 2 5 } { = } 1 1 . 5 7, P<.002) and follow-up ( \breve { F } _ { 1 , 2 0 } { = } 1 5 . 3 6, P<.001) with effect sizes d=0.94 and 1.08, respectively, reflecting that >82% of control participants adhered below the average of participants in the reinforcement group.
+
+Correlations between past-month pill counts and selfreported adherence ranged from r=0.63 to 0.73 (P<.001), and Figure 2 (middle) shows proportions of self-reported doses monthly. Relative to baseline, selfreported adherence increased during treatment ( \stackrel { \cdot } { F _ { 1 , 2 7 } } = 2 3 . 5 7 ;, P<.001) and follow-up ( F _ { 1 , 2 6 } { = } 1 9 . 9 0 , P { < } . 0 0 1 )in the sample as a whole. The time-by-group effect was significant throughout treatment ( F _ { 1 , 2 7 } { = } 1 1 . 3 1, P<.01) and follow-up ( F _ { 1 , 2 6 } { = } 9 . 9 7 ,P<.01), with a very large effect size (d=1.12) during treatment and small-to-medium at follow-up (d=0.37). These effect sizes indicate that >86% of controls adhered less than the average of reinforcement participants during treatment and >66% at follow-up.
+
+Relative to baseline, reductions in BP occurred during treatment (Figure 2, bottom panel), ( F _ { 1 , 2 7 } { = } 9 . 9 7 _ { : }, P<.01) and follow-up ( F _ { 1 , 2 5 } { = } 7 . 0 8 _ { \div }P { < } . 0 1 )in the sample as a whole with no significant differences between groups ( F _ { 1 , 2 7 } { = } 0 . 5 0 _ { : }, P=.48 and F _ { 1 , 2 5 } { = } 2 . 1 6 _ { \colon }, P=.15, respectively). Effect sizes were d { = } 0 . 2 9and d=0.66, reflecting a mean reduction from baseline of 8.1 10.0 mm Hg during treatment and throughout follow-up in reinforced participants vs a mean decrease relative to baseline of 5.1 11.1 mm Hg during treatment and 1.8 10.6 mm Hg at follow-up in control participants.

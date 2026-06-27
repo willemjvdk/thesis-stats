@@ -1,0 +1,17 @@
+# Analysis
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+jupyter>=1.0
+jupyterlab>=4.0
+pyyaml
+
+# Extraction
+openai>=1.0
+python-dotenv>=1.0
+
+# Testing
+pytest>=9.0
+pytest-cov>=6.0

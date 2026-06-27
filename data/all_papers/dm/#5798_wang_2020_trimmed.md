@@ -1,0 +1,66 @@
+## TABLES
+
+# table 1
+
+table_caption: "TA B L E 1   Comparison of socio-demographic and clinical characteristics of the participants"
+
+table_footnote: []
+
+table_body:
+<table><tr><td>Demographic and clinical variables</td><td>Control (N = 20)</td><td>Intervention (N = 20)</td><td>p</td></tr><tr><td>Gender, male n (%)</td><td>13 (65.0%)</td><td>11 (55.0%)</td><td>0.519a</td></tr><tr><td>Age (years)</td><td></td><td></td><td></td></tr><tr><td>21-50</td><td>6 (30.0%)</td><td>8 (40.0%)</td><td>0.507a</td></tr><tr><td>&gt;50</td><td>14 (70.0%)</td><td>12 (60.2%)</td><td></td></tr><tr><td>Marital status</td><td></td><td></td><td></td></tr><tr><td>Married</td><td>14 (70.0%)</td><td>14 (70.0%)</td><td>1.000a</td></tr><tr><td>Unmarried/widowed/divorced</td><td>6 (30.0%)</td><td>6 (30.0%)</td><td></td></tr><tr><td>Education level</td><td></td><td></td><td></td></tr><tr><td>No formal education/primary school</td><td>6 (30.0%)</td><td>1 (5.0%)</td><td>0.080b</td></tr><tr><td>Secondary school</td><td>6 (30.0%)</td><td>11 (55.0%)</td><td></td></tr><tr><td>ITE/polytechnic/junior college/university</td><td>8 (40.0%)</td><td>8 (40.0%)</td><td></td></tr><tr><td>Employment status</td><td></td><td></td><td></td></tr><tr><td>Part-time/full time</td><td>16 (80.0%)</td><td>14 (70.0%)</td><td>0.465b</td></tr><tr><td>Not working/retired</td><td>4 (20.0%)</td><td>6 (30.0%)</td><td></td></tr><tr><td>Race</td><td></td><td></td><td></td></tr><tr><td>Chinese</td><td>9 (45.0%)</td><td>7 (35.0%)</td><td>0.925b</td></tr><tr><td>Indian</td><td>2 (10.0%)</td><td>2 (10.0%)</td><td></td></tr><tr><td>Malay</td><td>8 (40.0%)</td><td>10 (50.0%)</td><td></td></tr><tr><td>Others</td><td>1 (5.0%)</td><td>1 (5.0%)</td><td></td></tr><tr><td>Type of housing</td><td></td><td></td><td></td></tr><tr><td>1-3 Room HDB flat</td><td>6 (30.0%)</td><td>7 (35.0%)</td><td>0.380b</td></tr><tr><td>4-5 Room HDB flat</td><td>12 (60.0%)</td><td>12 (60.0%)</td><td></td></tr><tr><td>HDB executive maisonette</td><td>0 (0.0%)</td><td>1 (5.0%)</td><td></td></tr><tr><td>Condominium/landed property</td><td>2 (10.0%)</td><td>0 (0.0%)</td><td></td></tr><tr><td>Living status</td><td></td><td></td><td></td></tr><tr><td>With family</td><td>18 (90.0%)</td><td>19 (95.0%)</td><td>0.548b</td></tr><tr><td>With friends/alone</td><td>2 (10.0%)</td><td>1 (5.0%)</td><td></td></tr><tr><td>Ex-smoker</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>4 (20.0%)</td><td>6 (30.0%)</td><td>0.465b</td></tr><tr><td>No</td><td>16 (80.0%)</td><td>14 (70.0%)</td><td></td></tr><tr><td>Current smoker</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2 (10.0%)</td><td>6 (30.0%)</td><td>0.114b</td></tr><tr><td>No</td><td>18 (90.0%)</td><td>14 (70.0%)</td><td></td></tr><tr><td>Comorbidities</td><td></td><td></td><td></td></tr><tr><td>Hypertension</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>11 (55.0%)</td><td>10 (50.0%)</td><td>0.752a</td></tr><tr><td>No</td><td>9 (45.0%)</td><td>10 (50.0%)</td><td></td></tr><tr><td>Hyperlipidermia</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>12 (60.0%)</td><td>11 (55.0%)</td><td>0.749a</td></tr><tr><td>No</td><td>8 (40.0%)</td><td>9 (45.0%)</td><td></td></tr><tr><td>Heart disease</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>5 (25.0%)</td><td>1 (5.0%)</td><td>0.077b</td></tr><tr><td>No</td><td>15 (75.0%)</td><td>19 (95.0%)</td><td></td></tr><tr><td>History of hospitalization due to diabetes complications</td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>2 (10.0%)</td><td>2 (10.0%)</td><td>1.000b</td></tr><tr><td>No</td><td>18 (90.0%)</td><td>18 (90.0%)</td><td></td></tr></table>
+
+# table 2
+
+table_caption: "TA B L E 1   (Continued)"
+
+table_footnote: "Abbreviations: ITE: Institute of Technology Education. a Chi-squared test. b Fisher's exact test. c Independent t test."
+
+table_body:
+<table><tr><td>Demographic and clinical variables</td><td>Control (N = 20)</td><td>Intervention (N = 20)</td><td>ρ</td></tr><tr><td>Length of diagnosis of diabetes (years)</td><td>10.86 (SD = 9.50)</td><td>11.07 (SD = 8.68)</td><td>0.943c</td></tr></table>
+
+# table 3
+
+table_caption: "TA B L E 2   Comparison of study outcomes for the baseline and postintervention between two groups"
+
+table_footnote: "Abbreviations: GSE, General Self-Efficacy; SDSCA, Diabetes Self-care Activities; DDQoL, Diabetes-Dependent Quality of Life; HbA1c, Glycated haemoglobin. a Fisher's exact test."
+
+table_body:
+<table><tr><td rowspan="2">Study outcomes</td><td colspan="4">Baseline</td><td colspan="4">Postintervention (3rd mth)</td></tr><tr><td>Control (N = 20), mean (SD)</td><td>Intervention (N = 20), mean (SD)</td><td>t/χ²</td><td>ρ</td><td>Control (N = 20), mean (SD)</td><td>Intervention (N = 20), mean (SD)</td><td>t/χ²</td><td>ρ</td></tr><tr><td>GSE</td><td>3.06 (0.70)</td><td>2.66 (0.56)</td><td>2.09</td><td>0.04</td><td>3.06 (0.58)</td><td>2.89 (0.54)</td><td>0.96</td><td>0.34</td></tr><tr><td>SDSCA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>General diet</td><td>1.07 (0.51)</td><td>0.89 (0.59)</td><td>1.08</td><td>0.29</td><td>1.26 (0.50)</td><td>1.05 (0.49)</td><td>1.37</td><td>0.18</td></tr><tr><td>Specific diet</td><td>1.14 (0.48)</td><td>1.12 (0.43)</td><td>0.15</td><td>0.88</td><td>1.086 (0.52)</td><td>1.18 (0.38)</td><td>-0.64</td><td>0.52</td></tr><tr><td>Exercise</td><td>0.79 (0.49)</td><td>0.54 (0.42)</td><td>1.67</td><td>0.10</td><td>1.1000 (0.57)</td><td>0.81 (0.47)</td><td>2.37</td><td>0.06</td></tr><tr><td>Blood glucose testing</td><td>0.37 (0.66)</td><td>0.52 (0.70)</td><td>-0.70</td><td>0.49</td><td>0.73 (0.69)</td><td>0.88 (0.68)</td><td>-0.69</td><td>0.49</td></tr><tr><td>Foot care</td><td>0.77 (0.78)</td><td>0.66 (0.74)</td><td>0.45</td><td>0.66</td><td>0.96 (0.65)</td><td>1.01 (0.78)</td><td>-0.19</td><td>0.85</td></tr><tr><td>Smoking status</td><td>1 (5.0%)</td><td>3 (15.0%)</td><td>1.11a</td><td>0.29a</td><td>2 (10.0%)</td><td>3 (15.0%)</td><td>0.23a</td><td>0.63a</td></tr><tr><td>DDQoL</td><td>-4.13 (2.69)</td><td>-4.48 (2.40)</td><td>0.35</td><td>0.73</td><td>-3.71 (2.80)</td><td>-4.20 (1.98)</td><td>0.48</td><td>0.64</td></tr><tr><td>HbA1c</td><td>9.69 (1.90)</td><td>9.81 (2.05)</td><td>-0.20</td><td>0.84</td><td>9.03 (1.58)</td><td>8.34 (1.36)</td><td>1.46</td><td>0.15</td></tr></table>
+
+## EXTRACTED SECTIONS
+
+# 3 | RESULTS
+## 3.1 | Conceptualization of the NSSMP
+
+The conceptual framework of Bandura's self-efficacy theory included the four sources of acquisition of new information: enactive attainment, verbal persuasion, physiological feedback, and vicarious experience. As illustrated in Figure 1, the theoretical framework guided the design of the NSSMP. Enactive attainment was achieved through daily recording of dietary, medication, and blood glucose levels by the patient. Barriers to regular physical exercise patterns identified from the literature, such as work commitments or forgetfulness, were addressed through the individualized scheduled reminders. These repeated self-monitoring and recording of their
+
+medical condition and dietary choices are aimed at improving patients' confidence and mastery in their self-care activities and skills with actual practice over time. Strategies for verbal persuasion and physiological feedback were implemented through teleconferences from the RN. Based on the assessment of the patient's health, counselling and physiological feedback were provided to the patients through the scheduled teleconferences by the RN to assure and motivate them to master the given self-care activity. The personalized feedback and counselling with the RN addressed the barriers that DM patients face in experiencing ineffective communication with healthcare providers. Vicarious experience was realized by having a patient perform role modelling from the video in performing selfcare activities, including a blood glucose test, foot care, and other stress management techniques, such as deep breathing and progressive muscle relaxation.
+
+## 3.2 | Description of the NSSMP
+
+The NSSMP is a 6-month intervention that assists patients in managing their disease in any location. This programme consists of a single face-to-face training session conducted by the RN and a newly developed smartphone app (i.e., Care4Diabetes App) as a self-help education resource. A team of software engineers developed the Care4Diabetes App and web-portal that were used by the patients and nurses, respectively. Figures 2 and 3 present sample screen shots of the App and web-portal.
+
+The Care4Diabetes App consists of the following functions: education sessions, visual education material, dietary logs, medication logs, blood glucose record, individualized scheduled reminders, and chat function with the RN (Figure 2). Patients used their personal smartphones to monitor their health data. All the data were able to synchronize to a web-connected portal on a remote server, which allows the RN to access the patient's data, such as blood glucose level, body weight, blood pressure, and diet. This would then enable personalized care and consultation to be carried out through the scheduled teleconference after the RN's review. Patients were also able to send their queries at their convenience through the chat box to the RN, as shown in Figure 3.
+
+The content and scope of the Care4Diabetes App were guided based on the perceived needs and barriers of older Singaporeans associated with DM self-care management from the literature (Tan et al., 2018) and the existing type 2 diabetes educational materials. The reading topics included: (a) understanding diabetes; (b) managing diabetes; (c) making lifestyle changes; and (d) managing diabetes in special situations. Participants in the intervention group were to read through the education topics in the app anytime during the period of the intervention and to record their blood glucose level for at least 2 days/week and 4 times each day before and after their meals. They were required to record the medications taken each time in the App.
+
+The face-to-face training session took approximately 1 hr: 30 min to introduce essential functions and topics in the app and
+
+proper insulin injection technique and 15 min for installing and demonstrating on the use of the app. The last 15 min was to allow discussion and setting of goals with the participants to accomplish during the 6-month NSSMP programme. In addition, the participants were informed that technical phone support was available during the trial.
+
+## 3.3 | Content validity and feedback
+
+The three content experts and two patients generally agreed that the information provided for each education topic was appropriate, except for one patient who recommended emphasizing the importance of recording blood glucose levels, diet, and medication to
+
+assist the doctors and diabetic care team in charge of the patient to adjust their medicine accordingly. However, the recording of this information has been included in the requirements of the study and would be explained by the RN and agreed by the participant at the point of giving their consent to participate in the study. All agreed that the communication of the information in each topic was easy to comprehend. Additionally, both the content experts and patients commented that video clips were helpful for patients to improve their knowledge and skills on diabetes management (e.g., food care, insulin injection, and blood glucose testing).
+
+Patients shared that the Care4Diabetes app was easy to use, particularly in updating their records in blood glucose, diet, and medication. The content experts also agreed with this and suggested including other types of oral insulin medication for input as only certain types of insulin were available in the app. Two of the three patients felt that the features and design of the app were appropriate, while one patient experienced difficulty in viewing his input for the day, especially the blood glucose readings, due to system lag. Based on the feedback obtained from the content experts and patients,
+
+minor changes were made, including making the wordy content more succinct and addressing the system errors of the smartphone application when viewing blood glucose data.
+
+# 3.4 | Results from pilot testing
+In total, 40 patients participated in the pilot study and their mean age was 52.45 (SD 10.63) with 26 (60%) of them being older than 50 years of age. The length of diagnosis of diabetes was 10.86 (SD 9.50) years for the patients in the control group and 11.07 (SD 8.68) years for those in the intervention group. Table 1 presents the comparison of clinical and sociodemographic characteristics between the intervention (i.e., NSSMP) and the control (NDS) groups. No significant differences in clinical and sociodemographic characteristics between the two groups were observed based on Fisher's exact test/ independent t test. Table 2 shows the comparison of the study outcomes including GSE, SDSCA, ADDQoL, and HbA1c at baseline and at 3 months after the intervention between the two
+
+(Continues)
+
+groups. No statistically significant differences in these study outcomes were observed between the two groups based on the independent t test/Fisher's exact test.
